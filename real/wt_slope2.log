@@ -4,3 +4,20 @@ lex-v6   tokens 36,397,694  1.021x
   L6 seed 0 bpe      best bits/char 1.5547 @ step 9000
   L6 seed 0 lex-v6   best bits/char 1.5017 @ step 9000
   L6 seed 1 bpe      best bits/char 1.5581 @ step 9000
+  L6 seed 1 lex-v6   best bits/char 1.5000 @ step 9000
+  L8 seed 0 bpe      best bits/char 1.4885 @ step 9000
+  L8 seed 0 lex-v6   best bits/char 1.4267 @ step 9000
+  L8 seed 1 bpe      best bits/char 1.4900 @ step 9000
+  L8 seed 1 lex-v6   best bits/char 1.4391 @ step 9000
+
+======================================================================
+trunk     params      bpe    lex-v6    delta
+L6        10.65M   1.5564    1.5009  -0.0555
+L8        25.22M   1.4893    1.4329  -0.0563
+
+bpe slope: 0.0671 bits/char for 2.37x params => 0.0540 bits per DOUBLING of trunk params
+  (old, <unk>-contaminated slope was 0.0602)
+  L6: gain 0.0555 = 2.04x params, token cost 1.021x  => compute-equivalent 2.00x
+  L8: gain 0.0563 = 2.06x params, token cost 1.021x  => compute-equivalent 2.02x
+
+lex-v6 at L6 (10.6M) vs bpe at L8 (25.2M): 1.5009 vs 1.4893

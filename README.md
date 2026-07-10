@@ -38,6 +38,19 @@ on the embedding matrix, not a runtime component.
 **Seven inflectional operators do all the work.** Plural, gerund, 3sg, participle, past,
 comparative, superlative.
 
+**Compute-equivalence: 2.0x**, measured with the baseline slope and the gain under the same
+protocol (byte fallback, warmup + constant LR, each arm's own best held-out checkpoint):
+
+| trunk | params | bpe | lex-v6 | delta |
+|---|---|---|---|---|
+| L6 | 10.65M | 1.5564 | 1.5009 | −0.0555 |
+| L8 | 25.22M | 1.4893 | 1.4329 | −0.0563 |
+
+bpe's own curve gives 0.0540 bits/char per doubling of trunk params, so a 0.0555 gain is
+worth 2.04x the parameters, bought for 1.021x the tokens. **The advantage is flat across
+trunk size** (L6 and L8 agree to 0.0008) — it does not grow with scale, contrary to what
+earlier, protocol-confounded runs suggested.
+
 ## What does not hold
 
 **Derivation contributes nothing.** Not as operator tokens, not as affine maps, not with
@@ -62,9 +75,22 @@ of a masked LM's representations. A next-token predictor wants something else.
 - **The advantage depends on the learning-rate schedule.** `lex-v6 − bpe` is −0.131 under
   OneCycleLR-scored-at-the-end and −0.075 under warmup+constant-LR-best-checkpoint, same
   tokenizer, same data, same steps. Any conversion of bits into "equivalent parameter
-  count" therefore reports the optimizer as much as the tokenizer. **No compute-equivalence
-  number in this repo should be quoted until the slope and the gain are measured under one
-  protocol.**
+  count" therefore reports the optimizer as much as the tokenizer. The 2.0x figure above is
+  measured with both sides under one protocol. **The `affine` numbers below are still under
+  the older schedule and are not directly comparable to it** (rerun in flight).
+- **The affine gain decomposes into two opposing effects.** Since
+  `affine − free = (affine − shufroot) + (shufroot − free)`, and shufroot is the same
+  rank-constrained table pointing at random roots:
+
+  | | morphology | low-rank regularization | total |
+  |---|---|---|---|
+  | 10k | −0.0071 | −0.0037 | −0.0108 |
+  | 40k | −0.0187 | +0.0077 | −0.0109 |
+
+  Identical totals for opposite reasons. Regularization helps when data is scarce and hurts
+  when it is not; morphology's contribution *grows* with data, which is the reverse of the
+  sample-efficiency story. Sharing only pays if the shared parameter is well estimated: at
+  10k, `E_walk` is noisy and forcing `walked` to inherit from it propagates the noise.
 - Data-efficiency (advantage grows as the corpus shrinks: −0.075 → −0.082 → −0.132 over a
   16x range) is measured at only one rung where early stopping actually triggered. It may
   be **overfitting resistance** rather than sample efficiency. These are different

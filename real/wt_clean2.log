@@ -1,0 +1,25 @@
+'[Errno 101] Network is unreachable' thrown while requesting HEAD https://huggingface.co/datasets/Salesforce/wikitext/resolve/b08601e04326c79dfdd32d625aee71d232d685c3/wikitext.py
+Retrying in 1s [Retry 1/5].
+Using the latest cached version of the dataset since Salesforce/wikitext couldn't be found on the Hugging Face Hub
+Found the latest cached dataset configuration 'wikitext-103-raw-v1' at /home/remy/.cache/huggingface/datasets/Salesforce___wikitext/wikitext-103-raw-v1/0.0.0/b08601e04326c79dfdd32d625aee71d232d685c3 (last modified on Wed Jul  8 19:17:23 2026).
+
+--- 10,000 paragraphs ---
+  bpe      vocab  16001  tokens   2,034,525  1.000x
+  lex-v6   vocab  16001  tokens   2,129,376  1.047x
+  lex-v3   vocab  16001  tokens   2,179,821  1.071x
+  seed 0 bpe      best bits/char 1.9562 @ step 5500
+  seed 0 lex-v6   best bits/char 1.8377 @ step 4500
+  seed 0 lex-v3   best bits/char 1.8283 @ step 5250
+  seed 1 bpe      best bits/char 1.9549 @ step 4250
+  seed 1 lex-v6   best bits/char 1.8095 @ step 4750
+  seed 1 lex-v3   best bits/char 1.8265 @ step 4750
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+--- 40,000 paragraphs ---
+  bpe      vocab  16001  tokens   8,664,225  1.000x
+  lex-v6   vocab  16001  tokens   8,898,190  1.027x
+  lex-v3   vocab  16001  tokens   9,014,663  1.040x
+  seed 0 bpe      best bits/char 1.5306 @ step 12000
+  seed 0 lex-v6   best bits/char 1.4903 @ step 12000
+  seed 0 lex-v3   best bits/char 1.5003 @ step 11750
+  seed 1 bpe      best bits/char 1.5420 @ step 12000

@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/remy/Code/lexicon/lexicon/wt_best.py", line 93, in <module>
+    main()
+  File "/home/remy/Code/lexicon/lexicon/wt_best.py", line 51, in main
+    R, S, nR = tok.factorise()
+    ^^^^^^^^
+ValueError: too many values to unpack (expected 3)
