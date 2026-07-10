@@ -1,0 +1,55 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+leak check: held-out forms found in a training sample: 0
+  held-out forms present as BARE LEXEME tokens (would be a leak): []
+  held-out forms composable from seen tokens: 14/15
+  e.g. mice -> ['<op:noun.plural>', '<lex:mouse>', '</op>']
+
+  [word] 11,962,982 training tokens, vocab 12002
+    step     0  loss 253.164
+    step   500  loss 5.387
+    step  1000  loss 4.597
+    step  1500  loss 4.091
+    step  2000  loss 3.982
+    step  2500  loss 3.802
+    step  3000  loss 3.670
+    step  3500  loss 3.562
+  [word] done, 15.5M params
+  [word] bits/char 1.204 | held-out form acc 0.003 mrr 0.043 nll 8.57 (n=300)
+
+[transformers] Token indices sequence length is longer than the specified maximum sequence length for this model (1106 > 1024). Running this sequence through the model will result in indexing errors
+  [bpe] 12,311,565 training tokens, vocab 9822
+    step     0  loss 256.315
+    step   500  loss 5.584
+    step  1000  loss 4.518
+    step  1500  loss 4.139
+    step  2000  loss 3.960
+    step  2500  loss 3.716
+    step  3000  loss 3.569
+    step  3500  loss 3.724
+  [bpe] done, 14.6M params
+  [bpe] bits/char 1.207 | held-out form acc 0.070 mrr 0.233 nll 5.27 (n=300)
+
+  [lexeme] 21,150,258 training tokens, vocab 5983
+    step     0  loss 251.633
+    step   500  loss 3.474
+    step  1000  loss 2.862
+    step  1500  loss 2.884
+    step  2000  loss 2.641
+    step  2500  loss 2.423
+    step  3000  loss 2.454
+    step  3500  loss 2.324
+  [lexeme] done, 13.1M params
+  [lexeme] bits/char 1.095 | held-out form acc 0.000 mrr 0.027 nll 13.51 (n=300)
+
+==========================================================================
+tokenizer       bits/char   held-out form acc     MRR      NLL
+--------------------------------------------------------------------------
+word                1.204               0.003   0.043     8.57
+bpe                 1.207               0.070   0.233     5.27
+lexeme              1.095               0.000   0.027    13.51
+
+chance acc = 1/41 = 0.024.  The held-out forms never appeared in training;
+only the lexeme scheme can compose them from tokens it has seen.

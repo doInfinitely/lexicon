@@ -1,0 +1,882 @@
+{
+ "translation": {
+  "I01_noun_plural_reg": {
+   "offset_explains": 0.853,
+   "direction_alignment": 0.925,
+   "n": 50
+  },
+  "I02_noun_plural_irreg": {
+   "offset_explains": 0.831,
+   "direction_alignment": 0.913,
+   "n": 48
+  },
+  "I03_adj_comparative": {
+   "offset_explains": 0.838,
+   "direction_alignment": 0.917,
+   "n": 50
+  },
+  "I04_adj_superlative": {
+   "offset_explains": 0.835,
+   "direction_alignment": 0.916,
+   "n": 50
+  },
+  "I05_verb_inf_3pSg": {
+   "offset_explains": 0.915,
+   "direction_alignment": 0.957,
+   "n": 50
+  },
+  "I06_verb_inf_Ving": {
+   "offset_explains": 0.919,
+   "direction_alignment": 0.96,
+   "n": 50
+  },
+  "I07_verb_inf_Ved": {
+   "offset_explains": 0.904,
+   "direction_alignment": 0.951,
+   "n": 50
+  },
+  "I08_verb_Ving_3pSg": {
+   "offset_explains": 0.906,
+   "direction_alignment": 0.952,
+   "n": 50
+  },
+  "I09_verb_Ving_Ved": {
+   "offset_explains": 0.908,
+   "direction_alignment": 0.953,
+   "n": 50
+  },
+  "I10_verb_3pSg_Ved": {
+   "offset_explains": 0.914,
+   "direction_alignment": 0.957,
+   "n": 50
+  },
+  "D01_noun_less_reg": {
+   "offset_explains": 0.799,
+   "direction_alignment": 0.896,
+   "n": 50
+  },
+  "D02_un_adj_reg": {
+   "offset_explains": 0.785,
+   "direction_alignment": 0.887,
+   "n": 50
+  },
+  "D03_adj_ly_reg": {
+   "offset_explains": 0.801,
+   "direction_alignment": 0.897,
+   "n": 50
+  },
+  "D04_over_adj_reg": {
+   "offset_explains": 0.815,
+   "direction_alignment": 0.904,
+   "n": 50
+  },
+  "D05_adj_ness_reg": {
+   "offset_explains": 0.83,
+   "direction_alignment": 0.912,
+   "n": 50
+  },
+  "D06_re_verb_reg": {
+   "offset_explains": 0.783,
+   "direction_alignment": 0.887,
+   "n": 50
+  },
+  "D07_verb_able_reg": {
+   "offset_explains": 0.809,
+   "direction_alignment": 0.902,
+   "n": 50
+  },
+  "D08_verb_er_irreg": {
+   "offset_explains": 0.811,
+   "direction_alignment": 0.901,
+   "n": 50
+  },
+  "D09_verb_tion_irreg": {
+   "offset_explains": 0.826,
+   "direction_alignment": 0.911,
+   "n": 50
+  },
+  "D10_verb_ment_irreg": {
+   "offset_explains": 0.813,
+   "direction_alignment": 0.908,
+   "n": 50
+  },
+  "E01_country_capital": {
+   "offset_explains": 0.863,
+   "direction_alignment": 0.93,
+   "n": 50
+  },
+  "E02_country_language": {
+   "offset_explains": 0.797,
+   "direction_alignment": 0.897,
+   "n": 50
+  },
+  "E03_UK_city_county": {
+   "offset_explains": 0.826,
+   "direction_alignment": 0.913,
+   "n": 50
+  },
+  "E04_name_nationality": {
+   "offset_explains": 0.78,
+   "direction_alignment": 0.887,
+   "n": 50
+  },
+  "E05_name_occupation": {
+   "offset_explains": 0.798,
+   "direction_alignment": 0.897,
+   "n": 50
+  },
+  "E06_animal_young": {
+   "offset_explains": 0.726,
+   "direction_alignment": 0.857,
+   "n": 50
+  },
+  "E07_animal_sound": {
+   "offset_explains": 0.79,
+   "direction_alignment": 0.892,
+   "n": 50
+  },
+  "E08_animal_shelter": {
+   "offset_explains": 0.728,
+   "direction_alignment": 0.859,
+   "n": 50
+  },
+  "E09_things_color": {
+   "offset_explains": 0.754,
+   "direction_alignment": 0.873,
+   "n": 50
+  },
+  "E10_male_female": {
+   "offset_explains": 0.804,
+   "direction_alignment": 0.903,
+   "n": 50
+  },
+  "L01_hypernyms_animals": {
+   "offset_explains": 0.73,
+   "direction_alignment": 0.856,
+   "n": 50
+  },
+  "L02_hypernyms_misc": {
+   "offset_explains": 0.752,
+   "direction_alignment": 0.869,
+   "n": 50
+  },
+  "L03_hyponyms_misc": {
+   "offset_explains": 0.743,
+   "direction_alignment": 0.862,
+   "n": 50
+  },
+  "L04_meronyms_substance": {
+   "offset_explains": 0.686,
+   "direction_alignment": 0.842,
+   "n": 50
+  },
+  "L05_meronyms_member": {
+   "offset_explains": 0.711,
+   "direction_alignment": 0.846,
+   "n": 50
+  },
+  "L06_meronyms_part": {
+   "offset_explains": 0.767,
+   "direction_alignment": 0.877,
+   "n": 50
+  },
+  "L07_synonyms_intensity": {
+   "offset_explains": 0.711,
+   "direction_alignment": 0.845,
+   "n": 50
+  },
+  "L08_synonyms_exact": {
+   "offset_explains": 0.739,
+   "direction_alignment": 0.862,
+   "n": 50
+  },
+  "L09_antonyms_gradable": {
+   "offset_explains": 0.736,
+   "direction_alignment": 0.861,
+   "n": 50
+  },
+  "L10_antonyms_binary": {
+   "offset_explains": 0.567,
+   "direction_alignment": 0.68,
+   "n": 50
+  }
+ },
+ "involution": {
+  "I01_noun_plural_reg": 0.749,
+  "I02_noun_plural_irreg": 0.728,
+  "I03_adj_comparative": 0.791,
+  "I04_adj_superlative": 0.808,
+  "I05_verb_inf_3pSg": 0.825,
+  "I06_verb_inf_Ving": 0.779,
+  "I07_verb_inf_Ved": 0.823,
+  "I08_verb_Ving_3pSg": 0.839,
+  "I09_verb_Ving_Ved": 0.833,
+  "I10_verb_3pSg_Ved": 0.82,
+  "D01_noun_less_reg": 0.752,
+  "D02_un_adj_reg": 0.805,
+  "D03_adj_ly_reg": 0.785,
+  "D04_over_adj_reg": 0.785,
+  "D05_adj_ness_reg": 0.778,
+  "D06_re_verb_reg": 0.798,
+  "D07_verb_able_reg": 0.811,
+  "D08_verb_er_irreg": 0.798,
+  "D09_verb_tion_irreg": 0.804,
+  "D10_verb_ment_irreg": 0.778,
+  "E01_country_capital": 0.764,
+  "E02_country_language": 0.778,
+  "E03_UK_city_county": 0.782,
+  "E04_name_nationality": 0.765,
+  "E05_name_occupation": 0.817,
+  "E06_animal_young": 0.79,
+  "E07_animal_sound": 0.834,
+  "E08_animal_shelter": 0.802,
+  "E09_things_color": 0.789,
+  "E10_male_female": 0.746,
+  "L01_hypernyms_animals": 0.727,
+  "L02_hypernyms_misc": 0.812,
+  "L03_hyponyms_misc": 0.79,
+  "L04_meronyms_substance": 0.792,
+  "L05_meronyms_member": 0.793,
+  "L06_meronyms_part": 0.783,
+  "L07_synonyms_intensity": 0.77,
+  "L08_synonyms_exact": 0.755,
+  "L09_antonyms_gradable": 0.795,
+  "L10_antonyms_binary": 0.786
+ },
+ "determinism": {
+  "I01_noun_plural_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I02_noun_plural_irreg": {
+   "decoded_distinct": 48,
+   "gold_distinct": 48,
+   "n_sources": 48,
+   "fan_in": 1.0
+  },
+  "I03_adj_comparative": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I04_adj_superlative": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I05_verb_inf_3pSg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I06_verb_inf_Ving": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I07_verb_inf_Ved": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I08_verb_Ving_3pSg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I09_verb_Ving_Ved": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "I10_verb_3pSg_Ved": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D01_noun_less_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D02_un_adj_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D03_adj_ly_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D04_over_adj_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D05_adj_ness_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D06_re_verb_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D07_verb_able_reg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D08_verb_er_irreg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D09_verb_tion_irreg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "D10_verb_ment_irreg": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "E01_country_capital": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "E02_country_language": {
+   "decoded_distinct": 23,
+   "gold_distinct": 23,
+   "n_sources": 50,
+   "fan_in": 2.17
+  },
+  "E03_UK_city_county": {
+   "decoded_distinct": 30,
+   "gold_distinct": 30,
+   "n_sources": 50,
+   "fan_in": 1.67
+  },
+  "E04_name_nationality": {
+   "decoded_distinct": 15,
+   "gold_distinct": 15,
+   "n_sources": 50,
+   "fan_in": 3.33
+  },
+  "E05_name_occupation": {
+   "decoded_distinct": 20,
+   "gold_distinct": 20,
+   "n_sources": 50,
+   "fan_in": 2.5
+  },
+  "E06_animal_young": {
+   "decoded_distinct": 21,
+   "gold_distinct": 21,
+   "n_sources": 50,
+   "fan_in": 2.38
+  },
+  "E07_animal_sound": {
+   "decoded_distinct": 31,
+   "gold_distinct": 31,
+   "n_sources": 50,
+   "fan_in": 1.61
+  },
+  "E08_animal_shelter": {
+   "decoded_distinct": 19,
+   "gold_distinct": 19,
+   "n_sources": 50,
+   "fan_in": 2.63
+  },
+  "E09_things_color": {
+   "decoded_distinct": 8,
+   "gold_distinct": 8,
+   "n_sources": 50,
+   "fan_in": 6.25
+  },
+  "E10_male_female": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "L01_hypernyms_animals": {
+   "decoded_distinct": 10,
+   "gold_distinct": 10,
+   "n_sources": 50,
+   "fan_in": 5.0
+  },
+  "L02_hypernyms_misc": {
+   "decoded_distinct": 32,
+   "gold_distinct": 32,
+   "n_sources": 50,
+   "fan_in": 1.56
+  },
+  "L03_hyponyms_misc": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "L04_meronyms_substance": {
+   "decoded_distinct": 35,
+   "gold_distinct": 35,
+   "n_sources": 50,
+   "fan_in": 1.43
+  },
+  "L05_meronyms_member": {
+   "decoded_distinct": 44,
+   "gold_distinct": 44,
+   "n_sources": 50,
+   "fan_in": 1.14
+  },
+  "L06_meronyms_part": {
+   "decoded_distinct": 48,
+   "gold_distinct": 48,
+   "n_sources": 50,
+   "fan_in": 1.04
+  },
+  "L07_synonyms_intensity": {
+   "decoded_distinct": 48,
+   "gold_distinct": 48,
+   "n_sources": 50,
+   "fan_in": 1.04
+  },
+  "L08_synonyms_exact": {
+   "decoded_distinct": 50,
+   "gold_distinct": 50,
+   "n_sources": 50,
+   "fan_in": 1.0
+  },
+  "L09_antonyms_gradable": {
+   "decoded_distinct": 49,
+   "gold_distinct": 49,
+   "n_sources": 50,
+   "fan_in": 1.02
+  },
+  "L10_antonyms_binary": {
+   "decoded_distinct": 44,
+   "gold_distinct": 49,
+   "n_sources": 50,
+   "fan_in": 1.02
+  }
+ },
+ "domain": {
+  "I01_noun_plural_reg": {
+   "moves_own_sources": 0.45,
+   "moves_random_words": 0.362,
+   "selectivity": 1.24
+  },
+  "I02_noun_plural_irreg": {
+   "moves_own_sources": 0.463,
+   "moves_random_words": 0.352,
+   "selectivity": 1.32
+  },
+  "I03_adj_comparative": {
+   "moves_own_sources": 0.453,
+   "moves_random_words": 0.372,
+   "selectivity": 1.22
+  },
+  "I04_adj_superlative": {
+   "moves_own_sources": 0.464,
+   "moves_random_words": 0.407,
+   "selectivity": 1.14
+  },
+  "I05_verb_inf_3pSg": {
+   "moves_own_sources": 0.432,
+   "moves_random_words": 0.32,
+   "selectivity": 1.35
+  },
+  "I06_verb_inf_Ving": {
+   "moves_own_sources": 0.468,
+   "moves_random_words": 0.338,
+   "selectivity": 1.39
+  },
+  "I07_verb_inf_Ved": {
+   "moves_own_sources": 0.464,
+   "moves_random_words": 0.377,
+   "selectivity": 1.23
+  },
+  "I08_verb_Ving_3pSg": {
+   "moves_own_sources": 0.48,
+   "moves_random_words": 0.36,
+   "selectivity": 1.33
+  },
+  "I09_verb_Ving_Ved": {
+   "moves_own_sources": 0.515,
+   "moves_random_words": 0.381,
+   "selectivity": 1.35
+  },
+  "I10_verb_3pSg_Ved": {
+   "moves_own_sources": 0.477,
+   "moves_random_words": 0.333,
+   "selectivity": 1.43
+  },
+  "D01_noun_less_reg": {
+   "moves_own_sources": 0.47,
+   "moves_random_words": 0.387,
+   "selectivity": 1.21
+  },
+  "D02_un_adj_reg": {
+   "moves_own_sources": 0.468,
+   "moves_random_words": 0.374,
+   "selectivity": 1.25
+  },
+  "D03_adj_ly_reg": {
+   "moves_own_sources": 0.457,
+   "moves_random_words": 0.395,
+   "selectivity": 1.16
+  },
+  "D04_over_adj_reg": {
+   "moves_own_sources": 0.47,
+   "moves_random_words": 0.419,
+   "selectivity": 1.12
+  },
+  "D05_adj_ness_reg": {
+   "moves_own_sources": 0.474,
+   "moves_random_words": 0.374,
+   "selectivity": 1.27
+  },
+  "D06_re_verb_reg": {
+   "moves_own_sources": 0.439,
+   "moves_random_words": 0.367,
+   "selectivity": 1.2
+  },
+  "D07_verb_able_reg": {
+   "moves_own_sources": 0.494,
+   "moves_random_words": 0.372,
+   "selectivity": 1.33
+  },
+  "D08_verb_er_irreg": {
+   "moves_own_sources": 0.498,
+   "moves_random_words": 0.37,
+   "selectivity": 1.35
+  },
+  "D09_verb_tion_irreg": {
+   "moves_own_sources": 0.465,
+   "moves_random_words": 0.297,
+   "selectivity": 1.57
+  },
+  "D10_verb_ment_irreg": {
+   "moves_own_sources": 0.476,
+   "moves_random_words": 0.31,
+   "selectivity": 1.54
+  },
+  "E01_country_capital": {
+   "moves_own_sources": 0.482,
+   "moves_random_words": 0.399,
+   "selectivity": 1.21
+  },
+  "E02_country_language": {
+   "moves_own_sources": 0.577,
+   "moves_random_words": 0.452,
+   "selectivity": 1.28
+  },
+  "E03_UK_city_county": {
+   "moves_own_sources": 0.507,
+   "moves_random_words": 0.402,
+   "selectivity": 1.26
+  },
+  "E04_name_nationality": {
+   "moves_own_sources": 0.63,
+   "moves_random_words": 0.468,
+   "selectivity": 1.35
+  },
+  "E05_name_occupation": {
+   "moves_own_sources": 0.569,
+   "moves_random_words": 0.432,
+   "selectivity": 1.32
+  },
+  "E06_animal_young": {
+   "moves_own_sources": 0.567,
+   "moves_random_words": 0.475,
+   "selectivity": 1.19
+  },
+  "E07_animal_sound": {
+   "moves_own_sources": 0.541,
+   "moves_random_words": 0.404,
+   "selectivity": 1.34
+  },
+  "E08_animal_shelter": {
+   "moves_own_sources": 0.65,
+   "moves_random_words": 0.508,
+   "selectivity": 1.28
+  },
+  "E09_things_color": {
+   "moves_own_sources": 0.641,
+   "moves_random_words": 0.527,
+   "selectivity": 1.21
+  },
+  "E10_male_female": {
+   "moves_own_sources": 0.479,
+   "moves_random_words": 0.401,
+   "selectivity": 1.2
+  },
+  "L01_hypernyms_animals": {
+   "moves_own_sources": 0.608,
+   "moves_random_words": 0.556,
+   "selectivity": 1.09
+  },
+  "L02_hypernyms_misc": {
+   "moves_own_sources": 0.489,
+   "moves_random_words": 0.441,
+   "selectivity": 1.11
+  },
+  "L03_hyponyms_misc": {
+   "moves_own_sources": 0.459,
+   "moves_random_words": 0.426,
+   "selectivity": 1.08
+  },
+  "L04_meronyms_substance": {
+   "moves_own_sources": 0.432,
+   "moves_random_words": 0.414,
+   "selectivity": 1.04
+  },
+  "L05_meronyms_member": {
+   "moves_own_sources": 0.471,
+   "moves_random_words": 0.415,
+   "selectivity": 1.13
+  },
+  "L06_meronyms_part": {
+   "moves_own_sources": 0.483,
+   "moves_random_words": 0.436,
+   "selectivity": 1.11
+  },
+  "L07_synonyms_intensity": {
+   "moves_own_sources": 0.465,
+   "moves_random_words": 0.424,
+   "selectivity": 1.1
+  },
+  "L08_synonyms_exact": {
+   "moves_own_sources": 0.471,
+   "moves_random_words": 0.422,
+   "selectivity": 1.11
+  },
+  "L09_antonyms_gradable": {
+   "moves_own_sources": 0.441,
+   "moves_random_words": 0.4,
+   "selectivity": 1.1
+  },
+  "L10_antonyms_binary": {
+   "moves_own_sources": 0.399,
+   "moves_random_words": 0.379,
+   "selectivity": 1.05
+  }
+ },
+ "idempotence": {
+  "I01_noun_plural_reg": {
+   "idempotence": 0.904,
+   "moved_at_all": 0.45
+  },
+  "I02_noun_plural_irreg": {
+   "idempotence": 0.92,
+   "moved_at_all": 0.463
+  },
+  "I03_adj_comparative": {
+   "idempotence": 0.928,
+   "moved_at_all": 0.453
+  },
+  "I04_adj_superlative": {
+   "idempotence": 0.906,
+   "moved_at_all": 0.464
+  },
+  "I05_verb_inf_3pSg": {
+   "idempotence": 0.936,
+   "moved_at_all": 0.432
+  },
+  "I06_verb_inf_Ving": {
+   "idempotence": 0.921,
+   "moved_at_all": 0.468
+  },
+  "I07_verb_inf_Ved": {
+   "idempotence": 0.916,
+   "moved_at_all": 0.464
+  },
+  "I08_verb_Ving_3pSg": {
+   "idempotence": 0.92,
+   "moved_at_all": 0.48
+  },
+  "I09_verb_Ving_Ved": {
+   "idempotence": 0.902,
+   "moved_at_all": 0.515
+  },
+  "I10_verb_3pSg_Ved": {
+   "idempotence": 0.922,
+   "moved_at_all": 0.477
+  },
+  "D01_noun_less_reg": {
+   "idempotence": 0.882,
+   "moved_at_all": 0.47
+  },
+  "D02_un_adj_reg": {
+   "idempotence": 0.883,
+   "moved_at_all": 0.468
+  },
+  "D03_adj_ly_reg": {
+   "idempotence": 0.89,
+   "moved_at_all": 0.457
+  },
+  "D04_over_adj_reg": {
+   "idempotence": 0.872,
+   "moved_at_all": 0.47
+  },
+  "D05_adj_ness_reg": {
+   "idempotence": 0.918,
+   "moved_at_all": 0.474
+  },
+  "D06_re_verb_reg": {
+   "idempotence": 0.862,
+   "moved_at_all": 0.439
+  },
+  "D07_verb_able_reg": {
+   "idempotence": 0.905,
+   "moved_at_all": 0.494
+  },
+  "D08_verb_er_irreg": {
+   "idempotence": 0.9,
+   "moved_at_all": 0.498
+  },
+  "D09_verb_tion_irreg": {
+   "idempotence": 0.918,
+   "moved_at_all": 0.465
+  },
+  "D10_verb_ment_irreg": {
+   "idempotence": 0.923,
+   "moved_at_all": 0.476
+  },
+  "E01_country_capital": {
+   "idempotence": 0.89,
+   "moved_at_all": 0.482
+  },
+  "E02_country_language": {
+   "idempotence": 0.905,
+   "moved_at_all": 0.577
+  },
+  "E03_UK_city_county": {
+   "idempotence": 0.911,
+   "moved_at_all": 0.507
+  },
+  "E04_name_nationality": {
+   "idempotence": 0.909,
+   "moved_at_all": 0.63
+  },
+  "E05_name_occupation": {
+   "idempotence": 0.854,
+   "moved_at_all": 0.569
+  },
+  "E06_animal_young": {
+   "idempotence": 0.89,
+   "moved_at_all": 0.567
+  },
+  "E07_animal_sound": {
+   "idempotence": 0.893,
+   "moved_at_all": 0.541
+  },
+  "E08_animal_shelter": {
+   "idempotence": 0.889,
+   "moved_at_all": 0.65
+  },
+  "E09_things_color": {
+   "idempotence": 0.913,
+   "moved_at_all": 0.641
+  },
+  "E10_male_female": {
+   "idempotence": 0.863,
+   "moved_at_all": 0.479
+  },
+  "L01_hypernyms_animals": {
+   "idempotence": 0.907,
+   "moved_at_all": 0.608
+  },
+  "L02_hypernyms_misc": {
+   "idempotence": 0.831,
+   "moved_at_all": 0.489
+  },
+  "L03_hyponyms_misc": {
+   "idempotence": 0.848,
+   "moved_at_all": 0.459
+  },
+  "L04_meronyms_substance": {
+   "idempotence": 0.779,
+   "moved_at_all": 0.432
+  },
+  "L05_meronyms_member": {
+   "idempotence": 0.849,
+   "moved_at_all": 0.471
+  },
+  "L06_meronyms_part": {
+   "idempotence": 0.827,
+   "moved_at_all": 0.483
+  },
+  "L07_synonyms_intensity": {
+   "idempotence": 0.845,
+   "moved_at_all": 0.465
+  },
+  "L08_synonyms_exact": {
+   "idempotence": 0.853,
+   "moved_at_all": 0.471
+  },
+  "L09_antonyms_gradable": {
+   "idempotence": 0.816,
+   "moved_at_all": 0.441
+  },
+  "L10_antonyms_binary": {
+   "idempotence": 0.885,
+   "moved_at_all": 0.399
+  }
+ },
+ "commutation": {
+  "I01_noun_plural_reg|I03_adj_comparative": 0.683,
+  "I01_noun_plural_reg|I04_adj_superlative": 0.685,
+  "I01_noun_plural_reg|I05_verb_inf_3pSg": 0.852,
+  "I01_noun_plural_reg|I06_verb_inf_Ving": 0.719,
+  "I01_noun_plural_reg|I07_verb_inf_Ved": 0.674,
+  "I01_noun_plural_reg|I08_verb_Ving_3pSg": 0.812,
+  "I01_noun_plural_reg|I09_verb_Ving_Ved": 0.727,
+  "I03_adj_comparative|I04_adj_superlative": 0.662,
+  "I03_adj_comparative|I05_verb_inf_3pSg": 0.739,
+  "I03_adj_comparative|I06_verb_inf_Ving": 0.832,
+  "I03_adj_comparative|I07_verb_inf_Ved": 0.814,
+  "I03_adj_comparative|I08_verb_Ving_3pSg": 0.762,
+  "I03_adj_comparative|I09_verb_Ving_Ved": 0.828,
+  "I04_adj_superlative|I05_verb_inf_3pSg": 0.77,
+  "I04_adj_superlative|I06_verb_inf_Ving": 0.731,
+  "I04_adj_superlative|I07_verb_inf_Ved": 0.747,
+  "I04_adj_superlative|I08_verb_Ving_3pSg": 0.792,
+  "I04_adj_superlative|I09_verb_Ving_Ved": 0.695,
+  "I05_verb_inf_3pSg|I06_verb_inf_Ving": 0.81,
+  "I05_verb_inf_3pSg|I07_verb_inf_Ved": 0.801,
+  "I05_verb_inf_3pSg|I08_verb_Ving_3pSg": 0.972,
+  "I05_verb_inf_3pSg|I09_verb_Ving_Ved": 0.741,
+  "I06_verb_inf_Ving|I07_verb_inf_Ved": 0.848,
+  "I06_verb_inf_Ving|I08_verb_Ving_3pSg": 0.715,
+  "I06_verb_inf_Ving|I09_verb_Ving_Ved": 0.748,
+  "I07_verb_inf_Ved|I08_verb_Ving_3pSg": 0.77,
+  "I07_verb_inf_Ved|I09_verb_Ving_Ved": 0.944,
+  "I08_verb_Ving_3pSg|I09_verb_Ving_Ved": 0.803
+ }
+}

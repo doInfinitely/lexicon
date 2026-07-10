@@ -1,0 +1,14 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+token ratio lexeme/word = 1.282
+steps: word 3000, lexeme 3846  (same characters seen)
+
+trunk           trunk params      word    lexeme    delta
+------------------------------------------------------------
+L6 d384              10.65M     1.159     0.965   -0.194
+L2 d128               0.40M     1.414     1.493   +0.079
+
+equal-steps result was: L6 -0.098 (lexeme wins), L2 +0.122 (lexeme loses)

@@ -1,0 +1,42 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+postfix examples:
+   walkers      <lex:walk> <op:noun.plural> <op:noun.agent>
+   mice         <lex:mouse> <op:noun.plural>
+   happiness    <lex:hap> <op:noun.quality> <op:adj.y>
+   cat          <lex:cat>
+  [lexeme_postfix] 15,340,477 training tokens, vocab 5982
+    step     0  loss 251.516
+    step   500  loss 4.286
+    step  1000  loss 3.724
+    step  1500  loss 3.398
+    step  2000  loss 3.101
+    step  2500  loss 2.884
+    step  3000  loss 2.779
+    step  3500  loss 2.758
+  [lexeme_postfix] done, 13.1M params
+
+[postfix] bits/char 1.133
+
+gold      root rank  root top1  op rank | root  op top1   composed?
+----------------------------------------------------------------------------
+mice             55                          2            
+men              14                          1      yes   
+rang           1432                          3            
+fed             341                          3            
+dug            2907                          7            
+swung           644                          5            
+rode            229                          2            
+spun            928                          4            
+fought           78                          5            
+paid            748                          3            
+----------------------------------------------------------------------------
+MEAN          737.6                        3.5
+
+root in top-1: 0%   root in top-10: 0%
+fully composed (root #1 AND operator #1): 0/10
+
+PREFIX baseline: root median rank 646, top-10 0%, fully composed 0/10

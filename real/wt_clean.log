@@ -1,0 +1,55 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+--- 10,000 paragraphs ---
+  bpe      vocab  16001  tokens   2,034,525  1.000x
+  lex-v6   vocab  16001  tokens   2,129,376  1.047x
+  lex-v3   vocab  16001  tokens   2,179,821  1.071x
+  seed 0 bpe      best bits/char 1.9614 @ step 4750
+  seed 0 lex-v6   best bits/char 1.8342 @ step 4500
+  seed 0 lex-v3   best bits/char 1.8294 @ step 5000
+  seed 1 bpe      best bits/char 1.9547 @ step 4250
+  seed 1 lex-v6   best bits/char 1.8171 @ step 4750
+  seed 1 lex-v3   best bits/char 1.8255 @ step 4750
+
+--- 40,000 paragraphs ---
+  bpe      vocab  16001  tokens   8,664,225  1.000x
+  lex-v6   vocab  16001  tokens   8,898,190  1.027x
+  lex-v3   vocab  16001  tokens   9,014,663  1.040x
+  seed 0 bpe      best bits/char 1.7656 @ step 5000
+  seed 0 lex-v6   best bits/char 1.6977 @ step 5000
+  seed 0 lex-v3   best bits/char 1.6855 @ step 5000
+  seed 1 bpe      best bits/char 1.7764 @ step 5000
+  seed 1 lex-v6   best bits/char 1.6807 @ step 5000
+  seed 1 lex-v3   best bits/char 1.6958 @ step 5000
+
+--- 160,000 paragraphs ---
+  bpe      vocab  16001  tokens  35,661,203  1.000x
+  lex-v6   vocab  16001  tokens  36,397,694  1.021x
+  lex-v3   vocab  16001  tokens  36,764,483  1.031x
+  seed 0 bpe      best bits/char 1.7275 @ step 5000
+  seed 0 lex-v6   best bits/char 1.6749 @ step 5000
+  seed 0 lex-v3   best bits/char 1.6608 @ step 5000
+  seed 1 bpe      best bits/char 1.7517 @ step 5000
+  seed 1 lex-v6   best bits/char 1.6547 @ step 5000
+  seed 1 lex-v3   best bits/char 1.6671 @ step 5000
+
+========================================================================================
+paragraphs  arm        bits/char      sd  steps*   tokens    vs bpe   compute
+----------------------------------------------------------------------------------------
+10,000      bpe           1.9581  0.0047    4500    1.00x   +0.0000     1.00x
+10,000      lex-v6        1.8257  0.0121    4625    1.05x   -0.1324     1.03x
+10,000      lex-v3        1.8275  0.0027    4875    1.07x   -0.1306     1.08x
+
+40,000      bpe           1.7710  0.0077    5000    1.00x   +0.0000     1.00x
+40,000      lex-v6        1.6892  0.0120    5000    1.03x   -0.0818     1.00x
+40,000      lex-v3        1.6906  0.0073    5000    1.04x   -0.0804     1.00x
+
+160,000     bpe           1.7396  0.0171    5000    1.00x   +0.0000     1.00x
+160,000     lex-v6        1.6648  0.0143    5000    1.02x   -0.0748     1.00x
+160,000     lex-v3        1.6640  0.0045    5000    1.03x   -0.0756     1.00x
+
+steps* = steps to each arm's OWN best held-out checkpoint (early stopping)
+compute = steps ratio vs bpe; token-count no longer inflates it (byte fallback)
+
+P1: does (lex-v6 - bpe) get MORE negative as the corpus shrinks?
+P2 (already robust): lex-v3 - lex-v6 > 0 everywhere -> derivation never pays

@@ -1,0 +1,24 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+lex-v4  vocab 16002  tokens 40,141,945  1.229x bpe
+  seed 0  lex-v4  bits/char 1.6742
+  seed 1  lex-v4  bits/char 1.6796
+  seed 2  lex-v4  bits/char 1.6775
+
+lex-v5  vocab 16002  tokens 40,041,611  1.225x bpe
+  seed 0  lex-v5  bits/char 1.6867
+  seed 1  lex-v5  bits/char 1.7074
+  seed 2  lex-v5  bits/char 1.7028
+
+==============================================================
+arm            mean       sd    vs bpe   tokens
+--------------------------------------------------------------
+bpe          1.7507   0.0060   +0.0000    1.00x
+lex-v1       1.7078   0.0196   -0.0429    1.23x
+lex-v2       1.7339   0.0065   -0.0168    1.25x
+lex-v3       1.7497   0.0179   -0.0010    1.28x
+lex-v4       1.6771   0.0027   -0.0736    1.23x
+lex-v5       1.6990   0.0109   -0.0517    1.23x
+
+v5 - v1 = -0.0088 +- 0.0092   (bpe seed sd 0.0060)
+  = the isolated cost of removing false decompositions

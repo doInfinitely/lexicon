@@ -1,0 +1,26 @@
+# environments
+.venv/
+__pycache__/
+*.pyc
+
+# large binaries: model checkpoints, embedding matrices
+*.pt
+*.npy
+*.npz
+*.bin
+
+# derived / regenerable artefacts
+run_d6/
+real/embeddings/
+real/lexicon_export/
+real/english/split.json
+dictionary/encoded.jsonl
+harbor/workspace/solution/checkpoint.pt
+
+# scratch
+nohup.out
+
+# large intermediate datasets (regenerable from lexicon/english.py, surface.py)
+real/english/
+real/surface/
+real/ts/*.pt

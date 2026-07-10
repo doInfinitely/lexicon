@@ -1,0 +1,21 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+lex-v6 vocab 16002  tokens 39,161,154  1.199x bpe
+
+  seed 0  lex-v6  bits/char 1.6689
+  seed 1  lex-v6  bits/char 1.6749
+  seed 2  lex-v6  bits/char 1.6903
+
+================================================================
+arm            mean       sd    vs bpe   tokens  compute-eq
+----------------------------------------------------------------
+bpe          1.7507   0.0060   +0.0000    1.00x       1.00x
+lex-v1       1.7078   0.0196   -0.0429    1.23x       1.33x
+lex-v5       1.6990   0.0109   -0.0517    1.23x       1.48x
+lex-v4       1.6771   0.0027   -0.0736    1.23x       1.90x
+lex-v6       1.6780   0.0110   -0.0727    1.20x       1.92x
+lex-v2       1.7339   0.0065   -0.0168    1.25x       0.97x
+lex-v3       1.7497   0.0179   -0.0010    1.28x       0.79x
+
+v6 - v4 = +0.0010 +- 0.0102
+  >=0 (v6 no worse): derivation contributes NOTHING; the language is inflection
+  clearly positive : the 125 frequent derivations do real work

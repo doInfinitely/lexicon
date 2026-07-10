@@ -1,0 +1,18 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+tokenizer                vocab       tokens  vs word
+word                     12002   11,962,982    1.00x
+lexeme (full)             5982   15,340,477    1.28x
+hybrid T=30               8733   12,473,630    1.04x
+hybrid T=100              8120   12,529,980    1.05x
+hybrid T=300              7384   12,636,619    1.06x
+
+trunk                   word   lexeme (full)     hybrid T=30    hybrid T=100    hybrid T=300
+--------------------------------------------------------------------------------------------
+L6 d384               1.150           1.061           1.146           1.159           1.152
+L2 d128               1.414           1.536           1.434           1.446           1.466
+
+equal STEPS (equal compute). word/lexeme-full reference: L6 1.160/1.062, L2 1.414/1.536

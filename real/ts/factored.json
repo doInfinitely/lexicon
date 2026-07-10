@@ -1,0 +1,12 @@
+{
+ "free-word baseline": {
+  "acc": 0.0,
+  "mrr": 0.054358974358974355,
+  "mean_rank": 19.2
+ },
+ "factored (operators as maps)": {
+  "acc": 0.0,
+  "mrr": 0.059207905957131955,
+  "mean_rank": 17.6
+ }
+}

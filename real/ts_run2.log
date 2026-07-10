@@ -1,0 +1,61 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+slot-matched distractor pools (all seen in training):
+   noun.plural    friends, things, its, animals, years, birds, children, leaves
+   verb.3sg       is, says, toys, lots, eyes, hands, flowers, parents
+   verb.past      was, saw, went, smiled, looked, felt, ran, made
+   verb.ptcp      said, had, wanted, asked, named, loved, started, scared
+
+  [word] 11,962,982 training tokens, vocab 12002
+    step     0  loss 253.164
+    step   500  loss 5.309
+    step  1000  loss 4.603
+    step  1500  loss 4.095
+    step  2000  loss 3.992
+    step  2500  loss 3.813
+    step  3000  loss 3.685
+    step  3500  loss 3.577
+  [word] done, 15.5M params
+  [word] bits/char 1.199  expressible 0.000 acc 0.000  mrr 0.048
+[transformers] Token indices sequence length is longer than the specified maximum sequence length for this model (1106 > 1024). Running this sequence through the model will result in indexing errors
+  [bpe] 12,311,565 training tokens, vocab 9822
+    step     0  loss 256.315
+    step   500  loss 5.442
+    step  1000  loss 4.555
+    step  1500  loss 4.106
+    step  2000  loss 3.950
+    step  2500  loss 3.712
+    step  3000  loss 3.562
+    step  3500  loss 3.719
+  [bpe] done, 14.6M params
+  [bpe] bits/char 1.198  expressible 0.000 acc 0.000  mrr 0.048
+  [lexeme] 21,150,258 training tokens, vocab 5983
+    step     0  loss 251.633
+    step   500  loss 3.420
+    step  1000  loss 2.878
+    step  1500  loss 2.863
+    step  2000  loss 2.657
+    step  2500  loss 2.425
+    step  3000  loss 2.449
+    step  3500  loss 2.320
+  [lexeme] done, 13.1M params
+  [lexeme] bits/char 1.331  expressible 1.000 acc 0.000  mrr 0.048
+           root|operator: top1 0.000 top10 0.000 median rank 656
+
+================================================================================
+tokenizer     bits/char  can express     acc     MRR
+--------------------------------------------------------------------------------
+word              1.199        0.000   0.000   0.048
+bpe               1.198        0.000   0.000   0.048
+lexeme            1.331        1.000   0.000   0.048
+
+chance acc ~= 1/21 = 0.048   (n=250 held-out-form contexts)
+'can express' = fraction of gold forms the scheme can even emit.
+
+lexeme diagnostic -- operator teacher-forced, which root does it pick?
+   correct root ranked #1 : 0.000
+   correct root in top-10 : 0.000
+   median rank of the correct root among all lexemes: 656

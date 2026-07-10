@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+lex-v3 vocab 16002  tokens 41,915,939  1.283x bpe
+
+  seed 0  lex-v3  bits/char 1.7295
+  seed 1  lex-v3  bits/char 1.7636
+  seed 2  lex-v3  bits/char 1.7561
+
+lex-v3  mean 1.7497  sd 0.0179  vs bpe -0.0010  tokens 1.28x
+lex-v1   mean 1.7078  sd 0.0196  vs bpe -0.0429
+lex-v2   mean 1.7339  sd 0.0065  vs bpe -0.0168

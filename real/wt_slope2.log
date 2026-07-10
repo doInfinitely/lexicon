@@ -1,0 +1,6 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bpe      tokens 35,661,203  1.000x
+lex-v6   tokens 36,397,694  1.021x
+  L6 seed 0 bpe      best bits/char 1.5547 @ step 9000
+  L6 seed 0 lex-v6   best bits/char 1.5017 @ step 9000
+  L6 seed 1 bpe      best bits/char 1.5581 @ step 9000

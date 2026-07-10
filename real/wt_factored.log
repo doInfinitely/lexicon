@@ -1,0 +1,49 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+--- 10,000 paragraphs ---
+  bpe tokens 2,034,525   word tokens 1,884,271  0.926x
+  vocab 16,001  roots 12,314  inflected 4,248  rank 32  |d_slot| [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+  seed 0 bpe        bits/char 2.1470
+  seed 0 free       bits/char 2.0220
+  seed 0 translate  bits/char 2.0394
+  seed 0 affine     bits/char 2.0143
+  seed 0 shufroot   bits/char 2.0222
+  seed 1 bpe        bits/char 2.1396
+  seed 1 free       bits/char 2.0314
+  seed 1 translate  bits/char 2.0340
+  seed 1 affine     bits/char 2.0163
+  seed 1 shufroot   bits/char 2.0186
+  seed 2 bpe        bits/char 2.1435
+  seed 2 free       bits/char 2.0211
+  seed 2 translate  bits/char 2.0338
+  seed 2 affine     bits/char 2.0114
+  seed 2 shufroot   bits/char 2.0227
+
+--- 40,000 paragraphs ---
+  bpe tokens 8,664,225   word tokens 8,127,105  0.938x
+  vocab 16,001  roots 12,203  inflected 4,324  rank 32  |d_slot| [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+  seed 0 bpe        bits/char 1.7825
+  seed 0 free       bits/char 1.7283
+  seed 0 translate  bits/char 1.7389
+  seed 0 affine     bits/char 1.7114
+  seed 0 shufroot   bits/char 1.7377
+  seed 1 bpe        bits/char 1.8022
+  seed 1 free       bits/char 1.7359
+  seed 1 translate  bits/char 1.7428
+  seed 1 affine     bits/char 1.7210
+  seed 1 shufroot   bits/char 1.7342
+  seed 2 bpe        bits/char 1.7868
+  seed 2 free       bits/char 1.7171
+  seed 2 translate  bits/char 1.7234
+  seed 2 affine     bits/char 1.7160
+  seed 2 shufroot   bits/char 1.7326
+
+============================================================================================
+paragraphs          bpe       free  translate     affine   shufroot   tr-free   aff-tr   aff-shuf
+--------------------------------------------------------------------------------------------
+10,000           2.1434     2.0248     2.0357     2.0140     2.0211   +0.0109  -0.0217    -0.0071
+40,000           1.7905     1.7271     1.7350     1.7161     1.7348   +0.0080  -0.0189    -0.0187
+
+tr-free  : does ENFORCED morphological sharing help? (negative = yes)
+aff-tr   : does inflection need more than a translation? (atlas says no => ~0)
+aff-shuf : morphology, or just a low-rank reparameterisation? (the null)

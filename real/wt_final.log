@@ -1,0 +1,38 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bpe      tokens   32,674,764  1.000x
+lex-v4   tokens   40,141,945  1.229x
+lex-v6   tokens   39,161,154  1.199x
+  L2 seed 0 bpe     bits/char 1.9321
+  L2 seed 0 lex-v4  bits/char 1.9251
+  L2 seed 0 lex-v6  bits/char 1.9154
+  L2 seed 1 bpe     bits/char 1.9281
+  L2 seed 1 lex-v4  bits/char 1.9306
+  L2 seed 1 lex-v6  bits/char 1.9014
+  L2 seed 2 bpe     bits/char 1.9216
+  L2 seed 2 lex-v4  bits/char 1.9412
+  L2 seed 2 lex-v6  bits/char 1.9208
+  L4 seed 0 bpe     bits/char 1.8399
+  L4 seed 0 lex-v4  bits/char 1.7969
+  L4 seed 0 lex-v6  bits/char 1.7899
+  L4 seed 1 bpe     bits/char 1.8303
+  L4 seed 1 lex-v4  bits/char 1.8112
+  L4 seed 1 lex-v6  bits/char 1.8031
+  L4 seed 2 bpe     bits/char 1.8349
+  L4 seed 2 lex-v4  bits/char 1.8045
+  L4 seed 2 lex-v6  bits/char 1.8714
+  L8 seed 0 bpe     bits/char 1.6740
+  L8 seed 0 lex-v6  bits/char 1.6091
+  L8 seed 1 bpe     bits/char 1.6725
+  L8 seed 1 lex-v6  bits/char 1.6100
+  L8 seed 2 bpe     bits/char 1.6757
+  L8 seed 2 lex-v6  bits/char 1.6163
+
+==========================================================================
+trunk          params       bpe      lex-v4      lex-v6   v6 vs bpe
+--------------------------------------------------------------------------
+L2 d128        0.40M     1.927       1.932       1.913     -0.0147
+L4 d256        3.16M     1.835       1.804       1.821     -0.0136
+L8 d512       25.22M     1.674           —       1.612     -0.0623
+
+negative = lexeme better. L6 reference: v6 -0.0727 at 1.199x tokens
+prediction was: v6 still LOSES at L2 (length penalty on a 0.40M trunk)

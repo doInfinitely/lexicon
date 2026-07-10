@@ -1,0 +1,66 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+vocab: 12018 words, 7671 roots, 24 slots
+held-out words addressable: 15/15
+
+training words: 9,989,185   (held-out forms appear 0 times)
+
+--- free-word baseline ---
+    15.4M params
+    step     0 loss 9.484
+    step   500 loss 6.048
+    step  1000 loss 5.975
+    step  1500 loss 5.410
+    step  2000 loss 4.919
+    step  2500 loss 4.786
+    step  3000 loss 4.594
+    step  3500 loss 4.445
+
+[free-word baseline] minimal-pair probe (root is in the prompt)
+   gold       rank among slot-matched   top1   top-3 predictions
+   mice                            21          things, friends, animals
+   men                             21          friends, things, animals
+   rang                            21          was, saw, looked
+   fed                             21          was, saw, felt
+   dug                             21          had, said, wanted
+   swung                           21          was, saw, went
+   rode                            21          was, saw, felt
+   spun                            21          had, said, started
+   fought                          21          had, wanted, played
+   paid                            21          said, asked, had
+   MEAN                          21.0   top1 0/10  MRR 0.048
+--- factored (operators as maps) ---
+    17.2M params
+    step     0 loss 9.490
+    step   500 loss 6.050
+    step  1000 loss 5.103
+    step  1500 loss 4.834
+    step  2000 loss 4.450
+    step  2500 loss 4.340
+    step  3000 loss 4.128
+    step  3500 loss 3.963
+
+[factored (operators as maps)] minimal-pair probe (root is in the prompt)
+   gold       rank among slot-matched   top1   top-3 predictions
+   mice                            19          things, cookies, pictures
+   men                             17          friends, things, animals
+   rang                            21          was, saw, did
+   fed                             21          was, saw, felt
+   dug                             21          said, had, wanted
+   swung                           21          was, did, liked
+   rode                            21          was, saw, did
+   spun                            20          had, started, said
+   fought                          18          had, learned, played
+   paid                            20          said, asked, wanted
+   MEAN                          19.9   top1 0/10  MRR 0.051
+
+========================================================================
+model                               top-1      MRR   mean rank
+------------------------------------------------------------------------
+free-word baseline                   0.00    0.048        21.0
+factored (operators as maps)         0.00    0.051        19.9
+
+chance: top-1 = 1/21 = 0.048, mean rank 11

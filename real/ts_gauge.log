@@ -1,0 +1,68 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+vocab: 12018 words, 7671 roots, 24 slots
+held-out words addressable: 15/15
+
+training words: 9,989,185   (held-out forms appear 0 times)
+
+masking 15 held-out words out of the training softmax (so they are never negatives either)
+
+--- free-word baseline ---
+    15.4M params
+    step     0 loss 9.665
+    step   500 loss 6.053
+    step  1000 loss 5.978
+    step  1500 loss 5.340
+    step  2000 loss 4.801
+    step  2500 loss 4.736
+    step  3000 loss 4.535
+    step  3500 loss 4.395
+
+[free-word baseline] minimal-pair probe (root is in the prompt)
+   gold       rank among slot-matched   top1   top-3 predictions
+   mice                            13          friends, things, dolls
+   men                             12          friends, things, dolls
+   rang                            21          was, saw, looked
+   fed                             21          was, saw, felt
+   dug                             21          had, said, wanted
+   swung                           21          saw, was, did
+   rode                            21          was, saw, looked
+   spun                            21          had, said, named
+   fought                          20          said, had, learned
+   paid                            21          said, had, asked
+   MEAN                          19.2   top1 0/10  MRR 0.054
+--- factored (operators as maps) ---
+    17.1M params
+    step     0 loss 9.672
+    step   500 loss 6.054
+    step  1000 loss 5.960
+    step  1500 loss 5.086
+    step  2000 loss 4.649
+    step  2500 loss 4.540
+    step  3000 loss 4.331
+    step  3500 loss 4.183
+
+[factored (operators as maps)] minimal-pair probe (root is in the prompt)
+   gold       rank among slot-matched   top1   top-3 predictions
+   mice                            11          friends, things, children
+   men                             13          friends, things, children
+   rang                            21          was, saw, looked
+   fed                             19          was, saw, looked
+   dug                             18          said, had, started
+   swung                           21          was, saw, went
+   rode                            18          was, saw, looked
+   spun                            21          had, started, said
+   fought                          17          said, had, wanted
+   paid                            17          said, had, asked
+   MEAN                          17.6   top1 0/10  MRR 0.059
+
+========================================================================
+model                               top-1      MRR   mean rank
+------------------------------------------------------------------------
+free-word baseline                   0.00    0.054        19.2
+factored (operators as maps)         0.00    0.059        17.6
+
+chance: top-1 = 1/21 = 0.048, mean rank 11

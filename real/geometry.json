@@ -1,0 +1,322 @@
+{
+ "D01_noun_less_reg": {
+  "identity": 0.8238145709037781,
+  "translation": 0.8659780025482178,
+  "point_reflection": 0.4109306037425995,
+  "householder": 0.8549306392669678,
+  "orthogonal": 0.6593940258026123,
+  "affine": 0.8280351161956787
+ },
+ "D02_un_adj_reg": {
+  "identity": 0.745906412601471,
+  "translation": 0.7711473107337952,
+  "point_reflection": 0.5610277056694031,
+  "householder": 0.7823324203491211,
+  "orthogonal": 0.7183918952941895,
+  "affine": 0.8276604413986206
+ },
+ "D03_adj_ly_reg": {
+  "identity": 0.8132155537605286,
+  "translation": 0.8494382500648499,
+  "point_reflection": 0.4799317419528961,
+  "householder": 0.8489722609519958,
+  "orthogonal": 0.7207485437393188,
+  "affine": 0.8427121639251709
+ },
+ "D04_over_adj_reg": {
+  "identity": 0.7094188332557678,
+  "translation": 0.760425329208374,
+  "point_reflection": 0.6104546189308167,
+  "householder": 0.7709009051322937,
+  "orthogonal": 0.6856496334075928,
+  "affine": 0.8365800380706787
+ },
+ "D05_adj_ness_reg": {
+  "identity": 0.8004299998283386,
+  "translation": 0.8483352065086365,
+  "point_reflection": 0.4714544415473938,
+  "householder": 0.8492390513420105,
+  "orthogonal": 0.7236799001693726,
+  "affine": 0.8351690173149109
+ },
+ "D06_re_verb_reg": {
+  "identity": 0.7504340410232544,
+  "translation": 0.8202704787254333,
+  "point_reflection": 0.6100241541862488,
+  "householder": 0.8204053044319153,
+  "orthogonal": 0.7384757995605469,
+  "affine": 0.8626607060432434
+ },
+ "D07_verb_able_reg": {
+  "identity": 0.7390406131744385,
+  "translation": 0.8086023330688477,
+  "point_reflection": 0.49046552181243896,
+  "householder": 0.8094515800476074,
+  "orthogonal": 0.7115898728370667,
+  "affine": 0.8138805627822876
+ },
+ "D08_verb_er_irreg": {
+  "identity": 0.7152091264724731,
+  "translation": 0.779829204082489,
+  "point_reflection": 0.4615309238433838,
+  "householder": 0.777757465839386,
+  "orthogonal": 0.6762464642524719,
+  "affine": 0.776812732219696
+ },
+ "D09_verb_tion_irreg": {
+  "identity": 0.7673624157905579,
+  "translation": 0.8125194311141968,
+  "point_reflection": 0.3955228328704834,
+  "householder": 0.8119320273399353,
+  "orthogonal": 0.6536363363265991,
+  "affine": 0.7756989002227783
+ },
+ "D10_verb_ment_irreg": {
+  "identity": 0.765437126159668,
+  "translation": 0.8134455680847168,
+  "point_reflection": 0.4453848898410797,
+  "householder": 0.8192989826202393,
+  "orthogonal": 0.7072456479072571,
+  "affine": 0.7933969497680664
+ },
+ "E01_country_capital": {
+  "identity": 0.8128483295440674,
+  "translation": 0.8732628226280212,
+  "point_reflection": 0.2060399204492569,
+  "householder": 0.8697196841239929,
+  "orthogonal": 0.6723661422729492,
+  "affine": 0.7765645980834961
+ },
+ "E02_country_language": {
+  "identity": 0.654168963432312,
+  "translation": 0.7503343224525452,
+  "point_reflection": 0.4461631178855896,
+  "householder": 0.7161008715629578,
+  "orthogonal": 0.652783989906311,
+  "affine": 0.8323071002960205
+ },
+ "E03_UK_city_county": {
+  "identity": 0.7151905298233032,
+  "translation": 0.7638581395149231,
+  "point_reflection": 0.44151487946510315,
+  "householder": 0.7631160616874695,
+  "orthogonal": 0.7223879098892212,
+  "affine": 0.8477001786231995
+ },
+ "E04_name_nationality": {
+  "identity": 0.572113573551178,
+  "translation": 0.6861172914505005,
+  "point_reflection": 0.5145806074142456,
+  "householder": 0.6706637144088745,
+  "orthogonal": 0.6624967455863953,
+  "affine": 0.8237158060073853
+ },
+ "E05_name_occupation": {
+  "identity": 0.6360695958137512,
+  "translation": 0.720280110836029,
+  "point_reflection": 0.47361859679222107,
+  "householder": 0.6996157765388489,
+  "orthogonal": 0.6375692486763,
+  "affine": 0.8063585162162781
+ },
+ "E06_animal_young": {
+  "identity": 0.7110350728034973,
+  "translation": 0.7395583391189575,
+  "point_reflection": 0.5580374598503113,
+  "householder": 0.746019721031189,
+  "orthogonal": 0.725843071937561,
+  "affine": 0.8474569320678711
+ },
+ "E07_animal_sound": {
+  "identity": 0.5677639245986938,
+  "translation": 0.6350404620170593,
+  "point_reflection": 0.5986723899841309,
+  "householder": 0.6424765586853027,
+  "orthogonal": 0.6642086505889893,
+  "affine": 0.8011931777000427
+ },
+ "E08_animal_shelter": {
+  "identity": 0.5982174277305603,
+  "translation": 0.6528433561325073,
+  "point_reflection": 0.5375992059707642,
+  "householder": 0.6481916308403015,
+  "orthogonal": 0.638434648513794,
+  "affine": 0.8067816495895386
+ },
+ "E09_things_color": {
+  "identity": 0.6193925738334656,
+  "translation": 0.736991822719574,
+  "point_reflection": 0.7040408253669739,
+  "householder": 0.7315029501914978,
+  "orthogonal": 0.6961581110954285,
+  "affine": 0.8949127793312073
+ },
+ "E10_male_female": {
+  "identity": 0.7486972212791443,
+  "translation": 0.7860749959945679,
+  "point_reflection": 0.3929005563259125,
+  "householder": 0.7843194603919983,
+  "orthogonal": 0.6328566670417786,
+  "affine": 0.7945666313171387
+ },
+ "I01_noun_plural_reg": {
+  "identity": 0.8696112632751465,
+  "translation": 0.9308521747589111,
+  "point_reflection": 0.30531468987464905,
+  "householder": 0.9262978434562683,
+  "orthogonal": 0.6813516616821289,
+  "affine": 0.8180722594261169
+ },
+ "I02_noun_plural_irreg": {
+  "identity": 0.8312546014785767,
+  "translation": 0.8743058443069458,
+  "point_reflection": 0.33323073387145996,
+  "householder": 0.8725041151046753,
+  "orthogonal": 0.6639017462730408,
+  "affine": 0.7936881184577942
+ },
+ "I03_adj_comparative": {
+  "identity": 0.7754713296890259,
+  "translation": 0.8364039659500122,
+  "point_reflection": 0.5198244452476501,
+  "householder": 0.8341591358184814,
+  "orthogonal": 0.7271788120269775,
+  "affine": 0.8437093496322632
+ },
+ "I04_adj_superlative": {
+  "identity": 0.8044435381889343,
+  "translation": 0.8724930286407471,
+  "point_reflection": 0.5299087762832642,
+  "householder": 0.8647618889808655,
+  "orthogonal": 0.7505402565002441,
+  "affine": 0.8741353750228882
+ },
+ "I05_verb_inf_3pSg": {
+  "identity": 0.8205360770225525,
+  "translation": 0.9440966844558716,
+  "point_reflection": 0.4647645056247711,
+  "householder": 0.9409088492393494,
+  "orthogonal": 0.814274787902832,
+  "affine": 0.8709819316864014
+ },
+ "I06_verb_inf_Ving": {
+  "identity": 0.8716026544570923,
+  "translation": 0.9493196606636047,
+  "point_reflection": 0.47575390338897705,
+  "householder": 0.9482049942016602,
+  "orthogonal": 0.7950201034545898,
+  "affine": 0.8692683577537537
+ },
+ "I07_verb_inf_Ved": {
+  "identity": 0.8525368571281433,
+  "translation": 0.9413167238235474,
+  "point_reflection": 0.46214815974235535,
+  "householder": 0.9393482804298401,
+  "orthogonal": 0.7796949148178101,
+  "affine": 0.8618950247764587
+ },
+ "I08_verb_Ving_3pSg": {
+  "identity": 0.7920657396316528,
+  "translation": 0.88789302110672,
+  "point_reflection": 0.4782732129096985,
+  "householder": 0.8827021718025208,
+  "orthogonal": 0.7655425071716309,
+  "affine": 0.8569161891937256
+ },
+ "I09_verb_Ving_Ved": {
+  "identity": 0.8485807776451111,
+  "translation": 0.9117702841758728,
+  "point_reflection": 0.4566945731639862,
+  "householder": 0.9097400903701782,
+  "orthogonal": 0.734370231628418,
+  "affine": 0.8440546989440918
+ },
+ "I10_verb_3pSg_Ved": {
+  "identity": 0.7745545506477356,
+  "translation": 0.8882324695587158,
+  "point_reflection": 0.49704626202583313,
+  "householder": 0.8866667151451111,
+  "orthogonal": 0.7685291767120361,
+  "affine": 0.8467772006988525
+ },
+ "L01_hypernyms_animals": {
+  "identity": 0.7231164574623108,
+  "translation": 0.7585436701774597,
+  "point_reflection": 0.5620381832122803,
+  "householder": 0.7561293244361877,
+  "orthogonal": 0.7518688440322876,
+  "affine": 0.8790873885154724
+ },
+ "L02_hypernyms_misc": {
+  "identity": 0.7293105125427246,
+  "translation": 0.7386042475700378,
+  "point_reflection": 0.4747423529624939,
+  "householder": 0.7359886765480042,
+  "orthogonal": 0.6647406816482544,
+  "affine": 0.8111607432365417
+ },
+ "L03_hyponyms_misc": {
+  "identity": 0.7313257455825806,
+  "translation": 0.7296801805496216,
+  "point_reflection": 0.39652326703071594,
+  "householder": 0.7301885485649109,
+  "orthogonal": 0.5875646471977234,
+  "affine": 0.7569630146026611
+ },
+ "L04_meronyms_substance": {
+  "identity": 0.6650862693786621,
+  "translation": 0.6904731392860413,
+  "point_reflection": 0.5050115585327148,
+  "householder": 0.6915563344955444,
+  "orthogonal": 0.6464582681655884,
+  "affine": 0.7904897928237915
+ },
+ "L05_meronyms_member": {
+  "identity": 0.7369132041931152,
+  "translation": 0.7444741129875183,
+  "point_reflection": 0.3588716685771942,
+  "householder": 0.7261313796043396,
+  "orthogonal": 0.5804087519645691,
+  "affine": 0.7506300806999207
+ },
+ "L06_meronyms_part": {
+  "identity": 0.7140011191368103,
+  "translation": 0.7197535037994385,
+  "point_reflection": 0.4204208254814148,
+  "householder": 0.7185395956039429,
+  "orthogonal": 0.5869253873825073,
+  "affine": 0.772372841835022
+ },
+ "L07_synonyms_intensity": {
+  "identity": 0.7326065301895142,
+  "translation": 0.7345711588859558,
+  "point_reflection": 0.4169858396053314,
+  "householder": 0.7323242425918579,
+  "orthogonal": 0.6424882411956787,
+  "affine": 0.7652926445007324
+ },
+ "L08_synonyms_exact": {
+  "identity": 0.7918626666069031,
+  "translation": 0.7901024222373962,
+  "point_reflection": 0.34489017724990845,
+  "householder": 0.7905610799789429,
+  "orthogonal": 0.635478138923645,
+  "affine": 0.7761420607566833
+ },
+ "L09_antonyms_gradable": {
+  "identity": 0.7458218932151794,
+  "translation": 0.7517148852348328,
+  "point_reflection": 0.5469517707824707,
+  "householder": 0.7528833746910095,
+  "orthogonal": 0.6986544132232666,
+  "affine": 0.8246687650680542
+ },
+ "L10_antonyms_binary": {
+  "identity": 0.8067322969436646,
+  "translation": 0.7979716658592224,
+  "point_reflection": 0.46239060163497925,
+  "householder": 0.8054097890853882,
+  "orthogonal": 0.689169704914093,
+  "affine": 0.8126185536384583
+ }
+}

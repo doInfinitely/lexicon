@@ -1,0 +1,22 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+wikitext: 198,000 paragraphs, 145.7M chars
+
+bpe      vocab  16002   tokens   32,674,764   1.00x bpe
+lexeme   vocab  16002   tokens   40,249,846   1.23x bpe
+
+  L4 d256 bpe     trunk   3.16M  train loss 5.816  eval bits/char 1.838
+  L4 d256 lexeme  trunk   3.16M  train loss 4.739  eval bits/char 1.836
+  L6 d384 bpe     trunk  10.65M  train loss 5.545  eval bits/char 1.748
+  L6 d384 lexeme  trunk  10.65M  train loss 4.305  eval bits/char 1.677
+  L8 d512 bpe     trunk  25.22M  train loss 5.273  eval bits/char 1.670
+  L8 d512 lexeme  trunk  25.22M  train loss 4.144  eval bits/char 1.623
+
+==================================================================================
+trunk            params   bpe bpc   lexeme bpc    delta   bpe trainL  lex trainL
+----------------------------------------------------------------------------------
+L4 d256          3.16M     1.838        1.836   -0.002        5.816       4.739
+L6 d384         10.65M     1.748        1.677   -0.072        5.545       4.305
+L8 d512         25.22M     1.670        1.623   -0.047        5.273       4.144
+
+negative delta = lexeme better. |delta| growing with trunk => it scales.
+TinyStories reference (vs word): L4 +0.052, L6 -0.098

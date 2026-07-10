@@ -1,0 +1,85 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+
+vocab 12018, roots 7671, slots 24
+held-out (masked from the softmax): 15
+  roots with a real embedding: 6522/7671
+  slot operators fitted: 16  (e.g. noun.plural:996, verb.3sg:945, verb.ger:870, verb.ptcp:576)
+
+  geometric check (no LM): is W_slot . E_root nearest to the TRUE embedding of the held-out word?
+     mice    amb  rank   1 / 21
+     men     amb  rank  12 / 21
+     lives        rank  11 / 21
+     gotten  amb  rank  16 / 21
+     rang    amb  rank   6 / 21
+     fed     amb  rank   5 / 21
+     dug     amb  rank  16 / 21
+     swung   amb  rank   6 / 21
+     rode    amb  rank  12 / 21
+     spun    amb  rank  12 / 21
+     fought  amb  rank   6 / 21
+     paid    amb  rank   5 / 21
+     unambiguous roots: mean rank 11.0   ambiguous roots: mean rank 8.8
+
+--- factored, operators FROZEN from geometry ---
+    trainable params: 10.7M (E and W frozen)
+    step     0 loss 9.576
+    step   500 loss 6.361
+    step  1000 loss 5.610
+    step  1500 loss 5.266
+    step  2000 loss 4.879
+    step  2500 loss 4.748
+    step  3000 loss 4.552
+    step  3500 loss 4.417
+
+[factored, frozen geometric operators]
+   gold     root    amb?    rank/21   top-3
+   mice     mouse   yes           7   birds, friends, things
+   men      man     yes           4   friends, children, things
+   lives    life    -            10   things, friends, pictures
+   gotten   get     yes           4   wanted, thought, had
+   rang     ring    yes          21   was, liked, did
+   fed      feed    yes          19   was, liked, did
+   dug      dig     yes          21   had, been, said
+   swung    swing   yes          21   liked, was, did
+   rode     ride    yes          21   was, liked, did
+   spun     spin    yes          21   been, had, started
+   fought   fight   yes          13   had, been, played
+   paid     pay     yes          21   said, had, wanted
+   unambiguous roots: mean rank 10.0 (n=1)   ambiguous: 15.7 (n=11)   top-1 0/12
+
+--- free-word baseline (same trunk) ---
+    step     0 loss 9.653
+    step   500 loss 6.052
+    step  1000 loss 5.979
+    step  1500 loss 5.747
+    step  2000 loss 4.954
+    step  2500 loss 4.830
+    step  3000 loss 4.634
+    step  3500 loss 4.496
+
+[free-word baseline]
+   gold     root    amb?    rank/21   top-3
+   mice     mouse   yes          19   friends, things, dolls
+   men      man     yes          13   friends, things, cars
+   lives    life    -            13   things, its, pictures
+   gotten   get     yes          18   scared, wanted, asked
+   rang     ring    yes          21   was, saw, felt
+   fed      feed    yes          21   was, saw, went
+   dug      dig     yes          20   said, had, started
+   swung    swing   yes          21   was, saw, went
+   rode     ride    yes          21   was, saw, went
+   spun     spin    yes          21   had, wanted, said
+   fought   fight   yes          21   had, played, learned
+   paid     pay     yes          21   had, said, wanted
+   unambiguous roots: mean rank 13.0 (n=1)   ambiguous: 19.7 (n=11)   top-1 0/12
+
+==========================================================================
+model                                unamb mean rank     amb   top-1
+--------------------------------------------------------------------------
+frozen prior                                    10.0    15.7       0
+free-word                                       13.0    19.7       0
+
+chance mean rank 11.  Learned-operator run: unamb 12.0, amb 19.5, top-1 0.

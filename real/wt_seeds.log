@@ -1,0 +1,11 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bpe                    vocab  16002  tokens   32,674,764  1.000x
+lex[br=1,exp=0]        vocab  16002  tokens   40,249,846  1.232x
+lex[br=1,exp=1]        vocab  16002  tokens   40,032,034  1.225x
+lex[br=0,exp=0]        vocab  16002  tokens   36,560,202  1.119x
+lex[br=0,exp=1]        vocab  16002  tokens   36,525,514  1.118x
+  seed 0  bpe                    bits/char 1.7571
+  seed 0  lex[br=1,exp=0]        bits/char 1.7059
+  seed 0  lex[br=1,exp=1]        bits/char 1.6903
+  seed 0  lex[br=0,exp=0]        bits/char 1.7017
+  seed 0  lex[br=0,exp=1]        bits/char 1.6972

@@ -1,0 +1,18 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bpe           vocab  16002  tokens   32,674,764  1.000x bpe
+lexeme-lean   vocab  16002  tokens   36,525,514  1.118x bpe
+  (previous lexeme: 1.230x bpe)
+
+  L6 d384 bpe           trunk  10.65M  eval bits/char 1.747
+  L6 d384 lexeme-lean   trunk  10.65M  eval bits/char 1.697
+  L8 d512 bpe           trunk  25.22M  eval bits/char 1.672
+  L8 d512 lexeme-lean   trunk  25.22M  eval bits/char 1.633
+
+==============================================================================
+trunk            params      bpe   lexeme-lean    delta   token cost
+------------------------------------------------------------------------------
+L6 d384         10.65M    1.747         1.697   -0.051        1.12x
+L8 d512         25.22M    1.672         1.633   -0.039        1.12x
+
+reference (bracketed, 1.23x tokens): L6 -0.072, L8 -0.047
+BPE alone L6->L8: -0.078 bits/char for 2.37x params (+137% compute)

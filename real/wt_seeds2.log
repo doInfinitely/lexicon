@@ -1,0 +1,29 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bpe           vocab  16002  tokens   32,674,764  1.000x bpe
+lex-v1        vocab  16002  tokens   40,249,846  1.232x bpe
+lex-v2        vocab  16002  tokens   40,864,183  1.251x bpe
+lex-v2-lean   vocab  16002  tokens   37,174,539  1.138x bpe
+
+  seed 0  bpe           bits/char 1.7485
+  seed 0  lex-v1        bits/char 1.6871
+  seed 0  lex-v2        bits/char 1.7316
+  seed 0  lex-v2-lean   bits/char 1.7301
+  seed 1  bpe           bits/char 1.7575
+  seed 1  lex-v1        bits/char 1.7260
+  seed 1  lex-v2        bits/char 1.7412
+  seed 1  lex-v2-lean   bits/char 1.7438
+  seed 2  bpe           bits/char 1.7461
+  seed 2  lex-v1        bits/char 1.7102
+  seed 2  lex-v2        bits/char 1.7289
+  seed 2  lex-v2-lean   bits/char 1.7545
+
+============================================================================
+arm               mean      sd    vs bpe    sd(d)   tokens  compute-eq
+----------------------------------------------------------------------------
+bpe             1.7507  0.0060   +0.0000   0.0000    1.00x       1.00x
+lex-v1          1.7078  0.0196   -0.0429   0.0162    1.23x       1.33x
+lex-v2          1.7339  0.0065   -0.0168   0.0005    1.25x       0.97x
+lex-v2-lean     1.7428  0.0122   -0.0079   0.0143    1.14x       0.96x
+
+bpe seed sd: 0.0060   (noise band assumed so far: +/-0.05)
+compute-eq = params-equivalent gain / token cost; >1 means cheaper than buying the same bits with a bigger trunk

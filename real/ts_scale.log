@@ -1,0 +1,33 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+held-out forms (15): dried, dug, fed, flies, fought, gotten, laid, lives, men, mice, paid, rang, rode, spun, swung
+
+train 58000, clean-eval 2000, held-out-form test 3000
+word                 vocab 12002
+lexeme (postfix)     vocab 5982
+word                 11,962,982 training tokens
+lexeme (postfix)     15,340,477 training tokens
+  L6 d384  word               trunk 10.65M  emb 4.81M  bits/char 1.160
+  L6 d384  lexeme (postfix)   trunk 10.65M  emb 2.49M  bits/char 1.062
+  L4 d256  word               trunk 3.16M  emb 3.20M  bits/char 1.272
+  L4 d256  lexeme (postfix)   trunk 3.16M  emb 1.66M  bits/char 1.324
+  L3 d192  word               trunk 1.33M  emb 2.40M  bits/char 1.325
+  L3 d192  lexeme (postfix)   trunk 1.33M  emb 1.25M  bits/char 1.442
+  L2 d128  word               trunk 0.40M  emb 1.60M  bits/char 1.414
+  L2 d128  lexeme (postfix)   trunk 0.40M  emb 0.83M  bits/char 1.536
+  L1 d96  word               trunk 0.11M  emb 1.20M  bits/char 1.527
+  L1 d96  lexeme (postfix)   trunk 0.11M  emb 0.62M  bits/char 1.623
+
+==============================================================================
+bits/char by TRUNK size (embeddings excluded from the size)
+==============================================================================
+trunk             trunk params        word      lexeme     delta
+------------------------------------------------------------------------------
+L6 d384                10.65M       1.160       1.062    -0.098
+L4 d256                 3.16M       1.272       1.324    +0.052
+L3 d192                 1.33M       1.325       1.442    +0.118
+L2 d128                 0.40M       1.414       1.536    +0.122
+L1 d96                  0.11M       1.527       1.623    +0.096
+
+negative delta = the lexeme language is better at that trunk size.
+If the lexeme curve stays flat as the trunk shrinks while the word
+curve degrades, the language is doing work the trunk no longer has to.

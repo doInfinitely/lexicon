@@ -1,0 +1,32 @@
+{
+ "16": {
+  "anchors": 16,
+  "covered": 628,
+  "generating_set": 2156,
+  "ratio": 1.284
+ },
+ "32": {
+  "anchors": 32,
+  "covered": 1398,
+  "generating_set": 1402,
+  "ratio": 1.974
+ },
+ "64": {
+  "anchors": 64,
+  "covered": 1962,
+  "generating_set": 870,
+  "ratio": 3.182
+ },
+ "128": {
+  "anchors": 128,
+  "covered": 2371,
+  "generating_set": 525,
+  "ratio": 5.272
+ },
+ "256": {
+  "anchors": 256,
+  "covered": 2577,
+  "generating_set": 447,
+  "ratio": 6.192
+ }
+}

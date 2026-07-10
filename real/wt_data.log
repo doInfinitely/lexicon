@@ -1,0 +1,55 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+full train 198,000 paragraphs; eval 2,000 (held fixed)
+
+--- 10,000 paragraphs (1.37M words) ---
+  bpe      vocab  16002  tokens   1,646,657  1.000x
+  lex-v6   vocab  16002  tokens   1,967,917  1.195x
+  lex-v3   vocab  16002  tokens   2,102,995  1.277x
+    seed 0 bpe      steps   268  bits/char 2.9622
+    seed 0 lex-v6   steps   320  bits/char 2.7000
+    seed 0 lex-v3   steps   342  bits/char 2.7433
+    seed 1 bpe      steps   268  bits/char 2.9627
+    seed 1 lex-v6   steps   320  bits/char 2.6556
+    seed 1 lex-v3   steps   342  bits/char 2.7379
+    seed 2 bpe      steps   268  bits/char 2.9327
+    seed 2 lex-v6   steps   320  bits/char 2.6526
+    seed 2 lex-v3   steps   342  bits/char 2.7069
+--- 40,000 paragraphs (5.48M words) ---
+  bpe      vocab  16002  tokens   6,570,696  1.000x
+  lex-v6   vocab  16002  tokens   7,875,998  1.199x
+  lex-v3   vocab  16002  tokens   8,426,906  1.282x
+    seed 0 bpe      steps  1069  bits/char 1.9654
+    seed 0 lex-v6   steps  1281  bits/char 1.9388
+    seed 0 lex-v3   steps  1371  bits/char 2.0254
+    seed 1 bpe      steps  1069  bits/char 1.9582
+    seed 1 lex-v6   steps  1281  bits/char 1.9446
+    seed 1 lex-v3   steps  1371  bits/char 2.0293
+    seed 2 bpe      steps  1069  bits/char 1.9541
+    seed 2 lex-v6   steps  1281  bits/char 1.9510
+    seed 2 lex-v3   steps  1371  bits/char 2.0495
+--- 160,000 paragraphs (22.03M words) ---
+  bpe      vocab  16002  tokens  26,392,659  1.000x
+  lex-v6   vocab  16002  tokens  31,629,001  1.198x
+  lex-v3   vocab  16002  tokens  33,849,317  1.283x
+    seed 0 bpe      steps  4295  bits/char 1.7329
+    seed 0 lex-v6   steps  5147  bits/char 1.6164
+    seed 0 lex-v3   steps  5509  bits/char 1.6531
+    seed 1 bpe      steps  4295  bits/char 1.7447
+    seed 1 lex-v6   steps  5147  bits/char 1.6154
+    seed 1 lex-v3   steps  5509  bits/char 1.6584
+    seed 2 bpe      steps  4295  bits/char 1.7283
+    seed 2 lex-v6   steps  5147  bits/char 1.6229
+    seed 2 lex-v3   steps  5509  bits/char 1.6552
+
+============================================================================
+paragraphs           bpe   lex-v6 (infl)   lex-v3 (+deriv)    v6-bpe    v3-v6
+----------------------------------------------------------------------------
+10,000             2.953           2.669             2.729   -0.2831  +0.0600
+40,000             1.959           1.945             2.035   -0.0145  +0.0899
+160,000            1.735           1.618             1.656   -0.1170  +0.0373
+
+EQUAL EPOCHS (2 passes over each arm's own stream); compute differs by the
+token ratio, which compute-equivalence charges separately.
+
+P1: v6-bpe should become MORE negative as the corpus shrinks
+P2: v3-v6 should become NEGATIVE at 10k (derivation earns its place when data is scarce)

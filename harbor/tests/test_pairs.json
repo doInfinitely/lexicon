@@ -1,0 +1,6491 @@
+[
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "year",
+  "target": "years",
+  "alternates": [
+   "years"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "website",
+  "target": "websites",
+  "alternates": [
+   "websites"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "area",
+  "target": "areas",
+  "alternates": [
+   "areas"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "period",
+  "target": "periods",
+  "alternates": [
+   "periods"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "solution",
+  "target": "solutions",
+  "alternates": [
+   "solutions"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "council",
+  "target": "councils",
+  "alternates": [
+   "councils"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "road",
+  "target": "roads",
+  "alternates": [
+   "roads"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "customer",
+  "target": "customers",
+  "alternates": [
+   "customers"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "death",
+  "target": "deaths",
+  "alternates": [
+   "deaths"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "example",
+  "target": "examples",
+  "alternates": [
+   "examples"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "fact",
+  "target": "facts",
+  "alternates": [
+   "facts"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "god",
+  "target": "gods",
+  "alternates": [
+   "gods"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "application",
+  "target": "applications",
+  "alternates": [
+   "applications"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "day",
+  "target": "days",
+  "alternates": [
+   "days"
+  ]
+ },
+ {
+  "relation": "I01_noun_plural_reg",
+  "source": "student",
+  "target": "students",
+  "alternates": [
+   "students"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "technology",
+  "target": "technologies",
+  "alternates": [
+   "technologies"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "country",
+  "target": "countries",
+  "alternates": [
+   "countries"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "activity",
+  "target": "activities",
+  "alternates": [
+   "activities"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "analysis",
+  "target": "analyses",
+  "alternates": [
+   "analyses"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "city",
+  "target": "cities",
+  "alternates": [
+   "cities"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "secretary",
+  "target": "secretaries",
+  "alternates": [
+   "secretaries"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "formula",
+  "target": "formulae",
+  "alternates": [
+   "formulae"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "society",
+  "target": "societies",
+  "alternates": [
+   "societies"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "species",
+  "target": "species",
+  "alternates": [
+   "species"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "economy",
+  "target": "economies",
+  "alternates": [
+   "economies"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "safety",
+  "target": "safeties",
+  "alternates": [
+   "safeties"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "army",
+  "target": "armies",
+  "alternates": [
+   "armies"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "history",
+  "target": "histories",
+  "alternates": [
+   "histories"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "basis",
+  "target": "bases",
+  "alternates": [
+   "bases"
+  ]
+ },
+ {
+  "relation": "I02_noun_plural_irreg",
+  "source": "responsibility",
+  "target": "responsibilities",
+  "alternates": [
+   "responsibilities"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "sexy",
+  "target": "sexier",
+  "alternates": [
+   "sexier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "huge",
+  "target": "huger",
+  "alternates": [
+   "huger"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "fierce",
+  "target": "fiercer",
+  "alternates": [
+   "fiercer"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "hungry",
+  "target": "hungrier",
+  "alternates": [
+   "hungrier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "handy",
+  "target": "handier",
+  "alternates": [
+   "handier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "pure",
+  "target": "purer",
+  "alternates": [
+   "purer"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "ugly",
+  "target": "uglier",
+  "alternates": [
+   "uglier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "neat",
+  "target": "neater",
+  "alternates": [
+   "neater"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "rocky",
+  "target": "rockier",
+  "alternates": [
+   "rockier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "tasty",
+  "target": "tastier",
+  "alternates": [
+   "tastier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "weird",
+  "target": "weirder",
+  "alternates": [
+   "weirder"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "mad",
+  "target": "madder",
+  "alternates": [
+   "madder"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "vague",
+  "target": "vaguer",
+  "alternates": [
+   "vaguer"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "sticky",
+  "target": "stickier",
+  "alternates": [
+   "stickier"
+  ]
+ },
+ {
+  "relation": "I03_adj_comparative",
+  "source": "healthy",
+  "target": "healthier",
+  "alternates": [
+   "healthier"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "nasty",
+  "target": "nastiest",
+  "alternates": [
+   "nastiest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "fierce",
+  "target": "fiercest",
+  "alternates": [
+   "fiercest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "hardy",
+  "target": "hardiest",
+  "alternates": [
+   "hardiest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "tasty",
+  "target": "tastiest",
+  "alternates": [
+   "tastiest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "lengthy",
+  "target": "lengthiest",
+  "alternates": [
+   "lengthiest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "subtle",
+  "target": "subtlest",
+  "alternates": [
+   "subtlest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "cute",
+  "target": "cutest",
+  "alternates": [
+   "cutest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "tricky",
+  "target": "trickiest",
+  "alternates": [
+   "trickiest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "happy",
+  "target": "happiest",
+  "alternates": [
+   "happiest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "rude",
+  "target": "rudest",
+  "alternates": [
+   "rudest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "huge",
+  "target": "hugest",
+  "alternates": [
+   "hugest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "vague",
+  "target": "vaguest",
+  "alternates": [
+   "vaguest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "able",
+  "target": "ablest",
+  "alternates": [
+   "ablest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "pure",
+  "target": "purest",
+  "alternates": [
+   "purest"
+  ]
+ },
+ {
+  "relation": "I04_adj_superlative",
+  "source": "handy",
+  "target": "handiest",
+  "alternates": [
+   "handiest"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "accept",
+  "target": "accepts",
+  "alternates": [
+   "accepts"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "receive",
+  "target": "receives",
+  "alternates": [
+   "receives"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "refer",
+  "target": "refers",
+  "alternates": [
+   "refers"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "require",
+  "target": "requires",
+  "alternates": [
+   "requires"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "promote",
+  "target": "promotes",
+  "alternates": [
+   "promotes"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "provide",
+  "target": "provides",
+  "alternates": [
+   "provides"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "achieve",
+  "target": "achieves",
+  "alternates": [
+   "achieves"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "exist",
+  "target": "exists",
+  "alternates": [
+   "exists"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "allow",
+  "target": "allows",
+  "alternates": [
+   "allows"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "continue",
+  "target": "continues",
+  "alternates": [
+   "continues"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "create",
+  "target": "creates",
+  "alternates": [
+   "creates"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "ask",
+  "target": "asks",
+  "alternates": [
+   "asks"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "understand",
+  "target": "understands",
+  "alternates": [
+   "understands"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "operate",
+  "target": "operates",
+  "alternates": [
+   "operates"
+  ]
+ },
+ {
+  "relation": "I05_verb_inf_3pSg",
+  "source": "include",
+  "target": "includes",
+  "alternates": [
+   "includes"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "apply",
+  "target": "applying",
+  "alternates": [
+   "applying"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "understand",
+  "target": "understanding",
+  "alternates": [
+   "understanding"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "maintain",
+  "target": "maintaining",
+  "alternates": [
+   "maintaining"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "ensure",
+  "target": "ensuring",
+  "alternates": [
+   "ensuring"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "contain",
+  "target": "containing",
+  "alternates": [
+   "containing"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "learn",
+  "target": "learning",
+  "alternates": [
+   "learning"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "become",
+  "target": "becoming",
+  "alternates": [
+   "becoming"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "lose",
+  "target": "losing",
+  "alternates": [
+   "losing"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "promote",
+  "target": "promoting",
+  "alternates": [
+   "promoting"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "sit",
+  "target": "sitting",
+  "alternates": [
+   "sitting"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "continue",
+  "target": "continuing",
+  "alternates": [
+   "continuing"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "encourage",
+  "target": "encouraging",
+  "alternates": [
+   "encouraging"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "attend",
+  "target": "attending",
+  "alternates": [
+   "attending"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "follow",
+  "target": "following",
+  "alternates": [
+   "following"
+  ]
+ },
+ {
+  "relation": "I06_verb_inf_Ving",
+  "source": "spend",
+  "target": "spending",
+  "alternates": [
+   "spending"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "publish",
+  "target": "published",
+  "alternates": [
+   "published"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "allow",
+  "target": "allowed",
+  "alternates": [
+   "allowed"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "believe",
+  "target": "believed",
+  "alternates": [
+   "believed"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "announce",
+  "target": "announced",
+  "alternates": [
+   "announced"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "require",
+  "target": "required",
+  "alternates": [
+   "required"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "spend",
+  "target": "spent",
+  "alternates": [
+   "spent"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "become",
+  "target": "became",
+  "alternates": [
+   "became"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "marry",
+  "target": "married",
+  "alternates": [
+   "married"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "manage",
+  "target": "managed",
+  "alternates": [
+   "managed"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "locate",
+  "target": "located",
+  "alternates": [
+   "located"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "receive",
+  "target": "received",
+  "alternates": [
+   "received"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "unite",
+  "target": "united",
+  "alternates": [
+   "united"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "agree",
+  "target": "agreed",
+  "alternates": [
+   "agreed"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "ensure",
+  "target": "ensured",
+  "alternates": [
+   "ensured"
+  ]
+ },
+ {
+  "relation": "I07_verb_inf_Ved",
+  "source": "tell",
+  "target": "told",
+  "alternates": [
+   "told"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "receiving",
+  "target": "receives",
+  "alternates": [
+   "receives"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "adding",
+  "target": "adds",
+  "alternates": [
+   "adds"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "providing",
+  "target": "provides",
+  "alternates": [
+   "provides"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "explaining",
+  "target": "explains",
+  "alternates": [
+   "explains"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "publishing",
+  "target": "publishes",
+  "alternates": [
+   "publishes"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "managing",
+  "target": "manages",
+  "alternates": [
+   "manages"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "containing",
+  "target": "contains",
+  "alternates": [
+   "contains"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "existing",
+  "target": "exists",
+  "alternates": [
+   "exists"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "improving",
+  "target": "improves",
+  "alternates": [
+   "improves"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "developing",
+  "target": "develops",
+  "alternates": [
+   "develops"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "applying",
+  "target": "applies",
+  "alternates": [
+   "applies"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "hearing",
+  "target": "hears",
+  "alternates": [
+   "hears"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "considering",
+  "target": "considers",
+  "alternates": [
+   "considers"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "discovering",
+  "target": "discovers",
+  "alternates": [
+   "discovers"
+  ]
+ },
+ {
+  "relation": "I08_verb_Ving_3pSg",
+  "source": "promoting",
+  "target": "promotes",
+  "alternates": [
+   "promotes"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "telling",
+  "target": "told",
+  "alternates": [
+   "told"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "requiring",
+  "target": "required",
+  "alternates": [
+   "required"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "teaching",
+  "target": "taught",
+  "alternates": [
+   "taught"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "reducing",
+  "target": "reduced",
+  "alternates": [
+   "reduced"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "improving",
+  "target": "improved",
+  "alternates": [
+   "improved"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "allowing",
+  "target": "allowed",
+  "alternates": [
+   "allowed"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "providing",
+  "target": "provided",
+  "alternates": [
+   "provided"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "becoming",
+  "target": "became",
+  "alternates": [
+   "became"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "appearing",
+  "target": "appeared",
+  "alternates": [
+   "appeared"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "asking",
+  "target": "asked",
+  "alternates": [
+   "asked"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "adding",
+  "target": "added",
+  "alternates": [
+   "added"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "uniting",
+  "target": "united",
+  "alternates": [
+   "united"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "locating",
+  "target": "located",
+  "alternates": [
+   "located"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "suffering",
+  "target": "suffered",
+  "alternates": [
+   "suffered"
+  ]
+ },
+ {
+  "relation": "I09_verb_Ving_Ved",
+  "source": "publishing",
+  "target": "published",
+  "alternates": [
+   "published"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "develops",
+  "target": "developed",
+  "alternates": [
+   "developed"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "follows",
+  "target": "followed",
+  "alternates": [
+   "followed"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "intends",
+  "target": "intended",
+  "alternates": [
+   "intended"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "seems",
+  "target": "seemed",
+  "alternates": [
+   "seemed"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "agrees",
+  "target": "agreed",
+  "alternates": [
+   "agreed"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "remains",
+  "target": "remained",
+  "alternates": [
+   "remained"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "sends",
+  "target": "sent",
+  "alternates": [
+   "sent"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "expects",
+  "target": "expected",
+  "alternates": [
+   "expected"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "happens",
+  "target": "happened",
+  "alternates": [
+   "happened"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "loses",
+  "target": "lost",
+  "alternates": [
+   "lost"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "contains",
+  "target": "contained",
+  "alternates": [
+   "contained"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "creates",
+  "target": "created",
+  "alternates": [
+   "created"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "manages",
+  "target": "managed",
+  "alternates": [
+   "managed"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "allows",
+  "target": "allowed",
+  "alternates": [
+   "allowed"
+  ]
+ },
+ {
+  "relation": "I10_verb_3pSg_Ved",
+  "source": "includes",
+  "target": "included",
+  "alternates": [
+   "included"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "path",
+  "target": "pathless",
+  "alternates": [
+   "pathless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "goal",
+  "target": "goalless",
+  "alternates": [
+   "goalless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "home",
+  "target": "homeless",
+  "alternates": [
+   "homeless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "talent",
+  "target": "talentless",
+  "alternates": [
+   "talentless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "law",
+  "target": "lawless",
+  "alternates": [
+   "lawless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "tact",
+  "target": "tactless",
+  "alternates": [
+   "tactless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "money",
+  "target": "moneyless",
+  "alternates": [
+   "moneyless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "god",
+  "target": "godless",
+  "alternates": [
+   "godless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "death",
+  "target": "deathless",
+  "alternates": [
+   "deathless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "window",
+  "target": "windowless",
+  "alternates": [
+   "windowless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "guile",
+  "target": "guileless",
+  "alternates": [
+   "guileless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "sensor",
+  "target": "sensorless",
+  "alternates": [
+   "sensorless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "guilt",
+  "target": "guiltless",
+  "alternates": [
+   "guiltless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "speech",
+  "target": "speechless",
+  "alternates": [
+   "speechless"
+  ]
+ },
+ {
+  "relation": "D01_noun_less_reg",
+  "source": "carbon",
+  "target": "carbonless",
+  "alternates": [
+   "carbonless"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "used",
+  "target": "unused",
+  "alternates": [
+   "unused"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "reasonable",
+  "target": "unreasonable",
+  "alternates": [
+   "unreasonable"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "known",
+  "target": "unknown",
+  "alternates": [
+   "unknown"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "noticed",
+  "target": "unnoticed",
+  "alternates": [
+   "unnoticed"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "available",
+  "target": "unavailable",
+  "alternates": [
+   "unavailable"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "resolved",
+  "target": "unresolved",
+  "alternates": [
+   "unresolved"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "paid",
+  "target": "unpaid",
+  "alternates": [
+   "unpaid"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "desirable",
+  "target": "undesirable",
+  "alternates": [
+   "undesirable"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "affected",
+  "target": "unaffected",
+  "alternates": [
+   "unaffected"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "acceptable",
+  "target": "unacceptable",
+  "alternates": [
+   "unacceptable"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "certain",
+  "target": "uncertain",
+  "alternates": [
+   "uncertain"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "conditional",
+  "target": "unconditional",
+  "alternates": [
+   "unconditional"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "controlled",
+  "target": "uncontrolled",
+  "alternates": [
+   "uncontrolled"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "forgettable",
+  "target": "unforgettable",
+  "alternates": [
+   "unforgettable"
+  ]
+ },
+ {
+  "relation": "D02_un_adj_reg",
+  "source": "successful",
+  "target": "unsuccessful",
+  "alternates": [
+   "unsuccessful"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "global",
+  "target": "globally",
+  "alternates": [
+   "globally"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "beautiful",
+  "target": "beautifully",
+  "alternates": [
+   "beautifully"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "typical",
+  "target": "typically",
+  "alternates": [
+   "typically"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "strong",
+  "target": "strongly",
+  "alternates": [
+   "strongly"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "successful",
+  "target": "successfully",
+  "alternates": [
+   "successfully"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "physical",
+  "target": "physically",
+  "alternates": [
+   "physically"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "popular",
+  "target": "popularly",
+  "alternates": [
+   "popularly"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "financial",
+  "target": "financially",
+  "alternates": [
+   "financially"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "significant",
+  "target": "significantly",
+  "alternates": [
+   "significantly"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "famous",
+  "target": "famously",
+  "alternates": [
+   "famously"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "federal",
+  "target": "federally",
+  "alternates": [
+   "federally"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "mental",
+  "target": "mentally",
+  "alternates": [
+   "mentally"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "obvious",
+  "target": "obviously",
+  "alternates": [
+   "obviously"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "unique",
+  "target": "uniquely",
+  "alternates": [
+   "uniquely"
+  ]
+ },
+ {
+  "relation": "D03_adj_ly_reg",
+  "source": "different",
+  "target": "differently",
+  "alternates": [
+   "differently"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "stressed",
+  "target": "overstressed",
+  "alternates": [
+   "overstressed",
+   "over-stressed"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "taken",
+  "target": "overtaken",
+  "alternates": [
+   "overtaken",
+   "over-taken"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "sized",
+  "target": "oversized",
+  "alternates": [
+   "oversized",
+   "over-sized"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "developed",
+  "target": "overdeveloped",
+  "alternates": [
+   "overdeveloped",
+   "over-developed"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "qualified",
+  "target": "overqualified",
+  "alternates": [
+   "overqualified",
+   "over-qualified"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "dressed",
+  "target": "overdressed",
+  "alternates": [
+   "overdressed",
+   "over-dressed"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "populated",
+  "target": "overpopulated",
+  "alternates": [
+   "overpopulated",
+   "over-populated"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "optimistic",
+  "target": "overoptimistic",
+  "alternates": [
+   "overoptimistic",
+   "over-optimistic"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "played",
+  "target": "overplayed",
+  "alternates": [
+   "overplayed",
+   "over-played"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "arching",
+  "target": "overarching",
+  "alternates": [
+   "overarching",
+   "over-arching"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "zealous",
+  "target": "overzealous",
+  "alternates": [
+   "overzealous",
+   "over-zealous"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "protected",
+  "target": "overprotected",
+  "alternates": [
+   "overprotected",
+   "over-protected"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "heated",
+  "target": "overheated",
+  "alternates": [
+   "overheated",
+   "over-heated"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "filled",
+  "target": "overfilled",
+  "alternates": [
+   "overfilled",
+   "over-filled"
+  ]
+ },
+ {
+  "relation": "D04_over_adj_reg",
+  "source": "saturated",
+  "target": "oversaturated",
+  "alternates": [
+   "oversaturated",
+   "over-saturated"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "serious",
+  "target": "seriousness",
+  "alternates": [
+   "seriousness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "dangerous",
+  "target": "dangerousness",
+  "alternates": [
+   "dangerousness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "huge",
+  "target": "hugeness",
+  "alternates": [
+   "hugeness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "extensive",
+  "target": "extensiveness",
+  "alternates": [
+   "extensiveness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "massive",
+  "target": "massiveness",
+  "alternates": [
+   "massiveness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "distinct",
+  "target": "distinctness",
+  "alternates": [
+   "distinctness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "rare",
+  "target": "rareness",
+  "alternates": [
+   "rareness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "connected",
+  "target": "connectedness",
+  "alternates": [
+   "connectedness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "same",
+  "target": "sameness",
+  "alternates": [
+   "sameness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "nice",
+  "target": "niceness",
+  "alternates": [
+   "niceness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "conscious",
+  "target": "consciousness",
+  "alternates": [
+   "consciousness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "effective",
+  "target": "effectiveness",
+  "alternates": [
+   "effectiveness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "creative",
+  "target": "creativeness",
+  "alternates": [
+   "creativeness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "righteous",
+  "target": "righteousness",
+  "alternates": [
+   "righteousness"
+  ]
+ },
+ {
+  "relation": "D05_adj_ness_reg",
+  "source": "attractive",
+  "target": "attractiveness",
+  "alternates": [
+   "attractiveness"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "publish",
+  "target": "republish",
+  "alternates": [
+   "republish"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "unite",
+  "target": "reunite",
+  "alternates": [
+   "reunite"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "upload",
+  "target": "reupload",
+  "alternates": [
+   "reupload"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "install",
+  "target": "reinstall",
+  "alternates": [
+   "reinstall"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "invest",
+  "target": "reinvest",
+  "alternates": [
+   "reinvest"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "negotiate",
+  "target": "renegotiate",
+  "alternates": [
+   "renegotiate"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "decorate",
+  "target": "redecorate",
+  "alternates": [
+   "redecorate"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "organize",
+  "target": "reorganize",
+  "alternates": [
+   "reorganize",
+   "reorganise"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "introduce",
+  "target": "reintroduce",
+  "alternates": [
+   "reintroduce"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "commend",
+  "target": "recommend",
+  "alternates": [
+   "recommend"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "examine",
+  "target": "reexamine",
+  "alternates": [
+   "reexamine"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "calculate",
+  "target": "recalculate",
+  "alternates": [
+   "recalculate"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "submit",
+  "target": "resubmit",
+  "alternates": [
+   "resubmit"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "grow",
+  "target": "regrow",
+  "alternates": [
+   "regrow"
+  ]
+ },
+ {
+  "relation": "D06_re_verb_reg",
+  "source": "occur",
+  "target": "reoccur",
+  "alternates": [
+   "reoccur"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "execute",
+  "target": "executable",
+  "alternates": [
+   "executable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "understand",
+  "target": "understandable",
+  "alternates": [
+   "understandable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "identify",
+  "target": "identifiable",
+  "alternates": [
+   "identifiable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "discover",
+  "target": "discoverable",
+  "alternates": [
+   "discoverable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "enjoy",
+  "target": "enjoyable",
+  "alternates": [
+   "enjoyable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "adore",
+  "target": "adorable",
+  "alternates": [
+   "adorable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "achieve",
+  "target": "achieveable",
+  "alternates": [
+   "achieveable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "inflate",
+  "target": "inflatable",
+  "alternates": [
+   "inflatable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "write",
+  "target": "writeable",
+  "alternates": [
+   "writeable",
+   "writable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "rely",
+  "target": "reliable",
+  "alternates": [
+   "reliable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "maintain",
+  "target": "maintainable",
+  "alternates": [
+   "maintainable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "represent",
+  "target": "representable",
+  "alternates": [
+   "representable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "dispose",
+  "target": "disposable",
+  "alternates": [
+   "disposable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "prefer",
+  "target": "preferable",
+  "alternates": [
+   "preferable"
+  ]
+ },
+ {
+  "relation": "D07_verb_able_reg",
+  "source": "manage",
+  "target": "manageable",
+  "alternates": [
+   "manageable"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "recommend",
+  "target": "recommender",
+  "alternates": [
+   "recommender"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "tell",
+  "target": "teller",
+  "alternates": [
+   "teller"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "borrow",
+  "target": "borrower",
+  "alternates": [
+   "borrower"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "offend",
+  "target": "offender",
+  "alternates": [
+   "offender"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "teach",
+  "target": "teacher",
+  "alternates": [
+   "teacher"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "entertain",
+  "target": "entertainer",
+  "alternates": [
+   "entertainer"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "preach",
+  "target": "preacher",
+  "alternates": [
+   "preacher"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "bake",
+  "target": "baker",
+  "alternates": [
+   "baker"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "announce",
+  "target": "announcer",
+  "alternates": [
+   "announcer"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "eat",
+  "target": "eater",
+  "alternates": [
+   "eater"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "compose",
+  "target": "composer",
+  "alternates": [
+   "composer"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "perform",
+  "target": "performer",
+  "alternates": [
+   "performer"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "subscribe",
+  "target": "subscriber",
+  "alternates": [
+   "subscriber"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "achieve",
+  "target": "achiever",
+  "alternates": [
+   "achiever"
+  ]
+ },
+ {
+  "relation": "D08_verb_er_irreg",
+  "source": "examine",
+  "target": "examiner",
+  "alternates": [
+   "examiner"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "stabilize",
+  "target": "stabilization",
+  "alternates": [
+   "stabilization"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "authorize",
+  "target": "authorization",
+  "alternates": [
+   "authorization",
+   "authorisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "optimize",
+  "target": "optimization",
+  "alternates": [
+   "optimization",
+   "optimisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "configure",
+  "target": "configuration",
+  "alternates": [
+   "configuration"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "declare",
+  "target": "declaration",
+  "alternates": [
+   "declaration"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "condense",
+  "target": "condensation",
+  "alternates": [
+   "condensation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "characterize",
+  "target": "characterization",
+  "alternates": [
+   "characterization",
+   "characterisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "reorganize",
+  "target": "reorganization",
+  "alternates": [
+   "reorganization",
+   "reorganisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "degrade",
+  "target": "degradation",
+  "alternates": [
+   "degradation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "standardize",
+  "target": "standardization",
+  "alternates": [
+   "standardization",
+   "standardisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "randomize",
+  "target": "randomization",
+  "alternates": [
+   "randomization",
+   "randomisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "continue",
+  "target": "continuation",
+  "alternates": [
+   "continuation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "civilize",
+  "target": "civilization",
+  "alternates": [
+   "civilization",
+   "civilisation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "starve",
+  "target": "starvation",
+  "alternates": [
+   "starvation"
+  ]
+ },
+ {
+  "relation": "D09_verb_tion_irreg",
+  "source": "privatize",
+  "target": "privatization",
+  "alternates": [
+   "privatization",
+   "privatisation"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "embarrass",
+  "target": "embarrassment",
+  "alternates": [
+   "embarrassment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "enlighten",
+  "target": "enlightenment",
+  "alternates": [
+   "enlightenment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "acknowledge",
+  "target": "acknowledgement",
+  "alternates": [
+   "acknowledgement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "improve",
+  "target": "improvement",
+  "alternates": [
+   "improvement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "agree",
+  "target": "agreement",
+  "alternates": [
+   "agreement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "enroll",
+  "target": "enrollment",
+  "alternates": [
+   "enrollment",
+   "enrolment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "equip",
+  "target": "equipment",
+  "alternates": [
+   "equipment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "fulfil",
+  "target": "fulfilment",
+  "alternates": [
+   "fulfilment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "establish",
+  "target": "establishment",
+  "alternates": [
+   "establishment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "disagree",
+  "target": "disagreement",
+  "alternates": [
+   "disagreement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "enhance",
+  "target": "enhancement",
+  "alternates": [
+   "enhancement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "require",
+  "target": "requirement",
+  "alternates": [
+   "requirement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "displace",
+  "target": "displacement",
+  "alternates": [
+   "displacement"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "redevelop",
+  "target": "redevelopment",
+  "alternates": [
+   "redevelopment"
+  ]
+ },
+ {
+  "relation": "D10_verb_ment_irreg",
+  "source": "entertain",
+  "target": "entertainment",
+  "alternates": [
+   "entertainment"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "warsaw",
+  "target": "poland",
+  "alternates": [
+   "poland"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "beirut",
+  "target": "lebanon",
+  "alternates": [
+   "lebanon"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "rome",
+  "target": "italy",
+  "alternates": [
+   "italy"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "conakry",
+  "target": "guinea",
+  "alternates": [
+   "guinea"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "dublin",
+  "target": "ireland",
+  "alternates": [
+   "ireland"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "bangkok",
+  "target": "thailand",
+  "alternates": [
+   "thailand"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "lima",
+  "target": "peru",
+  "alternates": [
+   "peru"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "ankara",
+  "target": "turkey",
+  "alternates": [
+   "turkey"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "nairobi",
+  "target": "kenya",
+  "alternates": [
+   "kenya"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "jakarta",
+  "target": "indonesia",
+  "alternates": [
+   "indonesia"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "stockholm",
+  "target": "sweden",
+  "alternates": [
+   "sweden"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "damascus",
+  "target": "syria",
+  "alternates": [
+   "syria"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "london",
+  "target": "england",
+  "alternates": [
+   "england",
+   "uk",
+   "britain"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "tbilisi",
+  "target": "georgia",
+  "alternates": [
+   "georgia"
+  ]
+ },
+ {
+  "relation": "E01_country_capital",
+  "source": "kabul",
+  "target": "afghanistan",
+  "alternates": [
+   "afghanistan"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "mexico",
+  "target": "spanish",
+  "alternates": [
+   "spanish",
+   "nahuatl"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "usa",
+  "target": "english",
+  "alternates": [
+   "english"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "cyprus",
+  "target": "greek",
+  "alternates": [
+   "greek",
+   "turkish"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "netherlands",
+  "target": "dutch",
+  "alternates": [
+   "dutch",
+   "frisian"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "jamaica",
+  "target": "english",
+  "alternates": [
+   "english",
+   "creole"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "iran",
+  "target": "persian",
+  "alternates": [
+   "persian"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "ecuador",
+  "target": "spanish",
+  "alternates": [
+   "spanish",
+   "quechua"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "kazakhstan",
+  "target": "kazak",
+  "alternates": [
+   "kazak",
+   "qazaq",
+   "russian"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "egypt",
+  "target": "arabic",
+  "alternates": [
+   "arabic"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "jordan",
+  "target": "arabic",
+  "alternates": [
+   "arabic"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "brazil",
+  "target": "portuguese",
+  "alternates": [
+   "portuguese"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "norway",
+  "target": "norwegian",
+  "alternates": [
+   "norwegian",
+   "bokm\u00e5l",
+   "bokmal",
+   "nynorsk"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "venezuela",
+  "target": "spanish",
+  "alternates": [
+   "spanish"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "israel",
+  "target": "hebrew",
+  "alternates": [
+   "hebrew",
+   "arabic"
+  ]
+ },
+ {
+  "relation": "E02_country_language",
+  "source": "belize",
+  "target": "english",
+  "alternates": [
+   "english"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "hereford",
+  "target": "herefordshire",
+  "alternates": [
+   "herefordshire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "nottingham",
+  "target": "nottinghamshire",
+  "alternates": [
+   "nottinghamshire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "cardiff",
+  "target": "glamorgan",
+  "alternates": [
+   "glamorgan"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "york",
+  "target": "yorkshire",
+  "alternates": [
+   "yorkshire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "norwich",
+  "target": "norfolk",
+  "alternates": [
+   "norfolk"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "carlisle",
+  "target": "cumbria",
+  "alternates": [
+   "cumbria"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "southampton",
+  "target": "hampshire",
+  "alternates": [
+   "hampshire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "stirling",
+  "target": "stirlingshire",
+  "alternates": [
+   "stirlingshire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "wakefield",
+  "target": "yorkshire",
+  "alternates": [
+   "yorkshire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "lancaster",
+  "target": "lancashire",
+  "alternates": [
+   "lancashire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "wells",
+  "target": "somerset",
+  "alternates": [
+   "somerset"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "newport",
+  "target": "gwent",
+  "alternates": [
+   "gwent"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "wolverhampton",
+  "target": "midlands",
+  "alternates": [
+   "midlands"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "gloucester",
+  "target": "gloucestershire",
+  "alternates": [
+   "gloucestershire"
+  ]
+ },
+ {
+  "relation": "E03_UK_city_county",
+  "source": "belfast",
+  "target": "antrim",
+  "alternates": [
+   "antrim"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "kant",
+  "target": "german",
+  "alternates": [
+   "german"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "jolie",
+  "target": "american",
+  "alternates": [
+   "american"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "hegel",
+  "target": "german",
+  "alternates": [
+   "german"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "caesar",
+  "target": "roman",
+  "alternates": [
+   "roman"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "homer",
+  "target": "greek",
+  "alternates": [
+   "greek"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "beethoven",
+  "target": "german",
+  "alternates": [
+   "german"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "balzac",
+  "target": "french",
+  "alternates": [
+   "french"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "hitler",
+  "target": "german",
+  "alternates": [
+   "german",
+   "austrian"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "dostoyevsky",
+  "target": "russian",
+  "alternates": [
+   "russian"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "lennon",
+  "target": "english",
+  "alternates": [
+   "english",
+   "british"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "truman",
+  "target": "american",
+  "alternates": [
+   "american"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "strauss",
+  "target": "austrian",
+  "alternates": [
+   "austrian"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "plato",
+  "target": "greek",
+  "alternates": [
+   "greek"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "darwin",
+  "target": "english",
+  "alternates": [
+   "english",
+   "british"
+  ]
+ },
+ {
+  "relation": "E04_name_nationality",
+  "source": "lenin",
+  "target": "soviet",
+  "alternates": [
+   "soviet",
+   "russian"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "kant",
+  "target": "philosopher",
+  "alternates": [
+   "philosopher"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "truman",
+  "target": "president",
+  "alternates": [
+   "president"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "goethe",
+  "target": "poet",
+  "alternates": [
+   "poet",
+   "playwright",
+   "novelist",
+   "writer",
+   "author"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "confucius",
+  "target": "philosopher",
+  "alternates": [
+   "philosopher"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "moses",
+  "target": "prophet",
+  "alternates": [
+   "prophet",
+   "leader"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "lincoln",
+  "target": "president",
+  "alternates": [
+   "president"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "edison",
+  "target": "inventor",
+  "alternates": [
+   "inventor",
+   "businessman"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "wagner",
+  "target": "composer",
+  "alternates": [
+   "composer"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "michelangelo",
+  "target": "sculptor",
+  "alternates": [
+   "sculptor",
+   "painter",
+   "architect",
+   "artist",
+   "poet",
+   "engineer"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "hawking",
+  "target": "physicist",
+  "alternates": [
+   "physicist",
+   "scientist"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "stalin",
+  "target": "dictator",
+  "alternates": [
+   "dictator",
+   "politician",
+   "leader",
+   "statesman"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "maxwell",
+  "target": "physicist",
+  "alternates": [
+   "physicist",
+   "scientist"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "rousseau",
+  "target": "writer",
+  "alternates": [
+   "writer",
+   "author",
+   "philosopher"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "hitler",
+  "target": "dictator",
+  "alternates": [
+   "dictator",
+   "politician",
+   "nazi"
+  ]
+ },
+ {
+  "relation": "E05_name_occupation",
+  "source": "plato",
+  "target": "philosopher",
+  "alternates": [
+   "philosopher"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "mink",
+  "target": "kit",
+  "alternates": [
+   "kit",
+   "cub"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "dog",
+  "target": "puppy",
+  "alternates": [
+   "puppy",
+   "pup",
+   "whelp"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "cattle",
+  "target": "calf",
+  "alternates": [
+   "calf",
+   "heifer"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "duck",
+  "target": "duckling",
+  "alternates": [
+   "duckling"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "muskrat",
+  "target": "kit",
+  "alternates": [
+   "kit"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "ox",
+  "target": "calf",
+  "alternates": [
+   "calf",
+   "stot"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "goat",
+  "target": "kid",
+  "alternates": [
+   "kid"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "panda",
+  "target": "cub",
+  "alternates": [
+   "cub"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "camel",
+  "target": "calf",
+  "alternates": [
+   "calf",
+   "colt"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "cicada",
+  "target": "nymph",
+  "alternates": [
+   "nymph"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "chimpanzee",
+  "target": "baby",
+  "alternates": [
+   "baby",
+   "infant"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "herring",
+  "target": "fingerling",
+  "alternates": [
+   "fingerling",
+   "fry"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "fish",
+  "target": "fingerling",
+  "alternates": [
+   "fingerling",
+   "spawn",
+   "egg",
+   "larva",
+   "fry",
+   "minnmow"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "elephant",
+  "target": "calf",
+  "alternates": [
+   "calf"
+  ]
+ },
+ {
+  "relation": "E06_animal_young",
+  "source": "beetle",
+  "target": "larva",
+  "alternates": [
+   "larva"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "mallard",
+  "target": "quack",
+  "alternates": [
+   "quack"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "songbird",
+  "target": "chirrup",
+  "alternates": [
+   "chirrup",
+   "chirp",
+   "tweet",
+   "sing",
+   "warble",
+   "twitter"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "rat",
+  "target": "squeak",
+  "alternates": [
+   "squeak"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "bee",
+  "target": "buzz",
+  "alternates": [
+   "buzz",
+   "hum"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "cicada",
+  "target": "buzz",
+  "alternates": [
+   "buzz"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "chimpanzee",
+  "target": "scream",
+  "alternates": [
+   "scream"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "hound",
+  "target": "bark",
+  "alternates": [
+   "bark",
+   "howl",
+   "bay"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "wasp",
+  "target": "buzz",
+  "alternates": [
+   "buzz"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "fly",
+  "target": "buzz",
+  "alternates": [
+   "buzz"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "lion",
+  "target": "roar",
+  "alternates": [
+   "roar",
+   "growl"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "seal",
+  "target": "bark",
+  "alternates": [
+   "bark"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "cat",
+  "target": "meow",
+  "alternates": [
+   "meow",
+   "meu",
+   "purr",
+   "caterwaul"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "sheep",
+  "target": "baa",
+  "alternates": [
+   "baa",
+   "bleat"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "donkey",
+  "target": "bray",
+  "alternates": [
+   "bray",
+   "hee-haw"
+  ]
+ },
+ {
+  "relation": "E07_animal_sound",
+  "source": "raven",
+  "target": "caw",
+  "alternates": [
+   "caw"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "chimpanzee",
+  "target": "grove",
+  "alternates": [
+   "grove",
+   "tree",
+   "cage"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "dolphin",
+  "target": "sea",
+  "alternates": [
+   "sea",
+   "sanctuary"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "gorilla",
+  "target": "grove",
+  "alternates": [
+   "grove",
+   "tree",
+   "cage"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "bat",
+  "target": "cave",
+  "alternates": [
+   "cave",
+   "cage"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "ape",
+  "target": "grove",
+  "alternates": [
+   "grove",
+   "tree",
+   "cage"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "raven",
+  "target": "nest",
+  "alternates": [
+   "nest",
+   "cage"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "seal",
+  "target": "den",
+  "alternates": [
+   "den",
+   "aquarium",
+   "sea"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "snake",
+  "target": "nest",
+  "alternates": [
+   "nest",
+   "pit",
+   "acquarium"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "crow",
+  "target": "nest",
+  "alternates": [
+   "nest",
+   "cage"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "spider",
+  "target": "web",
+  "alternates": [
+   "web",
+   "acquarium",
+   "terrarium"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "beaver",
+  "target": "dam",
+  "alternates": [
+   "dam",
+   "river",
+   "pen"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "lion",
+  "target": "den",
+  "alternates": [
+   "den",
+   "cage",
+   "savannah"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "cattle",
+  "target": "barn",
+  "alternates": [
+   "barn",
+   "coral"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "crocodile",
+  "target": "river",
+  "alternates": [
+   "river",
+   "lake",
+   "pool"
+  ]
+ },
+ {
+  "relation": "E08_animal_shelter",
+  "source": "fish",
+  "target": "sea",
+  "alternates": [
+   "sea",
+   "lake",
+   "river",
+   "acquarium",
+   "farm",
+   "sanctuary"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "peony",
+  "target": "red",
+  "alternates": [
+   "red",
+   "white",
+   "pink",
+   "purple"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "cucumber",
+  "target": "green",
+  "alternates": [
+   "green"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "raven",
+  "target": "black",
+  "alternates": [
+   "black"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "blackboard",
+  "target": "black",
+  "alternates": [
+   "black",
+   "green"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "coal",
+  "target": "black",
+  "alternates": [
+   "black"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "sun",
+  "target": "yellow",
+  "alternates": [
+   "yellow",
+   "gold"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "tea",
+  "target": "black",
+  "alternates": [
+   "black",
+   "green",
+   "white",
+   "red",
+   "brown",
+   "yellow"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "bruise",
+  "target": "blue",
+  "alternates": [
+   "blue",
+   "purple"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "sapphire",
+  "target": "blue",
+  "alternates": [
+   "blue"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "radish",
+  "target": "red",
+  "alternates": [
+   "red",
+   "pink",
+   "white",
+   "green",
+   "black"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "grapes",
+  "target": "black",
+  "alternates": [
+   "black",
+   "red",
+   "green",
+   "purple"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "parsley",
+  "target": "green",
+  "alternates": [
+   "green"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "pepper",
+  "target": "black",
+  "alternates": [
+   "black",
+   "red",
+   "green",
+   "yellow",
+   "orange"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "blueberry",
+  "target": "blue",
+  "alternates": [
+   "blue",
+   "black"
+  ]
+ },
+ {
+  "relation": "E09_things_color",
+  "source": "tomato",
+  "target": "red",
+  "alternates": [
+   "red"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "brother",
+  "target": "sister",
+  "alternates": [
+   "sister"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "manager",
+  "target": "manageress",
+  "alternates": [
+   "manageress"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "dad",
+  "target": "mom",
+  "alternates": [
+   "mom",
+   "mum"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "heir",
+  "target": "heiress",
+  "alternates": [
+   "heiress"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "gentleman",
+  "target": "lady",
+  "alternates": [
+   "lady",
+   "gentlewoman",
+   "madam"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "stallion",
+  "target": "mare",
+  "alternates": [
+   "mare"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "king",
+  "target": "queen",
+  "alternates": [
+   "queen"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "grandson",
+  "target": "granddaughter",
+  "alternates": [
+   "granddaughter"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "bull",
+  "target": "cow",
+  "alternates": [
+   "cow"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "waiter",
+  "target": "waitress",
+  "alternates": [
+   "waitress"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "hound",
+  "target": "bitch",
+  "alternates": [
+   "bitch"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "man",
+  "target": "woman",
+  "alternates": [
+   "woman"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "groom",
+  "target": "bride",
+  "alternates": [
+   "bride"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "husband",
+  "target": "wife",
+  "alternates": [
+   "wife"
+  ]
+ },
+ {
+  "relation": "E10_male_female",
+  "source": "fisherman",
+  "target": "fisherwoman",
+  "alternates": [
+   "fisherwoman"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "porcupine",
+  "target": "rodent",
+  "alternates": [
+   "rodent",
+   "vertebrate",
+   "creature",
+   "beast",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "chordate",
+   "eutherian",
+   "mammal",
+   "mammalian",
+   "eutherian_mammal",
+   "gnawer",
+   "animate_being",
+   "living_thing",
+   "placental_mammal",
+   "craniate"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "triceratops",
+  "target": "dinosaur",
+  "alternates": [
+   "dinosaur",
+   "reptile",
+   "ceratopsian",
+   "horned_dinosaur",
+   "archosaur",
+   "archosaurian",
+   "archosaurian_reptile"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "anaconda",
+  "target": "snake",
+  "alternates": [
+   "snake",
+   "reptile",
+   "boa",
+   "serpent",
+   "ophidian"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "rattlesnake",
+  "target": "snake",
+  "alternates": [
+   "snake",
+   "reptile",
+   "pit_viper",
+   "serpent",
+   "ophidian"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "velociraptor",
+  "target": "dinosaur",
+  "alternates": [
+   "dinosaur",
+   "reptile",
+   "maniraptor",
+   "archosaur",
+   "archosaurian",
+   "archosaurian_reptile"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "human",
+  "target": "primate",
+  "alternates": [
+   "primate",
+   "vertebrate",
+   "creature",
+   "beast",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "hominid",
+   "chordate",
+   "eutherian",
+   "mammal",
+   "ape",
+   "mammalian",
+   "animate_being",
+   "eutherian_mammal",
+   "placental_mammal",
+   "craniate",
+   "physical_physical_entity",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "wolf",
+  "target": "canine",
+  "alternates": [
+   "canine",
+   "vertebrate",
+   "creature",
+   "beast",
+   "canid",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "carnivore",
+   "chordate",
+   "eutherian",
+   "mammal",
+   "mammalian",
+   "animate_being",
+   "eutherian_mammal",
+   "locomote",
+   "placental_mammal",
+   "craniate",
+   "domesticated_animal",
+   "physical_entity",
+   "domestic_animal",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "pony",
+  "target": "bovid",
+  "alternates": [
+   "bovid",
+   "mammal",
+   "horse",
+   "vertebrate",
+   "creature",
+   "beast",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "eutherian",
+   "mammal",
+   "equine",
+   "mammalian",
+   "equid",
+   "living_thing",
+   "odd-toed_ungulate",
+   "animate_being",
+   "eutherian_mammal",
+   "perissodactyl",
+   "placental_mammal",
+   "craniate",
+   "hoofed_mammal",
+   "physical_entity",
+   "perissodactyl_mammal",
+   "equus_caballus"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "dog",
+  "target": "canine",
+  "alternates": [
+   "canine",
+   "vertebrate",
+   "creature",
+   "beast",
+   "canid",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "carnivore",
+   "chordate",
+   "eutherian",
+   "mammal",
+   "mammalian",
+   "animate_being",
+   "eutherian_mammal",
+   "locomote",
+   "placental_mammal",
+   "craniate",
+   "domesticated_animal",
+   "physical_entity",
+   "domestic_animal",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "butterfly",
+  "target": "insect",
+  "alternates": [
+   "insect",
+   "creature",
+   "beast",
+   "lepidopteran",
+   "animal",
+   "organism",
+   "fauna",
+   "arthropod",
+   "lepidopterous_insect",
+   "lepidopteron",
+   "animate_being",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "goat",
+  "target": "bovid",
+  "alternates": [
+   "bovid",
+   "mammal",
+   "vertebrate",
+   "ungulate",
+   "beast",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "artiodactyl",
+   "chordate",
+   "eutherian",
+   "mammalian",
+   "animate_being",
+   "eutherian_mammal",
+   "placental_mammal",
+   "craniate",
+   "hoofed_mammal",
+   "even-toed_ungulate",
+   "artiodactyl_mammal",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "owl",
+  "target": "raptor",
+  "alternates": [
+   "raptor",
+   "bird",
+   "vertebrate",
+   "creature",
+   "beast",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "chordate",
+   "animate_being",
+   "craniate",
+   "living_thing",
+   "raptorial_bird",
+   "bird_of_prey"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "gibbon",
+  "target": "primate",
+  "alternates": [
+   "primate",
+   "vertebrate",
+   "creature",
+   "beast",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "chordate",
+   "eutherian",
+   "mammal",
+   "ape",
+   "mammalian",
+   "animate_being",
+   "eutherian_mammal",
+   "placental_mammal",
+   "craniate",
+   "physical_physical_entity",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "buffalo",
+  "target": "bovid",
+  "alternates": [
+   "bovid",
+   "mammal",
+   "bison",
+   "cow",
+   "vertebrate",
+   "creature",
+   "ungulate",
+   "beast",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "artiodactyl",
+   "ruminant",
+   "chordate",
+   "eutherian",
+   "mammalian",
+   "bovine",
+   "animate_being",
+   "eutherian_mammal",
+   "placental_mammal",
+   "craniate",
+   "physical_hoofed_mammal",
+   "physical_entity",
+   "even-toed_ungulate",
+   "artiodactyl_mammal",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L01_hypernyms_animals",
+  "source": "cow",
+  "target": "bovid",
+  "alternates": [
+   "bovid",
+   "mammal",
+   "cattle",
+   "vertebrate",
+   "creature",
+   "ungulate",
+   "beast",
+   "being",
+   "animal",
+   "organism",
+   "fauna",
+   "placental",
+   "artiodactyl",
+   "ruminant",
+   "chordate",
+   "eutherian",
+   "mammalian",
+   "animate_being",
+   "eutherian_mammal",
+   "placental_mammal",
+   "craniate",
+   "physical_hoofed_mammal",
+   "physical_entity",
+   "even-toed_ungulate",
+   "artiodactyl_mammal",
+   "living_thing"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "toaster",
+  "target": "appliance",
+  "alternates": [
+   "appliance",
+   "entity",
+   "unit",
+   "object",
+   "physical_object",
+   "kitchen_appliance",
+   "home_appliance",
+   "household_appliance",
+   "durables",
+   "durable_goods",
+   "consumer_durables",
+   "consumer_goods",
+   "commodity",
+   "trade_good",
+   "good",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "tub",
+  "target": "container",
+  "alternates": [
+   "container",
+   "vessel",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "juicer",
+  "target": "utensil",
+  "alternates": [
+   "utensil",
+   "physical_entity",
+   "entity",
+   "unit",
+   "object",
+   "physical_object",
+   "squeezer",
+   "kitchen_utensil",
+   "implement",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "cup",
+  "target": "tableware",
+  "alternates": [
+   "tableware",
+   "crockery",
+   "dishware",
+   "ware",
+   "article",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity",
+   "container"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "photo",
+  "target": "picture",
+  "alternates": [
+   "picture",
+   "image",
+   "representation",
+   "creation",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "dress",
+  "target": "clothes",
+  "alternates": [
+   "clothes",
+   "garment",
+   "clothing",
+   "article_of_clothing",
+   "vesture",
+   "wear",
+   "wearable",
+   "habiliment",
+   "consumer_goods",
+   "covering",
+   "commodity",
+   "trade_good",
+   "good",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "wristband",
+  "target": "band",
+  "alternates": [
+   "band",
+   "strip",
+   "slip",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity",
+   "band",
+   "strip",
+   "slip",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "necklace",
+  "target": "jewelry",
+  "alternates": [
+   "jewelry",
+   "jewellery",
+   "adornment",
+   "decoration",
+   "ornament",
+   "ornamentation",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "vase",
+  "target": "jar",
+  "alternates": [
+   "jar",
+   "vessel",
+   "container",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "sidewalk",
+  "target": "walk",
+  "alternates": [
+   "walk",
+   "walkway",
+   "paseo",
+   "path",
+   "way",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "perfume",
+  "target": "toiletry",
+  "alternates": [
+   "toiletry",
+   "toilet_articles",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "notebook",
+  "target": "book",
+  "alternates": [
+   "book",
+   "volume",
+   "product",
+   "production",
+   "creation",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity",
+   "portable_computer",
+   "personal_computer",
+   "pc",
+   "microcomputer",
+   "digital_computer",
+   "computer",
+   "computing_machine",
+   "computing_device",
+   "data_processor",
+   "electronic_computer",
+   "information_processing_system",
+   "machine",
+   "device",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "sunscreen",
+  "target": "cream",
+  "alternates": [
+   "cream",
+   "lotion",
+   "ointment",
+   "emollient",
+   "toiletry",
+   "toilet_articles",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "notepad",
+  "target": "pad",
+  "alternates": [
+   "pad",
+   "pad_of_paper",
+   "tablet",
+   "paper",
+   "material",
+   "stuff",
+   "substance",
+   "matter",
+   "part",
+   "portion",
+   "component_part",
+   "component",
+   "constituent",
+   "physical_entity",
+   "relation",
+   "entity",
+   "abstraction",
+   "abstract_entity"
+  ]
+ },
+ {
+  "relation": "L02_hypernyms_misc",
+  "source": "hairnet",
+  "target": "net",
+  "alternates": [
+   "net",
+   "network",
+   "mesh",
+   "meshing",
+   "meshwork",
+   "fabric",
+   "cloth",
+   "material",
+   "textile",
+   "artifact",
+   "artefact",
+   "unit",
+   "object",
+   "physical_object",
+   "physical_entity",
+   "entity"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "jewelry",
+  "target": "bracelet",
+  "alternates": [
+   "bracelet",
+   "bead",
+   "bijou",
+   "bling",
+   "bling_bling",
+   "bangle",
+   "clip",
+   "cufflink",
+   "earring",
+   "jewel",
+   "gem",
+   "precious_stone",
+   "necklace",
+   "pin",
+   "ring",
+   "band",
+   "tie_clip",
+   "bugle",
+   "anklet",
+   "ankle_bracelet",
+   "armilla",
+   "pendant_earring",
+   "drop_earring",
+   "eardrop",
+   "crown_jewel",
+   "diamond",
+   "emerald",
+   "pearl",
+   "ruby",
+   "sapphire",
+   "solitaire",
+   "chain",
+   "chain",
+   "string",
+   "strand",
+   "choker",
+   "collar",
+   "dog_collar",
+   "neckband",
+   "brooch",
+   "broach",
+   "breastpin",
+   "scatter_pin",
+   "stickpin",
+   "tie_tack",
+   "tiepin",
+   "scarfpin",
+   "annulet",
+   "engagement_ring",
+   "mourning_ring",
+   "ringlet",
+   "signet_ring",
+   "seal_ring",
+   "wedding_ring",
+   "wedding_band",
+   "ice",
+   "sparkler",
+   "seed_pearl",
+   "sunburst"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "church",
+  "target": "chapel",
+  "alternates": [
+   "chapel",
+   "abbey",
+   "basilica",
+   "cathedral",
+   "duomo",
+   "kirk"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "weapon",
+  "target": "gun",
+  "alternates": [
+   "gun",
+   "bow",
+   "bow",
+   "arrow",
+   "dart",
+   "knucks",
+   "knuckles",
+   "flamethrower",
+   "knife",
+   "missile",
+   "pike",
+   "projectile",
+   "slasher",
+   "sling",
+   "spear",
+   "lance",
+   "shaft",
+   "stun",
+   "baton",
+   "sword",
+   "blade",
+   "brand",
+   "steel",
+   "tomahawk",
+   "hatchet",
+   "fire"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "bag",
+  "target": "pouch",
+  "alternates": [
+   "pouch",
+   "backpack",
+   "knapsack",
+   "packsack",
+   "rucksack",
+   "haversack",
+   "beanbag",
+   "bladder",
+   "pouch",
+   "carryall",
+   "holdall",
+   "tote",
+   "tote",
+   "drawstring",
+   "dust",
+   "vacuum",
+   "envelope",
+   "gasbag",
+   "gamebag",
+   "golf",
+   "gunnysack",
+   "gunny",
+   "burlap",
+   "ice",
+   "mailbag",
+   "postbag",
+   "nosebag",
+   "feedbag",
+   "pannier",
+   "plastic",
+   "purse",
+   "ragbag",
+   "rosin",
+   "sachet",
+   "sack",
+   "poke",
+   "paper",
+   "carrier",
+   "saddlebag",
+   "sandbag",
+   "schoolbag",
+   "shopping",
+   "sick_bag",
+   "sickbag",
+   "skin",
+   "sleeping",
+   "sweat",
+   "tea",
+   "toilet",
+   "sponge",
+   "tool",
+   "tucker-bag"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "sweater",
+  "target": "turtleneck",
+  "alternates": [
+   "turtleneck",
+   "cardigan",
+   "pullover",
+   "slipover",
+   "turtle",
+   "polo-neck"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "camera",
+  "target": "camcorder",
+  "alternates": [
+   "camcorder",
+   "box_camera",
+   "box_kodak",
+   "candid_camera",
+   "digital_camera",
+   "flash_camera",
+   "motion-picture_camera",
+   "movie_camera",
+   "cine-camera",
+   "point-and-shoot_camera",
+   "point-and-shoot",
+   "polaroid_camera",
+   "polaroid_land_camera",
+   "polaroid",
+   "portrait_camera",
+   "reflex_camera",
+   "webcam",
+   "webcamera",
+   "sound_camera"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "cup",
+  "target": "teacup",
+  "alternates": [
+   "teacup",
+   "beaker",
+   "chalice",
+   "goblet",
+   "coffee_cup",
+   "dixie",
+   "paper_cup",
+   "grace",
+   "kylix",
+   "cylix",
+   "mustache_cup",
+   "moustache_cup",
+   "scyphus",
+   "grail"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "guitar",
+  "target": "ukulele",
+  "alternates": [
+   "ukulele",
+   "bass",
+   "bass_guitar",
+   "acoustic_guitar",
+   "cittern",
+   "cithern",
+   "cither",
+   "citole",
+   "gittern",
+   "electric_guitar",
+   "hawaiian",
+   "steel",
+   "uke"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "shoes",
+  "target": "sneakers",
+  "alternates": [
+   "sneakers",
+   "anklet",
+   "baby_shoes",
+   "balmoral",
+   "blucher",
+   "bowling_shoes",
+   "brogan",
+   "brogue",
+   "clodhopper",
+   "work_shoes",
+   "calceus",
+   "chopine",
+   "platform_shoes",
+   "chukka",
+   "boots",
+   "cleats",
+   "congress_shoes",
+   "gaiters",
+   "flipper_shoes",
+   "fin_shoes",
+   "ghillie",
+   "gillie",
+   "gym_shoes",
+   "tennis_shoes",
+   "loafers",
+   "moccasins",
+   "mocassins",
+   "oxford_shoes",
+   "pump_shoes",
+   "running_shoes",
+   "sabot",
+   "wooden_shoes",
+   "sandals",
+   "slingbacks",
+   "sling_shoes",
+   "walker_shoes",
+   "walking_shoes",
+   "wedgie",
+   "wing_shoes",
+   "tip_shoes",
+   "stiletto",
+   "heeled"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "flask",
+  "target": "thermos",
+  "alternates": [
+   "thermos",
+   "ampulla",
+   "canteen",
+   "erlenmeyer_flask",
+   "hipflask",
+   "pocket_flask",
+   "round-bottom_flask",
+   "vacuum_flask",
+   "vacuum_bottle",
+   "dewar_flask",
+   "dewar",
+   "thermos_bottle",
+   "thermos_flask"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "trousers",
+  "target": "jeans",
+  "alternates": [
+   "jeans",
+   "bellbottom_trousers",
+   "bell-bottoms",
+   "bellbottom_pants",
+   "breeches",
+   "knee_breeches",
+   "knee_pants",
+   "knickerbockers",
+   "knickers",
+   "chino",
+   "churidars",
+   "cords",
+   "corduroys",
+   "flannel",
+   "gabardine",
+   "tweed",
+   "white",
+   "jean",
+   "blue_jean",
+   "denim",
+   "jodhpurs",
+   "jodhpur_breeches",
+   "riding_breeches",
+   "long_trousers",
+   "long_pants",
+   "pajama",
+   "pyjama",
+   "pantaloon",
+   "pedal_pusher",
+   "toreador_pants",
+   "salwar",
+   "shalwar",
+   "short_pants",
+   "shorts",
+   "trunks",
+   "slacks",
+   "stretch_pants",
+   "sweat_pants",
+   "sweatpants",
+   "trews",
+   "britches",
+   "buckskins",
+   "plus_fours",
+   "trunk_hose",
+   "levi's",
+   "levis",
+   "bermuda_shorts",
+   "jamaica_shorts",
+   "hot_pants",
+   "lederhosen"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "gun",
+  "target": "rifle",
+  "alternates": [
+   "rifle",
+   "air",
+   "airgun",
+   "antiaircraft",
+   "flak",
+   "flack",
+   "pom-pom",
+   "ack-ack",
+   "breechloader",
+   "cannon",
+   "firearm",
+   "piece",
+   "small-arm",
+   "gas",
+   "minute",
+   "quaker",
+   "set",
+   "spring",
+   "whaling"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "season",
+  "target": "spring",
+  "alternates": [
+   "spring",
+   "harvest",
+   "haying",
+   "fall",
+   "autumn",
+   "springtime",
+   "summer",
+   "summertime",
+   "winter",
+   "wintertime",
+   "rainy",
+   "dry",
+   "growing",
+   "seedtime",
+   "sheepshearing",
+   "holiday",
+   "high",
+   "peak",
+   "off-season",
+   "preseason",
+   "baseball",
+   "basketball",
+   "exhibition",
+   "concert",
+   "fishing",
+   "football",
+   "hockey",
+   "hunting",
+   "social",
+   "theatrical",
+   "whitsun",
+   "whitsuntide",
+   "whitweek"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "cutlery",
+  "target": "knife",
+  "alternates": [
+   "knife",
+   "fork",
+   "spoon",
+   "tablefork",
+   "teaspoon",
+   "dessert_spoon",
+   "salad_fork",
+   "carving_fork"
+  ]
+ },
+ {
+  "relation": "L03_hyponyms_misc",
+  "source": "book",
+  "target": "paperback",
+  "alternates": [
+   "paperback",
+   "album",
+   "folio",
+   "hardback",
+   "hardcover",
+   "journal",
+   "novel",
+   "order",
+   "paper-back",
+   "softback",
+   "soft-cover",
+   "picture",
+   "sketchbook",
+   "sketch",
+   "notebook"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "bread",
+  "target": "flour",
+  "alternates": [
+   "flour",
+   "yeast"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "wall",
+  "target": "cement",
+  "alternates": [
+   "cement",
+   "bricks",
+   "stones",
+   "rocks",
+   "wood",
+   "cardboard",
+   "board",
+   "plank",
+   "clay",
+   "mud"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "flag",
+  "target": "fabric",
+  "alternates": [
+   "fabric",
+   "paper"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "wine",
+  "target": "grapes",
+  "alternates": [
+   "grapes",
+   "grape"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "lawn",
+  "target": "grass",
+  "alternates": [
+   "grass"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "plastic",
+  "target": "polymer",
+  "alternates": [
+   "polymer",
+   "oil",
+   "gas",
+   "coal"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "pill",
+  "target": "medicine",
+  "alternates": [
+   "medicine",
+   "drug"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "lens",
+  "target": "glass",
+  "alternates": [
+   "glass",
+   "plastic"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "money",
+  "target": "paper",
+  "alternates": [
+   "paper",
+   "metal",
+   "silver",
+   "gold",
+   "iron",
+   "copper",
+   "tin"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "snow",
+  "target": "water",
+  "alternates": [
+   "water",
+   "oxygen",
+   "hydrogen",
+   "flake",
+   "ice",
+   "snowflake",
+   "snowflakes",
+   "h2o",
+   "atomic_number_1",
+   "atomic_number_8",
+   "h",
+   "o"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "candy",
+  "target": "sugar",
+  "alternates": [
+   "sugar",
+   "nougat",
+   "chocolate",
+   "gelatin",
+   "molasses",
+   "syrup",
+   "honey",
+   "fruit",
+   "nuts"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "body",
+  "target": "flesh",
+  "alternates": [
+   "flesh",
+   "bones"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "spoon",
+  "target": "aluminium",
+  "alternates": [
+   "aluminium",
+   "wood",
+   "steel"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "yogurt",
+  "target": "milk",
+  "alternates": [
+   "milk"
+  ]
+ },
+ {
+  "relation": "L04_meronyms_substance",
+  "source": "wire",
+  "target": "metal",
+  "alternates": [
+   "metal"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "spouse",
+  "target": "couple",
+  "alternates": [
+   "couple",
+   "relationship",
+   "family"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "division",
+  "target": "company",
+  "alternates": [
+   "company",
+   "business",
+   "platoon",
+   "battle_group"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "bee",
+  "target": "swarm",
+  "alternates": [
+   "swarm",
+   "hive",
+   "colony",
+   "drift",
+   "cast",
+   "nest",
+   "rabble",
+   "stand"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "college",
+  "target": "university",
+  "alternates": [
+   "university"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "student",
+  "target": "class",
+  "alternates": [
+   "class",
+   "school"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "calf",
+  "target": "cattle",
+  "alternates": [
+   "cattle",
+   "herd"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "goose",
+  "target": "gaggle",
+  "alternates": [
+   "gaggle"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "car",
+  "target": "train",
+  "alternates": [
+   "train",
+   "procession"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "musician",
+  "target": "orchestra",
+  "alternates": [
+   "orchestra",
+   "band"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "bird",
+  "target": "flock",
+  "alternates": [
+   "flock"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "christian",
+  "target": "congregation",
+  "alternates": [
+   "congregation",
+   "church",
+   "parish"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "person",
+  "target": "society",
+  "alternates": [
+   "society",
+   "company",
+   "party",
+   "world"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "page",
+  "target": "book",
+  "alternates": [
+   "book",
+   "notebook",
+   "website",
+   "web-site"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "sheep",
+  "target": "flock",
+  "alternates": [
+   "flock"
+  ]
+ },
+ {
+  "relation": "L05_meronyms_member",
+  "source": "galaxy",
+  "target": "universe",
+  "alternates": [
+   "universe"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "harbor",
+  "target": "dock",
+  "alternates": [
+   "dock",
+   "facility",
+   "anchorage",
+   "landing",
+   "docking",
+   "dockage",
+   "anchorage_ground",
+   "docking_facility",
+   "landing_place",
+   "landing_stage"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "pub",
+  "target": "bar",
+  "alternates": [
+   "bar",
+   "barroom",
+   "taproom",
+   "saloon",
+   "ginmill"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "movie",
+  "target": "scene",
+  "alternates": [
+   "scene",
+   "subtitles",
+   "footage",
+   "credit",
+   "episode",
+   "shot",
+   "sequence",
+   "credits",
+   "caption"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "tripod",
+  "target": "leg",
+  "alternates": [
+   "leg",
+   "stand"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "radio",
+  "target": "receiver",
+  "alternates": [
+   "receiver",
+   "tuner",
+   "radio",
+   "demodulator",
+   "transmitter",
+   "detector",
+   "receiving",
+   "set",
+   "amplifier",
+   "wireless",
+   "radio_transmitter",
+   "receiving_set",
+   "radio_receiver",
+   "radio_set"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "womb",
+  "target": "cervix",
+  "alternates": [
+   "cervix",
+   "caul",
+   "placenta",
+   "oviduct",
+   "veil",
+   "myometrium",
+   "endometrium",
+   "uterine_artery",
+   "embryonic_membrane",
+   "uterine_cervix",
+   "uterine_cavity",
+   "fallopian_tube",
+   "uterine_tube",
+   "cervix_uteri",
+   "arteria_uterina"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "guitar",
+  "target": "string",
+  "alternates": [
+   "string",
+   "deck",
+   "pegs",
+   "fret",
+   "strings",
+   "frets",
+   "peg",
+   "fingerboard"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "table",
+  "target": "tabletop",
+  "alternates": [
+   "tabletop",
+   "tableware",
+   "leg",
+   "legs"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "jail",
+  "target": "cell",
+  "alternates": [
+   "cell",
+   "cellblock",
+   "guard",
+   "police",
+   "prison_cell",
+   "jail_cell"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "seafront",
+  "target": "harbor",
+  "alternates": [
+   "harbor",
+   "seaport",
+   "dock",
+   "haven",
+   "anchorage",
+   "landing",
+   "harbour",
+   "dockage",
+   "anchorage_ground",
+   "docking_facility",
+   "landing_place",
+   "landing_stage"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "gigabit",
+  "target": "megabit",
+  "alternates": [
+   "megabit",
+   "kbit",
+   "kb",
+   "kilobit",
+   "mb",
+   "mbit"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "byte",
+  "target": "bit",
+  "alternates": [
+   "bit"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "torso",
+  "target": "chest",
+  "alternates": [
+   "chest",
+   "arse",
+   "shoulder",
+   "bum",
+   "midriff",
+   "groin",
+   "deltoid",
+   "diaphragm",
+   "lat",
+   "pectoralis",
+   "behind",
+   "gluteus",
+   "middle",
+   "stomach",
+   "teres",
+   "thorax",
+   "tush",
+   "ab",
+   "rump",
+   "breastbone",
+   "buns",
+   "gladiolus",
+   "haunch",
+   "backside",
+   "buttocks",
+   "serratus",
+   "pectoral",
+   "stern",
+   "navel",
+   "paunch",
+   "seat",
+   "mediastinum",
+   "ass",
+   "axilla",
+   "back",
+   "belly",
+   "bottom",
+   "omphalos",
+   "fundament",
+   "acromion",
+   "derriere",
+   "hindgut",
+   "gut",
+   "gallbladder",
+   "saddle",
+   "cheek",
+   "waist",
+   "butt",
+   "bowel",
+   "keister",
+   "bellybutton",
+   "pectus",
+   "prat",
+   "loins",
+   "abdominal",
+   "rear",
+   "dorsum",
+   "posterior",
+   "venter",
+   "small",
+   "abdomen",
+   "umbilicus",
+   "armpit",
+   "waistline",
+   "sternum",
+   "scapula",
+   "glute",
+   "manubrium",
+   "fanny",
+   "side",
+   "midsection",
+   "pecs",
+   "hip",
+   "buttock",
+   "intestine",
+   "breast",
+   "can",
+   "tail",
+   "hindquarters",
+   "xiphoid_process",
+   "thoracic_vertebra",
+   "abdominal_wall",
+   "musculus_deltoideus",
+   "abdominal_cavity",
+   "arteria_circumflexa_scapulae",
+   "arteria_glutes",
+   "arteria_axillaris",
+   "axillary_fossa",
+   "arteria_colica",
+   "articulatio_humeri",
+   "shoulder_joint",
+   "gall_bladder",
+   "spare_tire",
+   "arteria_circumflexa_humeri",
+   "serratus_muscles",
+   "axillary_artery",
+   "gluteus_muscle",
+   "love_handle",
+   "latissimus_dorsi",
+   "pectoral_muscle",
+   "tooshie",
+   "abdominal_muscle",
+   "circumflex_humeral_artery",
+   "abdominal_aorta",
+   "vena_thoracica",
+   "musculus_pectoralis",
+   "hypochondrium",
+   "area_of_cardiac_dullness",
+   "glenoid_cavity",
+   "rib_cage",
+   "thoracic_aorta",
+   "omphalus",
+   "circumflex_scapular_artery",
+   "acromial_process",
+   "shoulder_bone",
+   "tail_end",
+   "rear_end",
+   "gluteal_muscle",
+   "inguen",
+   "shoulder_blade",
+   "rotator_cuff",
+   "corpus_sternum",
+   "dorsal_vertebra",
+   "teres_muscle",
+   "thoracic_cavity",
+   "axillary_cavity",
+   "chest_cavity",
+   "deltoid_muscle",
+   "belly_button",
+   "gluteal_artery",
+   "thoracic_vein",
+   "glenoid_fossa",
+   "nates",
+   "colic_artery",
+   "lumbar_vertebra",
+   "hind_end"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "sonata",
+  "target": "movement",
+  "alternates": [
+   "movement",
+   "psrt"
+  ]
+ },
+ {
+  "relation": "L06_meronyms_part",
+  "source": "cat",
+  "target": "whiskers",
+  "alternates": [
+   "whiskers",
+   "coat",
+   "paw",
+   "paws",
+   "fur",
+   "eyes",
+   "back",
+   "claws",
+   "tail",
+   "teeth"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "dislike",
+  "target": "hate",
+  "alternates": [
+   "hate",
+   "abhor",
+   "detest",
+   "loathe",
+   "abominate",
+   "execrate",
+   "contemn",
+   "despise",
+   "scorn",
+   "disdain"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "nap",
+  "target": "sleep",
+  "alternates": [
+   "sleep",
+   "slumber"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "happy",
+  "target": "ecstatic",
+  "alternates": [
+   "ecstatic",
+   "enraptured",
+   "rapturous",
+   "rapt",
+   "rhapsodic"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "unfortunate",
+  "target": "tragic",
+  "alternates": [
+   "tragic",
+   "woeful",
+   "grievous",
+   "wretched",
+   "miserable",
+   "awful",
+   "lamentable",
+   "regrettable",
+   "desperate",
+   "hopeless",
+   "disastrous"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "pony",
+  "target": "horse",
+  "alternates": [
+   "horse"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "drizzle",
+  "target": "rain",
+  "alternates": [
+   "rain",
+   "shower",
+   "raifall",
+   "deluge"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "tired",
+  "target": "exhausted",
+  "alternates": [
+   "exhausted",
+   "drained"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "guilty",
+  "target": "remorseful",
+  "alternates": [
+   "remorseful",
+   "sorrowful",
+   "unworthy"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "snack",
+  "target": "meal",
+  "alternates": [
+   "meal",
+   "eat"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "love",
+  "target": "adore",
+  "alternates": [
+   "adore",
+   "fetishize",
+   "idolize",
+   "idolise",
+   "worship",
+   "hero-worship",
+   "revere"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "excited",
+  "target": "agitated",
+  "alternates": [
+   "agitated",
+   "nervous"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "tasty",
+  "target": "delicious",
+  "alternates": [
+   "delicious",
+   "delectable",
+   "luscious",
+   "pleasant-tasting",
+   "scrumptious",
+   "toothsome",
+   "yummy",
+   "mouth-watering",
+   "ambrosial",
+   "heavenly"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "interesting",
+  "target": "exciting",
+  "alternates": [
+   "exciting",
+   "exhilarant",
+   "exhilarating",
+   "exhilarative",
+   "eye-popping",
+   "inspiring",
+   "intoxicating",
+   "rousing",
+   "stimulating",
+   "stirring",
+   "arresting",
+   "interesting",
+   "intriguing",
+   "moving",
+   "provocative",
+   "heady",
+   "thrilling"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "lake",
+  "target": "sea",
+  "alternates": [
+   "sea",
+   "ocean"
+  ]
+ },
+ {
+  "relation": "L07_synonyms_intensity",
+  "source": "ask",
+  "target": "beg",
+  "alternates": [
+   "beg",
+   "implore",
+   "pray",
+   "entreat",
+   "supplicate",
+   "insist"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "lad",
+  "target": "chap",
+  "alternates": [
+   "chap",
+   "fellow",
+   "feller",
+   "fella",
+   "gent",
+   "blighter",
+   "cuss",
+   "bloke"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "clothes",
+  "target": "clothing",
+  "alternates": [
+   "clothing",
+   "apparel",
+   "dress"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "jewel",
+  "target": "gem",
+  "alternates": [
+   "gem",
+   "stone"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "vocabulary",
+  "target": "lexicon",
+  "alternates": [
+   "lexicon",
+   "wordbook",
+   "dictionary",
+   "glossary"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "hieroglyph",
+  "target": "hieroglyphic",
+  "alternates": [
+   "hieroglyphic",
+   "pictogram"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "sofa",
+  "target": "couch",
+  "alternates": [
+   "couch",
+   "lounge"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "cloth",
+  "target": "fabric",
+  "alternates": [
+   "fabric",
+   "material",
+   "textile"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "list",
+  "target": "listing",
+  "alternates": [
+   "listing",
+   "enumeration"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "homogeneous",
+  "target": "uniform",
+  "alternates": [
+   "uniform",
+   "unvarying"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "lazy",
+  "target": "indolent",
+  "alternates": [
+   "indolent",
+   "faineant",
+   "otiose",
+   "slothful",
+   "work-shy"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "new",
+  "target": "modern",
+  "alternates": [
+   "modern",
+   "recent"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "loyal",
+  "target": "faithful",
+  "alternates": [
+   "faithful",
+   "true",
+   "dependable",
+   "devoted",
+   "reliable"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "bicycle",
+  "target": "bike",
+  "alternates": [
+   "bike",
+   "wheel",
+   "cycle"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "market",
+  "target": "marketplace",
+  "alternates": [
+   "marketplace",
+   "mart",
+   "bazaar"
+  ]
+ },
+ {
+  "relation": "L08_synonyms_exact",
+  "source": "auto",
+  "target": "car",
+  "alternates": [
+   "car",
+   "automobile",
+   "motorcar"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "close",
+  "target": "distant",
+  "alternates": [
+   "distant",
+   "remote",
+   "removed",
+   "far",
+   "faraway"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "young",
+  "target": "old",
+  "alternates": [
+   "old",
+   "aged",
+   "elderly",
+   "older",
+   "senior",
+   "age",
+   "aging",
+   "ageing",
+   "senescent",
+   "ancient",
+   "anile",
+   "centenarian",
+   "darkened",
+   "doddering",
+   "doddery",
+   "gaga",
+   "senile",
+   "emeritus",
+   "grey",
+   "gray",
+   "grey-haired",
+   "gray-haired",
+   "grey-headed",
+   "gray-headed",
+   "grizzly",
+   "hoar",
+   "hoary",
+   "white-haired",
+   "middle-aged",
+   "nonagenarian",
+   "octogenarian",
+   "oldish",
+   "overage",
+   "overaged",
+   "superannuated",
+   "over-the-hill",
+   "sexagenarian",
+   "venerable",
+   "experienced",
+   "experient",
+   "mature",
+   "senior"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "rich",
+  "target": "poor",
+  "alternates": [
+   "poor",
+   "broke",
+   "bust",
+   "skint",
+   "stone-broke",
+   "stony-broke",
+   "destitute",
+   "impoverished",
+   "indigent",
+   "necessitous",
+   "needy",
+   "poverty-stricken",
+   "hard_up",
+   "impecunious",
+   "penniless",
+   "penurious",
+   "pinched",
+   "moneyless",
+   "unprovided"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "noisy",
+  "target": "silent",
+  "alternates": [
+   "silent",
+   "uncommunicative",
+   "dumb",
+   "mute",
+   "inarticulate",
+   "unarticulate"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "abundant",
+  "target": "scarce",
+  "alternates": [
+   "scarce",
+   "rare",
+   "tight",
+   "meager",
+   "meagre",
+   "meagerly",
+   "stingy",
+   "scrimpy",
+   "insufficient",
+   "deficient"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "organized",
+  "target": "unorganized",
+  "alternates": [
+   "unorganized",
+   "unstructured",
+   "uncoordinated",
+   "unformed",
+   "unincorporated"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "short",
+  "target": "tall",
+  "alternates": [
+   "tall",
+   "gangling",
+   "gangly",
+   "lanky",
+   "rangy",
+   "height",
+   "leggy",
+   "long-legged",
+   "long-shanked",
+   "tall-growing",
+   "long",
+   "long-stalked",
+   "tall-stalked",
+   "stately",
+   "statuesque",
+   "tallish"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "lumpy",
+  "target": "flat",
+  "alternates": [
+   "flat",
+   "level",
+   "plane",
+   "even"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "clean",
+  "target": "dirty",
+  "alternates": [
+   "dirty",
+   "soiled",
+   "unclean",
+   "augean",
+   "bedraggled",
+   "draggled",
+   "befouled",
+   "fouled",
+   "begrimed",
+   "dingy",
+   "grimy",
+   "grubby",
+   "grungy",
+   "raunchy",
+   "black",
+   "smutty",
+   "buggy",
+   "cobwebby",
+   "dirty-faced",
+   "feculent",
+   "filthy",
+   "foul",
+   "nasty",
+   "flyblown",
+   "squalid",
+   "sordid",
+   "greasy",
+   "oily",
+   "lousy",
+   "maculate",
+   "mucky",
+   "muddy",
+   "ratty",
+   "scummy",
+   "smudgy",
+   "snotty",
+   "snot-nosed",
+   "sooty",
+   "travel-soiled",
+   "travel-stained",
+   "uncleanly",
+   "unswept",
+   "unwashed"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "big",
+  "target": "small",
+  "alternates": [
+   "small",
+   "atomic",
+   "subatomic",
+   "bantam",
+   "diminutive",
+   "lilliputian",
+   "midget",
+   "petite",
+   "tiny",
+   "flyspeck",
+   "bitty",
+   "bittie",
+   "teensy",
+   "teentsy",
+   "teeny",
+   "wee",
+   "weeny",
+   "weensy",
+   "teensy-weensy",
+   "teeny-weeny",
+   "itty-bitty",
+   "itsy-bitsy",
+   "dinky",
+   "dwarfish",
+   "elfin",
+   "elflike",
+   "gnomish",
+   "half-size",
+   "infinitesimal",
+   "minute",
+   "lesser",
+   "microscopic",
+   "microscopical",
+   "micro",
+   "miniature",
+   "minuscule",
+   "miniscule",
+   "olive-sized",
+   "pocket-size",
+   "pocket-sized",
+   "pocketable",
+   "puny",
+   "runty",
+   "shrimpy",
+   "slender",
+   "slim",
+   "smaller",
+   "littler",
+   "smallish",
+   "small-scale",
+   "undersize",
+   "undersized"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "large",
+  "target": "small",
+  "alternates": [
+   "small",
+   "little",
+   "atomic",
+   "subatomic",
+   "bantam",
+   "diminutive",
+   "lilliputian",
+   "midget",
+   "petite",
+   "tiny",
+   "flyspeck",
+   "bitty",
+   "bittie",
+   "teensy",
+   "teentsy",
+   "teeny",
+   "wee",
+   "weeny",
+   "weensy",
+   "teensy-weensy",
+   "teeny-weeny",
+   "itty-bitty",
+   "itsy-bitsy",
+   "dinky",
+   "dwarfish",
+   "elfin",
+   "elflike",
+   "gnomish",
+   "half-size",
+   "infinitesimal",
+   "minute",
+   "lesser",
+   "microscopic",
+   "microscopical",
+   "micro",
+   "miniature",
+   "minuscule",
+   "miniscule",
+   "olive-sized",
+   "pocket-size",
+   "pocket-sized",
+   "pocketable",
+   "puny",
+   "runty",
+   "shrimpy",
+   "slender",
+   "slim",
+   "smaller",
+   "littler",
+   "smallish",
+   "small-scale",
+   "undersize",
+   "undersized"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "simple",
+  "target": "difficult",
+  "alternates": [
+   "difficult",
+   "challenging",
+   "hard",
+   "complicated",
+   "demanding",
+   "daunting",
+   "taxing"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "sincere",
+  "target": "insincere",
+  "alternates": [
+   "insincere",
+   "bootlicking",
+   "fawning",
+   "obsequious",
+   "sycophantic",
+   "toadyish",
+   "buttery",
+   "fulsome",
+   "oily",
+   "oleaginous",
+   "smarmy",
+   "soapy",
+   "unctuous",
+   "dissimulative",
+   "false",
+   "feigned",
+   "gilded",
+   "meretricious",
+   "specious",
+   "hypocritical",
+   "plausible",
+   "counterfeit",
+   "imitative",
+   "dishonest",
+   "dishonorable",
+   "disingenuous",
+   "artful",
+   "false",
+   "unreal"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "hot",
+  "target": "cold",
+  "alternates": [
+   "cold",
+   "chilly",
+   "frosty",
+   "cool",
+   "frigid"
+  ]
+ },
+ {
+  "relation": "L09_antonyms_gradable",
+  "source": "dangerous",
+  "target": "safe",
+  "alternates": [
+   "safe",
+   "fail-safe",
+   "risk-free",
+   "riskless",
+   "unhazardous",
+   "safe-and-sound",
+   "unhurt",
+   "harmless",
+   "invulnerable",
+   "secure",
+   "uninjured"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "before",
+  "target": "after",
+  "alternates": [
+   "after",
+   "subsequently",
+   "later",
+   "afterwards",
+   "afterward",
+   "ahead"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "true",
+  "target": "false",
+  "alternates": [
+   "false",
+   "incorrect",
+   "wrong",
+   "mistaken"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "south",
+  "target": "north",
+  "alternates": [
+   "north"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "inverse",
+  "target": "reverse",
+  "alternates": [
+   "reverse",
+   "reversion",
+   "reversal",
+   "turnabout",
+   "turnaround"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "internal",
+  "target": "external",
+  "alternates": [
+   "external",
+   "outer",
+   "outside"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "dive",
+  "target": "emerge",
+  "alternates": [
+   "emerge"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "under",
+  "target": "over",
+  "alternates": [
+   "over",
+   "above",
+   "up"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "out",
+  "target": "in",
+  "alternates": [
+   "in",
+   "inside"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "front",
+  "target": "back",
+  "alternates": [
+   "back",
+   "rear",
+   "forepart"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "anterior",
+  "target": "posterior",
+  "alternates": [
+   "posterior"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "dead",
+  "target": "alive",
+  "alternates": [
+   "alive",
+   "living",
+   "live"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "forward",
+  "target": "backward",
+  "alternates": [
+   "backward",
+   "back",
+   "backwards",
+   "rearward",
+   "rearwards"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "up",
+  "target": "down",
+  "alternates": [
+   "down",
+   "downwards",
+   "downward",
+   "downwardly"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "previously",
+  "target": "subsequently",
+  "alternates": [
+   "subsequently",
+   "later",
+   "afterwards",
+   "afterward",
+   "after",
+   "subsequent"
+  ]
+ },
+ {
+  "relation": "L10_antonyms_binary",
+  "source": "west",
+  "target": "east",
+  "alternates": [
+   "east"
+  ]
+ }
+]

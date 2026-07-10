@@ -1,0 +1,141 @@
+[
+ {
+  "name": "adj.able",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.al",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.comp",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.ful",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.ic",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.less",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.ous",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.sup",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adj.y",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "adv",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.action",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.action2",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.agent",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.ism",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.ist",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.plural",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.quality",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "noun.quality2",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "verb.3sg",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "verb.ger",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "verb.ize",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "verb.past",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "verb.ptcp",
+  "arity": 1,
+  "kind": "slot_realiser"
+ },
+ {
+  "name": "antonym",
+  "arity": 1,
+  "kind": "involution",
+  "note": "reflection across a learned surface; requires a fine-tuned space to be exactly involutive"
+ },
+ {
+  "name": "hypernym",
+  "arity": 2,
+  "kind": "set_operator",
+  "note": "least common subsumer of the inputs"
+ },
+ {
+  "name": "hypernym",
+  "arity": 3,
+  "kind": "set_operator",
+  "note": "least common subsumer of the inputs"
+ },
+ {
+  "name": "hypernym",
+  "arity": 4,
+  "kind": "set_operator",
+  "note": "least common subsumer of the inputs"
+ }
+]

@@ -1,0 +1,31 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+bpe      vocab  16002  tokens   32,674,764 1.000x
+lex-v1   vocab  16002  tokens   40,249,846 1.232x
+lex-v3   vocab  16002  tokens   41,915,939 1.283x
+  L2 seed 0 bpe      bits/char 1.9321
+  L2 seed 0 lex-v1   bits/char 1.9600
+  L2 seed 0 lex-v3   bits/char 2.0328
+  L2 seed 1 bpe      bits/char 1.9281
+  L2 seed 1 lex-v1   bits/char 1.9548
+  L2 seed 1 lex-v3   bits/char 2.0191
+  L2 seed 2 bpe      bits/char 1.9216
+  L2 seed 2 lex-v1   bits/char 1.9630
+  L2 seed 2 lex-v3   bits/char 2.0546
+  L4 seed 0 bpe      bits/char 1.8375
+  L4 seed 0 lex-v1   bits/char 1.8272
+  L4 seed 0 lex-v3   bits/char 1.8748
+  L4 seed 1 bpe      bits/char 1.8316
+  L4 seed 1 lex-v1   bits/char 1.8464
+  L4 seed 1 lex-v3   bits/char 1.8785
+  L4 seed 2 bpe      bits/char 1.8345
+  L4 seed 2 lex-v1   bits/char 1.8404
+  L4 seed 2 lex-v3   bits/char 1.8819
+
+========================================================================
+trunk                  bpe          lex-v1          lex-v3       v3-v1
+------------------------------------------------------------------------
+L2 d128        1.927+-0.005     1.959+-0.004     2.035+-0.018      +0.076
+L4 d256        1.835+-0.003     1.838+-0.010     1.878+-0.004      +0.040
+
+negative v3-v1 = cleaning the dictionary helped
+prediction: |v3-v1| grows as the trunk shrinks

@@ -1,0 +1,8242 @@
+{
+ "I01_noun_plural_reg": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "night",
+    "target": "nights"
+   },
+   {
+    "source": "member",
+    "target": "members"
+   },
+   {
+    "source": "hour",
+    "target": "hours"
+   },
+   {
+    "source": "difference",
+    "target": "differences"
+   },
+   {
+    "source": "college",
+    "target": "colleges"
+   },
+   {
+    "source": "version",
+    "target": "versions"
+   },
+   {
+    "source": "office",
+    "target": "offices"
+   },
+   {
+    "source": "department",
+    "target": "departments"
+   },
+   {
+    "source": "population",
+    "target": "populations"
+   },
+   {
+    "source": "friend",
+    "target": "friends"
+   },
+   {
+    "source": "product",
+    "target": "products"
+   },
+   {
+    "source": "language",
+    "target": "languages"
+   },
+   {
+    "source": "director",
+    "target": "directors"
+   },
+   {
+    "source": "car",
+    "target": "cars"
+   },
+   {
+    "source": "street",
+    "target": "streets"
+   },
+   {
+    "source": "song",
+    "target": "songs"
+   },
+   {
+    "source": "development",
+    "target": "developments"
+   },
+   {
+    "source": "month",
+    "target": "months"
+   },
+   {
+    "source": "role",
+    "target": "roles"
+   },
+   {
+    "source": "album",
+    "target": "albums"
+   },
+   {
+    "source": "town",
+    "target": "towns"
+   },
+   {
+    "source": "government",
+    "target": "governments"
+   },
+   {
+    "source": "river",
+    "target": "rivers"
+   },
+   {
+    "source": "week",
+    "target": "weeks"
+   },
+   {
+    "source": "system",
+    "target": "systems"
+   },
+   {
+    "source": "problem",
+    "target": "problems"
+   },
+   {
+    "source": "player",
+    "target": "players"
+   },
+   {
+    "source": "idea",
+    "target": "ideas"
+   },
+   {
+    "source": "law",
+    "target": "laws"
+   },
+   {
+    "source": "thing",
+    "target": "things"
+   },
+   {
+    "source": "village",
+    "target": "villages"
+   },
+   {
+    "source": "science",
+    "target": "sciences"
+   },
+   {
+    "source": "resource",
+    "target": "resources"
+   },
+   {
+    "source": "user",
+    "target": "users"
+   },
+   {
+    "source": "event",
+    "target": "events"
+   },
+   {
+    "source": "year",
+    "target": "years"
+   },
+   {
+    "source": "website",
+    "target": "websites"
+   },
+   {
+    "source": "area",
+    "target": "areas"
+   },
+   {
+    "source": "period",
+    "target": "periods"
+   },
+   {
+    "source": "solution",
+    "target": "solutions"
+   },
+   {
+    "source": "council",
+    "target": "councils"
+   },
+   {
+    "source": "road",
+    "target": "roads"
+   },
+   {
+    "source": "customer",
+    "target": "customers"
+   },
+   {
+    "source": "death",
+    "target": "deaths"
+   },
+   {
+    "source": "example",
+    "target": "examples"
+   },
+   {
+    "source": "fact",
+    "target": "facts"
+   },
+   {
+    "source": "god",
+    "target": "gods"
+   },
+   {
+    "source": "application",
+    "target": "applications"
+   },
+   {
+    "source": "day",
+    "target": "days"
+   },
+   {
+    "source": "student",
+    "target": "students"
+   }
+  ]
+ },
+ "I02_noun_plural_irreg": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "strategy",
+    "target": "strategies"
+   },
+   {
+    "source": "story",
+    "target": "stories"
+   },
+   {
+    "source": "community",
+    "target": "communities"
+   },
+   {
+    "source": "category",
+    "target": "categories"
+   },
+   {
+    "source": "energy",
+    "target": "energies"
+   },
+   {
+    "source": "majority",
+    "target": "majorities"
+   },
+   {
+    "source": "academy",
+    "target": "academies"
+   },
+   {
+    "source": "ability",
+    "target": "abilities"
+   },
+   {
+    "source": "county",
+    "target": "counties"
+   },
+   {
+    "source": "agency",
+    "target": "agencies"
+   },
+   {
+    "source": "loss",
+    "target": "losses"
+   },
+   {
+    "source": "century",
+    "target": "centuries"
+   },
+   {
+    "source": "series",
+    "target": "series"
+   },
+   {
+    "source": "family",
+    "target": "families"
+   },
+   {
+    "source": "datum",
+    "target": "data"
+   },
+   {
+    "source": "theory",
+    "target": "theories"
+   },
+   {
+    "source": "wife",
+    "target": "wives"
+   },
+   {
+    "source": "duty",
+    "target": "duties"
+   },
+   {
+    "source": "industry",
+    "target": "industries"
+   },
+   {
+    "source": "security",
+    "target": "securities"
+   },
+   {
+    "source": "memory",
+    "target": "memories"
+   },
+   {
+    "source": "facility",
+    "target": "facilities"
+   },
+   {
+    "source": "policy",
+    "target": "policies"
+   },
+   {
+    "source": "opportunity",
+    "target": "opportunities"
+   },
+   {
+    "source": "life",
+    "target": "lives"
+   },
+   {
+    "source": "woman",
+    "target": "women"
+   },
+   {
+    "source": "child",
+    "target": "children"
+   },
+   {
+    "source": "library",
+    "target": "libraries"
+   },
+   {
+    "source": "entry",
+    "target": "entries"
+   },
+   {
+    "source": "property",
+    "target": "properties"
+   },
+   {
+    "source": "business",
+    "target": "businesses"
+   },
+   {
+    "source": "variety",
+    "target": "varieties"
+   },
+   {
+    "source": "authority",
+    "target": "authorities"
+   },
+   {
+    "source": "success",
+    "target": "successes"
+   },
+   {
+    "source": "university",
+    "target": "universities"
+   },
+   {
+    "source": "technology",
+    "target": "technologies"
+   },
+   {
+    "source": "country",
+    "target": "countries"
+   },
+   {
+    "source": "activity",
+    "target": "activities"
+   },
+   {
+    "source": "analysis",
+    "target": "analyses"
+   },
+   {
+    "source": "city",
+    "target": "cities"
+   },
+   {
+    "source": "secretary",
+    "target": "secretaries"
+   },
+   {
+    "source": "formula",
+    "target": "formulae"
+   },
+   {
+    "source": "society",
+    "target": "societies"
+   },
+   {
+    "source": "species",
+    "target": "species"
+   },
+   {
+    "source": "economy",
+    "target": "economies"
+   },
+   {
+    "source": "safety",
+    "target": "safeties"
+   },
+   {
+    "source": "army",
+    "target": "armies"
+   },
+   {
+    "source": "history",
+    "target": "histories"
+   },
+   {
+    "source": "basis",
+    "target": "bases"
+   },
+   {
+    "source": "responsibility",
+    "target": "responsibilities"
+   }
+  ]
+ },
+ "I03_adj_comparative": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "mild",
+    "target": "milder"
+   },
+   {
+    "source": "lengthy",
+    "target": "lengthier"
+   },
+   {
+    "source": "happy",
+    "target": "happier"
+   },
+   {
+    "source": "hot",
+    "target": "hotter"
+   },
+   {
+    "source": "lazy",
+    "target": "lazier"
+   },
+   {
+    "source": "lucky",
+    "target": "luckier"
+   },
+   {
+    "source": "dense",
+    "target": "denser"
+   },
+   {
+    "source": "risky",
+    "target": "riskier"
+   },
+   {
+    "source": "moist",
+    "target": "moister"
+   },
+   {
+    "source": "angry",
+    "target": "angrier"
+   },
+   {
+    "source": "nice",
+    "target": "nicer"
+   },
+   {
+    "source": "merry",
+    "target": "merrier"
+   },
+   {
+    "source": "strict",
+    "target": "stricter"
+   },
+   {
+    "source": "sunny",
+    "target": "sunnier"
+   },
+   {
+    "source": "subtle",
+    "target": "subtler"
+   },
+   {
+    "source": "rude",
+    "target": "ruder"
+   },
+   {
+    "source": "harsh",
+    "target": "harsher"
+   },
+   {
+    "source": "tricky",
+    "target": "trickier"
+   },
+   {
+    "source": "weak",
+    "target": "weaker"
+   },
+   {
+    "source": "cute",
+    "target": "cuter"
+   },
+   {
+    "source": "vast",
+    "target": "vaster"
+   },
+   {
+    "source": "proud",
+    "target": "prouder"
+   },
+   {
+    "source": "coarse",
+    "target": "coarser"
+   },
+   {
+    "source": "cheap",
+    "target": "cheaper"
+   },
+   {
+    "source": "nasty",
+    "target": "nastier"
+   },
+   {
+    "source": "clever",
+    "target": "cleverer"
+   },
+   {
+    "source": "wealthy",
+    "target": "wealthier"
+   },
+   {
+    "source": "sad",
+    "target": "sadder"
+   },
+   {
+    "source": "costly",
+    "target": "costlier"
+   },
+   {
+    "source": "dumb",
+    "target": "dumber"
+   },
+   {
+    "source": "hardy",
+    "target": "hardier"
+   },
+   {
+    "source": "tiny",
+    "target": "tinier"
+   },
+   {
+    "source": "noisy",
+    "target": "noisier"
+   },
+   {
+    "source": "strong",
+    "target": "stronger"
+   },
+   {
+    "source": "scary",
+    "target": "scarier"
+   },
+   {
+    "source": "sexy",
+    "target": "sexier"
+   },
+   {
+    "source": "huge",
+    "target": "huger"
+   },
+   {
+    "source": "fierce",
+    "target": "fiercer"
+   },
+   {
+    "source": "hungry",
+    "target": "hungrier"
+   },
+   {
+    "source": "handy",
+    "target": "handier"
+   },
+   {
+    "source": "pure",
+    "target": "purer"
+   },
+   {
+    "source": "ugly",
+    "target": "uglier"
+   },
+   {
+    "source": "neat",
+    "target": "neater"
+   },
+   {
+    "source": "rocky",
+    "target": "rockier"
+   },
+   {
+    "source": "tasty",
+    "target": "tastier"
+   },
+   {
+    "source": "weird",
+    "target": "weirder"
+   },
+   {
+    "source": "mad",
+    "target": "madder"
+   },
+   {
+    "source": "vague",
+    "target": "vaguer"
+   },
+   {
+    "source": "sticky",
+    "target": "stickier"
+   },
+   {
+    "source": "healthy",
+    "target": "healthier"
+   }
+  ]
+ },
+ "I04_adj_superlative": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "wealthy",
+    "target": "wealthiest"
+   },
+   {
+    "source": "proud",
+    "target": "proudest"
+   },
+   {
+    "source": "cruel",
+    "target": "cruelest"
+   },
+   {
+    "source": "harsh",
+    "target": "harshest"
+   },
+   {
+    "source": "strange",
+    "target": "strangest"
+   },
+   {
+    "source": "neat",
+    "target": "neatest"
+   },
+   {
+    "source": "mild",
+    "target": "mildest"
+   },
+   {
+    "source": "sunny",
+    "target": "sunniest"
+   },
+   {
+    "source": "polite",
+    "target": "politest"
+   },
+   {
+    "source": "hungry",
+    "target": "hungriest"
+   },
+   {
+    "source": "healthy",
+    "target": "healthiest"
+   },
+   {
+    "source": "dumb",
+    "target": "dumbest"
+   },
+   {
+    "source": "merry",
+    "target": "merriest"
+   },
+   {
+    "source": "scary",
+    "target": "scariest"
+   },
+   {
+    "source": "ugly",
+    "target": "ugliest"
+   },
+   {
+    "source": "costly",
+    "target": "costliest"
+   },
+   {
+    "source": "risky",
+    "target": "riskiest"
+   },
+   {
+    "source": "rare",
+    "target": "rarest"
+   },
+   {
+    "source": "strong",
+    "target": "strongest"
+   },
+   {
+    "source": "cheap",
+    "target": "cheapest"
+   },
+   {
+    "source": "lazy",
+    "target": "laziest"
+   },
+   {
+    "source": "sexy",
+    "target": "sexiest"
+   },
+   {
+    "source": "angry",
+    "target": "angriest"
+   },
+   {
+    "source": "dense",
+    "target": "densest"
+   },
+   {
+    "source": "shiny",
+    "target": "shiniest"
+   },
+   {
+    "source": "nice",
+    "target": "nicest"
+   },
+   {
+    "source": "noisy",
+    "target": "noisiest"
+   },
+   {
+    "source": "tiny",
+    "target": "tiniest"
+   },
+   {
+    "source": "clever",
+    "target": "cleverest"
+   },
+   {
+    "source": "strict",
+    "target": "strictest"
+   },
+   {
+    "source": "hot",
+    "target": "hottest"
+   },
+   {
+    "source": "lucky",
+    "target": "luckiest"
+   },
+   {
+    "source": "weak",
+    "target": "weakest"
+   },
+   {
+    "source": "sad",
+    "target": "saddest"
+   },
+   {
+    "source": "weird",
+    "target": "weirdest"
+   },
+   {
+    "source": "nasty",
+    "target": "nastiest"
+   },
+   {
+    "source": "fierce",
+    "target": "fiercest"
+   },
+   {
+    "source": "hardy",
+    "target": "hardiest"
+   },
+   {
+    "source": "tasty",
+    "target": "tastiest"
+   },
+   {
+    "source": "lengthy",
+    "target": "lengthiest"
+   },
+   {
+    "source": "subtle",
+    "target": "subtlest"
+   },
+   {
+    "source": "cute",
+    "target": "cutest"
+   },
+   {
+    "source": "tricky",
+    "target": "trickiest"
+   },
+   {
+    "source": "happy",
+    "target": "happiest"
+   },
+   {
+    "source": "rude",
+    "target": "rudest"
+   },
+   {
+    "source": "huge",
+    "target": "hugest"
+   },
+   {
+    "source": "vague",
+    "target": "vaguest"
+   },
+   {
+    "source": "able",
+    "target": "ablest"
+   },
+   {
+    "source": "pure",
+    "target": "purest"
+   },
+   {
+    "source": "handy",
+    "target": "handiest"
+   }
+  ]
+ },
+ "I05_verb_inf_3pSg": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "identify",
+    "target": "identifies"
+   },
+   {
+    "source": "learn",
+    "target": "learns"
+   },
+   {
+    "source": "follow",
+    "target": "follows"
+   },
+   {
+    "source": "enable",
+    "target": "enables"
+   },
+   {
+    "source": "reduce",
+    "target": "reduces"
+   },
+   {
+    "source": "hear",
+    "target": "hears"
+   },
+   {
+    "source": "occur",
+    "target": "occurs"
+   },
+   {
+    "source": "become",
+    "target": "becomes"
+   },
+   {
+    "source": "appear",
+    "target": "appears"
+   },
+   {
+    "source": "contain",
+    "target": "contains"
+   },
+   {
+    "source": "consider",
+    "target": "considers"
+   },
+   {
+    "source": "involve",
+    "target": "involves"
+   },
+   {
+    "source": "tell",
+    "target": "tells"
+   },
+   {
+    "source": "ensure",
+    "target": "ensures"
+   },
+   {
+    "source": "consist",
+    "target": "consists"
+   },
+   {
+    "source": "enjoy",
+    "target": "enjoys"
+   },
+   {
+    "source": "happen",
+    "target": "happens"
+   },
+   {
+    "source": "explain",
+    "target": "explains"
+   },
+   {
+    "source": "maintain",
+    "target": "maintains"
+   },
+   {
+    "source": "develop",
+    "target": "develops"
+   },
+   {
+    "source": "apply",
+    "target": "applies"
+   },
+   {
+    "source": "seem",
+    "target": "seems"
+   },
+   {
+    "source": "remember",
+    "target": "remembers"
+   },
+   {
+    "source": "avoid",
+    "target": "avoids"
+   },
+   {
+    "source": "send",
+    "target": "sends"
+   },
+   {
+    "source": "describe",
+    "target": "describes"
+   },
+   {
+    "source": "add",
+    "target": "adds"
+   },
+   {
+    "source": "believe",
+    "target": "believes"
+   },
+   {
+    "source": "improve",
+    "target": "improves"
+   },
+   {
+    "source": "remain",
+    "target": "remains"
+   },
+   {
+    "source": "suggest",
+    "target": "suggests"
+   },
+   {
+    "source": "prevent",
+    "target": "prevents"
+   },
+   {
+    "source": "protect",
+    "target": "protects"
+   },
+   {
+    "source": "agree",
+    "target": "agrees"
+   },
+   {
+    "source": "represent",
+    "target": "represents"
+   },
+   {
+    "source": "accept",
+    "target": "accepts"
+   },
+   {
+    "source": "receive",
+    "target": "receives"
+   },
+   {
+    "source": "refer",
+    "target": "refers"
+   },
+   {
+    "source": "require",
+    "target": "requires"
+   },
+   {
+    "source": "promote",
+    "target": "promotes"
+   },
+   {
+    "source": "provide",
+    "target": "provides"
+   },
+   {
+    "source": "achieve",
+    "target": "achieves"
+   },
+   {
+    "source": "exist",
+    "target": "exists"
+   },
+   {
+    "source": "allow",
+    "target": "allows"
+   },
+   {
+    "source": "continue",
+    "target": "continues"
+   },
+   {
+    "source": "create",
+    "target": "creates"
+   },
+   {
+    "source": "ask",
+    "target": "asks"
+   },
+   {
+    "source": "understand",
+    "target": "understands"
+   },
+   {
+    "source": "operate",
+    "target": "operates"
+   },
+   {
+    "source": "include",
+    "target": "includes"
+   }
+  ]
+ },
+ "I06_verb_inf_Ving": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "perform",
+    "target": "performing"
+   },
+   {
+    "source": "consider",
+    "target": "considering"
+   },
+   {
+    "source": "enjoy",
+    "target": "enjoying"
+   },
+   {
+    "source": "establish",
+    "target": "establishing"
+   },
+   {
+    "source": "manage",
+    "target": "managing"
+   },
+   {
+    "source": "believe",
+    "target": "believing"
+   },
+   {
+    "source": "exist",
+    "target": "existing"
+   },
+   {
+    "source": "refer",
+    "target": "referring"
+   },
+   {
+    "source": "remember",
+    "target": "remembering"
+   },
+   {
+    "source": "tell",
+    "target": "telling"
+   },
+   {
+    "source": "develop",
+    "target": "developing"
+   },
+   {
+    "source": "involve",
+    "target": "involving"
+   },
+   {
+    "source": "require",
+    "target": "requiring"
+   },
+   {
+    "source": "happen",
+    "target": "happening"
+   },
+   {
+    "source": "protect",
+    "target": "protecting"
+   },
+   {
+    "source": "reduce",
+    "target": "reducing"
+   },
+   {
+    "source": "operate",
+    "target": "operating"
+   },
+   {
+    "source": "expect",
+    "target": "expecting"
+   },
+   {
+    "source": "include",
+    "target": "including"
+   },
+   {
+    "source": "add",
+    "target": "adding"
+   },
+   {
+    "source": "seem",
+    "target": "seeming"
+   },
+   {
+    "source": "prevent",
+    "target": "preventing"
+   },
+   {
+    "source": "identify",
+    "target": "identifying"
+   },
+   {
+    "source": "provide",
+    "target": "providing"
+   },
+   {
+    "source": "create",
+    "target": "creating"
+   },
+   {
+    "source": "ask",
+    "target": "asking"
+   },
+   {
+    "source": "avoid",
+    "target": "avoiding"
+   },
+   {
+    "source": "remain",
+    "target": "remaining"
+   },
+   {
+    "source": "improve",
+    "target": "improving"
+   },
+   {
+    "source": "receive",
+    "target": "receiving"
+   },
+   {
+    "source": "allow",
+    "target": "allowing"
+   },
+   {
+    "source": "achieve",
+    "target": "achieving"
+   },
+   {
+    "source": "appear",
+    "target": "appearing"
+   },
+   {
+    "source": "teach",
+    "target": "teaching"
+   },
+   {
+    "source": "represent",
+    "target": "representing"
+   },
+   {
+    "source": "apply",
+    "target": "applying"
+   },
+   {
+    "source": "understand",
+    "target": "understanding"
+   },
+   {
+    "source": "maintain",
+    "target": "maintaining"
+   },
+   {
+    "source": "ensure",
+    "target": "ensuring"
+   },
+   {
+    "source": "contain",
+    "target": "containing"
+   },
+   {
+    "source": "learn",
+    "target": "learning"
+   },
+   {
+    "source": "become",
+    "target": "becoming"
+   },
+   {
+    "source": "lose",
+    "target": "losing"
+   },
+   {
+    "source": "promote",
+    "target": "promoting"
+   },
+   {
+    "source": "sit",
+    "target": "sitting"
+   },
+   {
+    "source": "continue",
+    "target": "continuing"
+   },
+   {
+    "source": "encourage",
+    "target": "encouraging"
+   },
+   {
+    "source": "attend",
+    "target": "attending"
+   },
+   {
+    "source": "follow",
+    "target": "following"
+   },
+   {
+    "source": "spend",
+    "target": "spending"
+   }
+  ]
+ },
+ "I07_verb_inf_Ved": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "attend",
+    "target": "attended"
+   },
+   {
+    "source": "replace",
+    "target": "replaced"
+   },
+   {
+    "source": "lose",
+    "target": "lost"
+   },
+   {
+    "source": "create",
+    "target": "created"
+   },
+   {
+    "source": "send",
+    "target": "sent"
+   },
+   {
+    "source": "relate",
+    "target": "related"
+   },
+   {
+    "source": "accept",
+    "target": "accepted"
+   },
+   {
+    "source": "introduce",
+    "target": "introduced"
+   },
+   {
+    "source": "reduce",
+    "target": "reduced"
+   },
+   {
+    "source": "hear",
+    "target": "heard"
+   },
+   {
+    "source": "provide",
+    "target": "provided"
+   },
+   {
+    "source": "consider",
+    "target": "considered"
+   },
+   {
+    "source": "develop",
+    "target": "developed"
+   },
+   {
+    "source": "improve",
+    "target": "improved"
+   },
+   {
+    "source": "expect",
+    "target": "expected"
+   },
+   {
+    "source": "include",
+    "target": "included"
+   },
+   {
+    "source": "refer",
+    "target": "referred"
+   },
+   {
+    "source": "understand",
+    "target": "understood"
+   },
+   {
+    "source": "appear",
+    "target": "appeared"
+   },
+   {
+    "source": "ask",
+    "target": "asked"
+   },
+   {
+    "source": "remain",
+    "target": "remained"
+   },
+   {
+    "source": "describe",
+    "target": "described"
+   },
+   {
+    "source": "follow",
+    "target": "followed"
+   },
+   {
+    "source": "seem",
+    "target": "seemed"
+   },
+   {
+    "source": "establish",
+    "target": "established"
+   },
+   {
+    "source": "continue",
+    "target": "continued"
+   },
+   {
+    "source": "add",
+    "target": "added"
+   },
+   {
+    "source": "involve",
+    "target": "involved"
+   },
+   {
+    "source": "achieve",
+    "target": "achieved"
+   },
+   {
+    "source": "enjoy",
+    "target": "enjoyed"
+   },
+   {
+    "source": "discover",
+    "target": "discovered"
+   },
+   {
+    "source": "perform",
+    "target": "performed"
+   },
+   {
+    "source": "apply",
+    "target": "applied"
+   },
+   {
+    "source": "identify",
+    "target": "identified"
+   },
+   {
+    "source": "decide",
+    "target": "decided"
+   },
+   {
+    "source": "publish",
+    "target": "published"
+   },
+   {
+    "source": "allow",
+    "target": "allowed"
+   },
+   {
+    "source": "believe",
+    "target": "believed"
+   },
+   {
+    "source": "announce",
+    "target": "announced"
+   },
+   {
+    "source": "require",
+    "target": "required"
+   },
+   {
+    "source": "spend",
+    "target": "spent"
+   },
+   {
+    "source": "become",
+    "target": "became"
+   },
+   {
+    "source": "marry",
+    "target": "married"
+   },
+   {
+    "source": "manage",
+    "target": "managed"
+   },
+   {
+    "source": "locate",
+    "target": "located"
+   },
+   {
+    "source": "receive",
+    "target": "received"
+   },
+   {
+    "source": "unite",
+    "target": "united"
+   },
+   {
+    "source": "agree",
+    "target": "agreed"
+   },
+   {
+    "source": "ensure",
+    "target": "ensured"
+   },
+   {
+    "source": "tell",
+    "target": "told"
+   }
+  ]
+ },
+ "I08_verb_Ving_3pSg": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "occurring",
+    "target": "occurs"
+   },
+   {
+    "source": "learning",
+    "target": "learns"
+   },
+   {
+    "source": "losing",
+    "target": "loses"
+   },
+   {
+    "source": "asking",
+    "target": "asks"
+   },
+   {
+    "source": "continuing",
+    "target": "continues"
+   },
+   {
+    "source": "allowing",
+    "target": "allows"
+   },
+   {
+    "source": "believing",
+    "target": "believes"
+   },
+   {
+    "source": "creating",
+    "target": "creates"
+   },
+   {
+    "source": "involving",
+    "target": "involves"
+   },
+   {
+    "source": "teaching",
+    "target": "teaches"
+   },
+   {
+    "source": "following",
+    "target": "follows"
+   },
+   {
+    "source": "advertising",
+    "target": "advertises"
+   },
+   {
+    "source": "reducing",
+    "target": "reduces"
+   },
+   {
+    "source": "depending",
+    "target": "depends"
+   },
+   {
+    "source": "describing",
+    "target": "describes"
+   },
+   {
+    "source": "seeming",
+    "target": "seems"
+   },
+   {
+    "source": "spending",
+    "target": "spends"
+   },
+   {
+    "source": "performing",
+    "target": "performs"
+   },
+   {
+    "source": "including",
+    "target": "includes"
+   },
+   {
+    "source": "happening",
+    "target": "happens"
+   },
+   {
+    "source": "requiring",
+    "target": "requires"
+   },
+   {
+    "source": "referring",
+    "target": "refers"
+   },
+   {
+    "source": "remaining",
+    "target": "remains"
+   },
+   {
+    "source": "consisting",
+    "target": "consists"
+   },
+   {
+    "source": "understanding",
+    "target": "understands"
+   },
+   {
+    "source": "suggesting",
+    "target": "suggests"
+   },
+   {
+    "source": "enabling",
+    "target": "enables"
+   },
+   {
+    "source": "sitting",
+    "target": "sits"
+   },
+   {
+    "source": "operating",
+    "target": "operates"
+   },
+   {
+    "source": "representing",
+    "target": "represents"
+   },
+   {
+    "source": "appearing",
+    "target": "appears"
+   },
+   {
+    "source": "thanking",
+    "target": "thanks"
+   },
+   {
+    "source": "telling",
+    "target": "tells"
+   },
+   {
+    "source": "becoming",
+    "target": "becomes"
+   },
+   {
+    "source": "relating",
+    "target": "relates"
+   },
+   {
+    "source": "receiving",
+    "target": "receives"
+   },
+   {
+    "source": "adding",
+    "target": "adds"
+   },
+   {
+    "source": "providing",
+    "target": "provides"
+   },
+   {
+    "source": "explaining",
+    "target": "explains"
+   },
+   {
+    "source": "publishing",
+    "target": "publishes"
+   },
+   {
+    "source": "managing",
+    "target": "manages"
+   },
+   {
+    "source": "containing",
+    "target": "contains"
+   },
+   {
+    "source": "existing",
+    "target": "exists"
+   },
+   {
+    "source": "improving",
+    "target": "improves"
+   },
+   {
+    "source": "developing",
+    "target": "develops"
+   },
+   {
+    "source": "applying",
+    "target": "applies"
+   },
+   {
+    "source": "hearing",
+    "target": "hears"
+   },
+   {
+    "source": "considering",
+    "target": "considers"
+   },
+   {
+    "source": "discovering",
+    "target": "discovers"
+   },
+   {
+    "source": "promoting",
+    "target": "promotes"
+   }
+  ]
+ },
+ "I09_verb_Ving_Ved": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "developing",
+    "target": "developed"
+   },
+   {
+    "source": "describing",
+    "target": "described"
+   },
+   {
+    "source": "receiving",
+    "target": "received"
+   },
+   {
+    "source": "representing",
+    "target": "represented"
+   },
+   {
+    "source": "involving",
+    "target": "involved"
+   },
+   {
+    "source": "failing",
+    "target": "failed"
+   },
+   {
+    "source": "considering",
+    "target": "considered"
+   },
+   {
+    "source": "applying",
+    "target": "applied"
+   },
+   {
+    "source": "performing",
+    "target": "performed"
+   },
+   {
+    "source": "understanding",
+    "target": "understood"
+   },
+   {
+    "source": "including",
+    "target": "included"
+   },
+   {
+    "source": "deciding",
+    "target": "decided"
+   },
+   {
+    "source": "continuing",
+    "target": "continued"
+   },
+   {
+    "source": "proposing",
+    "target": "proposed"
+   },
+   {
+    "source": "existing",
+    "target": "existed"
+   },
+   {
+    "source": "hearing",
+    "target": "heard"
+   },
+   {
+    "source": "sending",
+    "target": "sent"
+   },
+   {
+    "source": "creating",
+    "target": "created"
+   },
+   {
+    "source": "establishing",
+    "target": "established"
+   },
+   {
+    "source": "marrying",
+    "target": "married"
+   },
+   {
+    "source": "announcing",
+    "target": "announced"
+   },
+   {
+    "source": "operating",
+    "target": "operated"
+   },
+   {
+    "source": "spending",
+    "target": "spent"
+   },
+   {
+    "source": "following",
+    "target": "followed"
+   },
+   {
+    "source": "appointing",
+    "target": "appointed"
+   },
+   {
+    "source": "containing",
+    "target": "contained"
+   },
+   {
+    "source": "agreeing",
+    "target": "agreed"
+   },
+   {
+    "source": "relating",
+    "target": "related"
+   },
+   {
+    "source": "introducing",
+    "target": "introduced"
+   },
+   {
+    "source": "managing",
+    "target": "managed"
+   },
+   {
+    "source": "losing",
+    "target": "lost"
+   },
+   {
+    "source": "remaining",
+    "target": "remained"
+   },
+   {
+    "source": "expecting",
+    "target": "expected"
+   },
+   {
+    "source": "replacing",
+    "target": "replaced"
+   },
+   {
+    "source": "attending",
+    "target": "attended"
+   },
+   {
+    "source": "telling",
+    "target": "told"
+   },
+   {
+    "source": "requiring",
+    "target": "required"
+   },
+   {
+    "source": "teaching",
+    "target": "taught"
+   },
+   {
+    "source": "reducing",
+    "target": "reduced"
+   },
+   {
+    "source": "improving",
+    "target": "improved"
+   },
+   {
+    "source": "allowing",
+    "target": "allowed"
+   },
+   {
+    "source": "providing",
+    "target": "provided"
+   },
+   {
+    "source": "becoming",
+    "target": "became"
+   },
+   {
+    "source": "appearing",
+    "target": "appeared"
+   },
+   {
+    "source": "asking",
+    "target": "asked"
+   },
+   {
+    "source": "adding",
+    "target": "added"
+   },
+   {
+    "source": "uniting",
+    "target": "united"
+   },
+   {
+    "source": "locating",
+    "target": "located"
+   },
+   {
+    "source": "suffering",
+    "target": "suffered"
+   },
+   {
+    "source": "publishing",
+    "target": "published"
+   }
+  ]
+ },
+ "I10_verb_3pSg_Ved": {
+  "category": "inflectional_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "decides",
+    "target": "decided"
+   },
+   {
+    "source": "suggests",
+    "target": "suggested"
+   },
+   {
+    "source": "locates",
+    "target": "located"
+   },
+   {
+    "source": "receives",
+    "target": "received"
+   },
+   {
+    "source": "asks",
+    "target": "asked"
+   },
+   {
+    "source": "describes",
+    "target": "described"
+   },
+   {
+    "source": "hears",
+    "target": "heard"
+   },
+   {
+    "source": "requires",
+    "target": "required"
+   },
+   {
+    "source": "performs",
+    "target": "performed"
+   },
+   {
+    "source": "replaces",
+    "target": "replaced"
+   },
+   {
+    "source": "relates",
+    "target": "related"
+   },
+   {
+    "source": "appoints",
+    "target": "appointed"
+   },
+   {
+    "source": "fails",
+    "target": "failed"
+   },
+   {
+    "source": "spends",
+    "target": "spent"
+   },
+   {
+    "source": "believes",
+    "target": "believed"
+   },
+   {
+    "source": "occurs",
+    "target": "occurred"
+   },
+   {
+    "source": "involves",
+    "target": "involved"
+   },
+   {
+    "source": "consists",
+    "target": "consisted"
+   },
+   {
+    "source": "continues",
+    "target": "continued"
+   },
+   {
+    "source": "marries",
+    "target": "married"
+   },
+   {
+    "source": "refers",
+    "target": "referred"
+   },
+   {
+    "source": "tells",
+    "target": "told"
+   },
+   {
+    "source": "establishes",
+    "target": "established"
+   },
+   {
+    "source": "applies",
+    "target": "applied"
+   },
+   {
+    "source": "becomes",
+    "target": "became"
+   },
+   {
+    "source": "announces",
+    "target": "announced"
+   },
+   {
+    "source": "adds",
+    "target": "added"
+   },
+   {
+    "source": "considers",
+    "target": "considered"
+   },
+   {
+    "source": "operates",
+    "target": "operated"
+   },
+   {
+    "source": "introduces",
+    "target": "introduced"
+   },
+   {
+    "source": "provides",
+    "target": "provided"
+   },
+   {
+    "source": "publishes",
+    "target": "published"
+   },
+   {
+    "source": "represents",
+    "target": "represented"
+   },
+   {
+    "source": "proposes",
+    "target": "proposed"
+   },
+   {
+    "source": "appears",
+    "target": "appeared"
+   },
+   {
+    "source": "develops",
+    "target": "developed"
+   },
+   {
+    "source": "follows",
+    "target": "followed"
+   },
+   {
+    "source": "intends",
+    "target": "intended"
+   },
+   {
+    "source": "seems",
+    "target": "seemed"
+   },
+   {
+    "source": "agrees",
+    "target": "agreed"
+   },
+   {
+    "source": "remains",
+    "target": "remained"
+   },
+   {
+    "source": "sends",
+    "target": "sent"
+   },
+   {
+    "source": "expects",
+    "target": "expected"
+   },
+   {
+    "source": "happens",
+    "target": "happened"
+   },
+   {
+    "source": "loses",
+    "target": "lost"
+   },
+   {
+    "source": "contains",
+    "target": "contained"
+   },
+   {
+    "source": "creates",
+    "target": "created"
+   },
+   {
+    "source": "manages",
+    "target": "managed"
+   },
+   {
+    "source": "allows",
+    "target": "allowed"
+   },
+   {
+    "source": "includes",
+    "target": "included"
+   }
+  ]
+ },
+ "D01_noun_less_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "soul",
+    "target": "soulless"
+   },
+   {
+    "source": "emotion",
+    "target": "emotionless"
+   },
+   {
+    "source": "meat",
+    "target": "meatless"
+   },
+   {
+    "source": "remorse",
+    "target": "remorseless"
+   },
+   {
+    "source": "leg",
+    "target": "legless"
+   },
+   {
+    "source": "wit",
+    "target": "witless"
+   },
+   {
+    "source": "luck",
+    "target": "luckless"
+   },
+   {
+    "source": "art",
+    "target": "artless"
+   },
+   {
+    "source": "bone",
+    "target": "boneless"
+   },
+   {
+    "source": "hair",
+    "target": "hairless"
+   },
+   {
+    "source": "passion",
+    "target": "passionless"
+   },
+   {
+    "source": "breath",
+    "target": "breathless"
+   },
+   {
+    "source": "friend",
+    "target": "friendless"
+   },
+   {
+    "source": "friction",
+    "target": "frictionless"
+   },
+   {
+    "source": "spine",
+    "target": "spineless"
+   },
+   {
+    "source": "faith",
+    "target": "faithless"
+   },
+   {
+    "source": "ego",
+    "target": "egoless"
+   },
+   {
+    "source": "expression",
+    "target": "expressionless"
+   },
+   {
+    "source": "collar",
+    "target": "collarless"
+   },
+   {
+    "source": "ruth",
+    "target": "ruthless"
+   },
+   {
+    "source": "mirth",
+    "target": "mirthless"
+   },
+   {
+    "source": "arm",
+    "target": "armless"
+   },
+   {
+    "source": "gender",
+    "target": "genderless"
+   },
+   {
+    "source": "odor",
+    "target": "odorless"
+   },
+   {
+    "source": "effort",
+    "target": "effortless"
+   },
+   {
+    "source": "penny",
+    "target": "penniless"
+   },
+   {
+    "source": "sleeve",
+    "target": "sleeveless"
+   },
+   {
+    "source": "child",
+    "target": "childless"
+   },
+   {
+    "source": "life",
+    "target": "lifeless"
+   },
+   {
+    "source": "heart",
+    "target": "heartless"
+   },
+   {
+    "source": "tooth",
+    "target": "toothless"
+   },
+   {
+    "source": "heir",
+    "target": "heirless"
+   },
+   {
+    "source": "thought",
+    "target": "thoughtless"
+   },
+   {
+    "source": "error",
+    "target": "errorless"
+   },
+   {
+    "source": "defence",
+    "target": "defenceless"
+   },
+   {
+    "source": "path",
+    "target": "pathless"
+   },
+   {
+    "source": "goal",
+    "target": "goalless"
+   },
+   {
+    "source": "home",
+    "target": "homeless"
+   },
+   {
+    "source": "talent",
+    "target": "talentless"
+   },
+   {
+    "source": "law",
+    "target": "lawless"
+   },
+   {
+    "source": "tact",
+    "target": "tactless"
+   },
+   {
+    "source": "money",
+    "target": "moneyless"
+   },
+   {
+    "source": "god",
+    "target": "godless"
+   },
+   {
+    "source": "death",
+    "target": "deathless"
+   },
+   {
+    "source": "window",
+    "target": "windowless"
+   },
+   {
+    "source": "guile",
+    "target": "guileless"
+   },
+   {
+    "source": "sensor",
+    "target": "sensorless"
+   },
+   {
+    "source": "guilt",
+    "target": "guiltless"
+   },
+   {
+    "source": "speech",
+    "target": "speechless"
+   },
+   {
+    "source": "carbon",
+    "target": "carbonless"
+   }
+  ]
+ },
+ "D02_un_adj_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "lawful",
+    "target": "unlawful"
+   },
+   {
+    "source": "finished",
+    "target": "unfinished"
+   },
+   {
+    "source": "identified",
+    "target": "unidentified"
+   },
+   {
+    "source": "comfortable",
+    "target": "uncomfortable"
+   },
+   {
+    "source": "satisfactory",
+    "target": "unsatisfactory"
+   },
+   {
+    "source": "predictable",
+    "target": "unpredictable"
+   },
+   {
+    "source": "aware",
+    "target": "unaware"
+   },
+   {
+    "source": "happy",
+    "target": "unhappy"
+   },
+   {
+    "source": "sustainable",
+    "target": "unsustainable"
+   },
+   {
+    "source": "biased",
+    "target": "unbiased"
+   },
+   {
+    "source": "changed",
+    "target": "unchanged"
+   },
+   {
+    "source": "veiled",
+    "target": "unveiled"
+   },
+   {
+    "source": "realistic",
+    "target": "unrealistic"
+   },
+   {
+    "source": "wanted",
+    "target": "unwanted"
+   },
+   {
+    "source": "reliable",
+    "target": "unreliable"
+   },
+   {
+    "source": "popular",
+    "target": "unpopular"
+   },
+   {
+    "source": "lucky",
+    "target": "unlucky"
+   },
+   {
+    "source": "expected",
+    "target": "unexpected"
+   },
+   {
+    "source": "suitable",
+    "target": "unsuitable"
+   },
+   {
+    "source": "usual",
+    "target": "unusual"
+   },
+   {
+    "source": "employed",
+    "target": "unemployed"
+   },
+   {
+    "source": "avoidable",
+    "target": "unavoidable"
+   },
+   {
+    "source": "believable",
+    "target": "unbelievable"
+   },
+   {
+    "source": "conscious",
+    "target": "unconscious"
+   },
+   {
+    "source": "authorized",
+    "target": "unauthorized"
+   },
+   {
+    "source": "related",
+    "target": "unrelated"
+   },
+   {
+    "source": "published",
+    "target": "unpublished"
+   },
+   {
+    "source": "able",
+    "target": "unable"
+   },
+   {
+    "source": "healthy",
+    "target": "unhealthy"
+   },
+   {
+    "source": "fortunate",
+    "target": "unfortunate"
+   },
+   {
+    "source": "restricted",
+    "target": "unrestricted"
+   },
+   {
+    "source": "specified",
+    "target": "unspecified"
+   },
+   {
+    "source": "interrupted",
+    "target": "uninterrupted"
+   },
+   {
+    "source": "pleasant",
+    "target": "unpleasant"
+   },
+   {
+    "source": "intended",
+    "target": "unintended"
+   },
+   {
+    "source": "used",
+    "target": "unused"
+   },
+   {
+    "source": "reasonable",
+    "target": "unreasonable"
+   },
+   {
+    "source": "known",
+    "target": "unknown"
+   },
+   {
+    "source": "noticed",
+    "target": "unnoticed"
+   },
+   {
+    "source": "available",
+    "target": "unavailable"
+   },
+   {
+    "source": "resolved",
+    "target": "unresolved"
+   },
+   {
+    "source": "paid",
+    "target": "unpaid"
+   },
+   {
+    "source": "desirable",
+    "target": "undesirable"
+   },
+   {
+    "source": "affected",
+    "target": "unaffected"
+   },
+   {
+    "source": "acceptable",
+    "target": "unacceptable"
+   },
+   {
+    "source": "certain",
+    "target": "uncertain"
+   },
+   {
+    "source": "conditional",
+    "target": "unconditional"
+   },
+   {
+    "source": "controlled",
+    "target": "uncontrolled"
+   },
+   {
+    "source": "forgettable",
+    "target": "unforgettable"
+   },
+   {
+    "source": "successful",
+    "target": "unsuccessful"
+   }
+  ]
+ },
+ "D03_adj_ly_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "increasing",
+    "target": "increasingly"
+   },
+   {
+    "source": "cultural",
+    "target": "culturally"
+   },
+   {
+    "source": "actual",
+    "target": "actually"
+   },
+   {
+    "source": "practical",
+    "target": "practically"
+   },
+   {
+    "source": "clinical",
+    "target": "clinically"
+   },
+   {
+    "source": "subsequent",
+    "target": "subsequently"
+   },
+   {
+    "source": "nice",
+    "target": "nicely"
+   },
+   {
+    "source": "internal",
+    "target": "internally"
+   },
+   {
+    "source": "digital",
+    "target": "digitally"
+   },
+   {
+    "source": "traditional",
+    "target": "traditionally"
+   },
+   {
+    "source": "decided",
+    "target": "decidedly"
+   },
+   {
+    "source": "interesting",
+    "target": "interestingly"
+   },
+   {
+    "source": "political",
+    "target": "politically"
+   },
+   {
+    "source": "apparent",
+    "target": "apparently"
+   },
+   {
+    "source": "according",
+    "target": "accordingly"
+   },
+   {
+    "source": "previous",
+    "target": "previously"
+   },
+   {
+    "source": "extensive",
+    "target": "extensively"
+   },
+   {
+    "source": "visual",
+    "target": "visually"
+   },
+   {
+    "source": "historical",
+    "target": "historically"
+   },
+   {
+    "source": "environmental",
+    "target": "environmentally"
+   },
+   {
+    "source": "virtual",
+    "target": "virtually"
+   },
+   {
+    "source": "creative",
+    "target": "creatively"
+   },
+   {
+    "source": "international",
+    "target": "internationally"
+   },
+   {
+    "source": "important",
+    "target": "importantly"
+   },
+   {
+    "source": "effective",
+    "target": "effectively"
+   },
+   {
+    "source": "critical",
+    "target": "critically"
+   },
+   {
+    "source": "legal",
+    "target": "legally"
+   },
+   {
+    "source": "rare",
+    "target": "rarely"
+   },
+   {
+    "source": "additional",
+    "target": "additionally"
+   },
+   {
+    "source": "similar",
+    "target": "similarly"
+   },
+   {
+    "source": "regional",
+    "target": "regionally"
+   },
+   {
+    "source": "huge",
+    "target": "hugely"
+   },
+   {
+    "source": "immediate",
+    "target": "immediately"
+   },
+   {
+    "source": "serious",
+    "target": "seriously"
+   },
+   {
+    "source": "sexual",
+    "target": "sexually"
+   },
+   {
+    "source": "global",
+    "target": "globally"
+   },
+   {
+    "source": "beautiful",
+    "target": "beautifully"
+   },
+   {
+    "source": "typical",
+    "target": "typically"
+   },
+   {
+    "source": "strong",
+    "target": "strongly"
+   },
+   {
+    "source": "successful",
+    "target": "successfully"
+   },
+   {
+    "source": "physical",
+    "target": "physically"
+   },
+   {
+    "source": "popular",
+    "target": "popularly"
+   },
+   {
+    "source": "financial",
+    "target": "financially"
+   },
+   {
+    "source": "significant",
+    "target": "significantly"
+   },
+   {
+    "source": "famous",
+    "target": "famously"
+   },
+   {
+    "source": "federal",
+    "target": "federally"
+   },
+   {
+    "source": "mental",
+    "target": "mentally"
+   },
+   {
+    "source": "obvious",
+    "target": "obviously"
+   },
+   {
+    "source": "unique",
+    "target": "uniquely"
+   },
+   {
+    "source": "different",
+    "target": "differently"
+   }
+  ]
+ },
+ "D04_over_adj_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "paid",
+    "target": "overpaid"
+   },
+   {
+    "source": "grown",
+    "target": "overgrown"
+   },
+   {
+    "source": "laid",
+    "target": "overlaid"
+   },
+   {
+    "source": "compensated",
+    "target": "overcompensated"
+   },
+   {
+    "source": "loaded",
+    "target": "overloaded"
+   },
+   {
+    "source": "done",
+    "target": "overdone"
+   },
+   {
+    "source": "painted",
+    "target": "overpainted"
+   },
+   {
+    "source": "represented",
+    "target": "overrepresented"
+   },
+   {
+    "source": "charged",
+    "target": "overcharged"
+   },
+   {
+    "source": "protective",
+    "target": "overprotective"
+   },
+   {
+    "source": "used",
+    "target": "overused"
+   },
+   {
+    "source": "heard",
+    "target": "overheard"
+   },
+   {
+    "source": "enthusiastic",
+    "target": "overenthusiastic"
+   },
+   {
+    "source": "ambitious",
+    "target": "overambitious"
+   },
+   {
+    "source": "crowded",
+    "target": "overcrowded"
+   },
+   {
+    "source": "booked",
+    "target": "overbooked"
+   },
+   {
+    "source": "inflated",
+    "target": "overinflated"
+   },
+   {
+    "source": "exposed",
+    "target": "overexposed"
+   },
+   {
+    "source": "powered",
+    "target": "overpowered"
+   },
+   {
+    "source": "sold",
+    "target": "oversold"
+   },
+   {
+    "source": "stretched",
+    "target": "overstretched"
+   },
+   {
+    "source": "subscribed",
+    "target": "oversubscribed"
+   },
+   {
+    "source": "stocked",
+    "target": "overstocked"
+   },
+   {
+    "source": "cooked",
+    "target": "overcooked"
+   },
+   {
+    "source": "strained",
+    "target": "overstrained"
+   },
+   {
+    "source": "excited",
+    "target": "overexcited"
+   },
+   {
+    "source": "thrown",
+    "target": "overthrown"
+   },
+   {
+    "source": "stated",
+    "target": "overstated"
+   },
+   {
+    "source": "simplified",
+    "target": "oversimplified"
+   },
+   {
+    "source": "written",
+    "target": "overwritten"
+   },
+   {
+    "source": "shadowed",
+    "target": "overshadowed"
+   },
+   {
+    "source": "stimulated",
+    "target": "overstimulated"
+   },
+   {
+    "source": "turned",
+    "target": "overturned"
+   },
+   {
+    "source": "confident",
+    "target": "overconfident"
+   },
+   {
+    "source": "spent",
+    "target": "overspent"
+   },
+   {
+    "source": "stressed",
+    "target": "overstressed"
+   },
+   {
+    "source": "taken",
+    "target": "overtaken"
+   },
+   {
+    "source": "sized",
+    "target": "oversized"
+   },
+   {
+    "source": "developed",
+    "target": "overdeveloped"
+   },
+   {
+    "source": "qualified",
+    "target": "overqualified"
+   },
+   {
+    "source": "dressed",
+    "target": "overdressed"
+   },
+   {
+    "source": "populated",
+    "target": "overpopulated"
+   },
+   {
+    "source": "optimistic",
+    "target": "overoptimistic"
+   },
+   {
+    "source": "played",
+    "target": "overplayed"
+   },
+   {
+    "source": "arching",
+    "target": "overarching"
+   },
+   {
+    "source": "zealous",
+    "target": "overzealous"
+   },
+   {
+    "source": "protected",
+    "target": "overprotected"
+   },
+   {
+    "source": "heated",
+    "target": "overheated"
+   },
+   {
+    "source": "filled",
+    "target": "overfilled"
+   },
+   {
+    "source": "saturated",
+    "target": "oversaturated"
+   }
+  ]
+ },
+ "D05_adj_ness_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "careful",
+    "target": "carefulness"
+   },
+   {
+    "source": "impressive",
+    "target": "impressiveness"
+   },
+   {
+    "source": "fixed",
+    "target": "fixedness"
+   },
+   {
+    "source": "innovative",
+    "target": "innovativeness"
+   },
+   {
+    "source": "prepared",
+    "target": "preparedness"
+   },
+   {
+    "source": "related",
+    "target": "relatedness"
+   },
+   {
+    "source": "amazing",
+    "target": "amazingness"
+   },
+   {
+    "source": "devoted",
+    "target": "devotedness"
+   },
+   {
+    "source": "sacred",
+    "target": "sacredness"
+   },
+   {
+    "source": "unique",
+    "target": "uniqueness"
+   },
+   {
+    "source": "distinctive",
+    "target": "distinctiveness"
+   },
+   {
+    "source": "pure",
+    "target": "pureness"
+   },
+   {
+    "source": "reasonable",
+    "target": "reasonableness"
+   },
+   {
+    "source": "strange",
+    "target": "strangeness"
+   },
+   {
+    "source": "cheap",
+    "target": "cheapness"
+   },
+   {
+    "source": "obvious",
+    "target": "obviousness"
+   },
+   {
+    "source": "mad",
+    "target": "madness"
+   },
+   {
+    "source": "situated",
+    "target": "situatedness"
+   },
+   {
+    "source": "broken",
+    "target": "brokenness"
+   },
+   {
+    "source": "random",
+    "target": "randomness"
+   },
+   {
+    "source": "helpful",
+    "target": "helpfulness"
+   },
+   {
+    "source": "marked",
+    "target": "markedness"
+   },
+   {
+    "source": "aware",
+    "target": "awareness"
+   },
+   {
+    "source": "odd",
+    "target": "oddness"
+   },
+   {
+    "source": "hot",
+    "target": "hotness"
+   },
+   {
+    "source": "interesting",
+    "target": "interestingness"
+   },
+   {
+    "source": "directed",
+    "target": "directedness"
+   },
+   {
+    "source": "hidden",
+    "target": "hiddenness"
+   },
+   {
+    "source": "foreign",
+    "target": "foreignness"
+   },
+   {
+    "source": "useful",
+    "target": "usefulness"
+   },
+   {
+    "source": "vast",
+    "target": "vastness"
+   },
+   {
+    "source": "weak",
+    "target": "weakness"
+   },
+   {
+    "source": "competitive",
+    "target": "competitiveness"
+   },
+   {
+    "source": "happy",
+    "target": "happiness"
+   },
+   {
+    "source": "sad",
+    "target": "sadness"
+   },
+   {
+    "source": "serious",
+    "target": "seriousness"
+   },
+   {
+    "source": "dangerous",
+    "target": "dangerousness"
+   },
+   {
+    "source": "huge",
+    "target": "hugeness"
+   },
+   {
+    "source": "extensive",
+    "target": "extensiveness"
+   },
+   {
+    "source": "massive",
+    "target": "massiveness"
+   },
+   {
+    "source": "distinct",
+    "target": "distinctness"
+   },
+   {
+    "source": "rare",
+    "target": "rareness"
+   },
+   {
+    "source": "connected",
+    "target": "connectedness"
+   },
+   {
+    "source": "same",
+    "target": "sameness"
+   },
+   {
+    "source": "nice",
+    "target": "niceness"
+   },
+   {
+    "source": "conscious",
+    "target": "consciousness"
+   },
+   {
+    "source": "effective",
+    "target": "effectiveness"
+   },
+   {
+    "source": "creative",
+    "target": "creativeness"
+   },
+   {
+    "source": "righteous",
+    "target": "righteousness"
+   },
+   {
+    "source": "attractive",
+    "target": "attractiveness"
+   }
+  ]
+ },
+ "D06_re_verb_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "create",
+    "target": "recreate"
+   },
+   {
+    "source": "apply",
+    "target": "reapply"
+   },
+   {
+    "source": "appear",
+    "target": "reappear"
+   },
+   {
+    "source": "solve",
+    "target": "resolve"
+   },
+   {
+    "source": "marry",
+    "target": "remarry"
+   },
+   {
+    "source": "adjust",
+    "target": "readjust"
+   },
+   {
+    "source": "assure",
+    "target": "reassure"
+   },
+   {
+    "source": "write",
+    "target": "rewrite"
+   },
+   {
+    "source": "establish",
+    "target": "reestablish"
+   },
+   {
+    "source": "tell",
+    "target": "retell"
+   },
+   {
+    "source": "confirm",
+    "target": "reconfirm"
+   },
+   {
+    "source": "evaluate",
+    "target": "reevaluate"
+   },
+   {
+    "source": "appoint",
+    "target": "reappoint"
+   },
+   {
+    "source": "distribute",
+    "target": "redistribute"
+   },
+   {
+    "source": "integrate",
+    "target": "reintegrate"
+   },
+   {
+    "source": "assess",
+    "target": "reassess"
+   },
+   {
+    "source": "learn",
+    "target": "relearn"
+   },
+   {
+    "source": "interpret",
+    "target": "reinterpret"
+   },
+   {
+    "source": "emerge",
+    "target": "reemerge"
+   },
+   {
+    "source": "send",
+    "target": "resend"
+   },
+   {
+    "source": "acquire",
+    "target": "reacquire"
+   },
+   {
+    "source": "cognize",
+    "target": "recognize"
+   },
+   {
+    "source": "configure",
+    "target": "reconfigure"
+   },
+   {
+    "source": "discover",
+    "target": "rediscover"
+   },
+   {
+    "source": "define",
+    "target": "redefine"
+   },
+   {
+    "source": "deem",
+    "target": "redeem"
+   },
+   {
+    "source": "locate",
+    "target": "relocate"
+   },
+   {
+    "source": "engage",
+    "target": "reengage"
+   },
+   {
+    "source": "assign",
+    "target": "reassign"
+   },
+   {
+    "source": "connect",
+    "target": "reconnect"
+   },
+   {
+    "source": "generate",
+    "target": "regenerate"
+   },
+   {
+    "source": "investigate",
+    "target": "reinvestigate"
+   },
+   {
+    "source": "arrange",
+    "target": "rearrange"
+   },
+   {
+    "source": "consider",
+    "target": "reconsider"
+   },
+   {
+    "source": "develop",
+    "target": "redevelop"
+   },
+   {
+    "source": "publish",
+    "target": "republish"
+   },
+   {
+    "source": "unite",
+    "target": "reunite"
+   },
+   {
+    "source": "upload",
+    "target": "reupload"
+   },
+   {
+    "source": "install",
+    "target": "reinstall"
+   },
+   {
+    "source": "invest",
+    "target": "reinvest"
+   },
+   {
+    "source": "negotiate",
+    "target": "renegotiate"
+   },
+   {
+    "source": "decorate",
+    "target": "redecorate"
+   },
+   {
+    "source": "organize",
+    "target": "reorganize"
+   },
+   {
+    "source": "introduce",
+    "target": "reintroduce"
+   },
+   {
+    "source": "commend",
+    "target": "recommend"
+   },
+   {
+    "source": "examine",
+    "target": "reexamine"
+   },
+   {
+    "source": "calculate",
+    "target": "recalculate"
+   },
+   {
+    "source": "submit",
+    "target": "resubmit"
+   },
+   {
+    "source": "grow",
+    "target": "regrow"
+   },
+   {
+    "source": "occur",
+    "target": "reoccur"
+   }
+  ]
+ },
+ "D07_verb_able_reg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "recognize",
+    "target": "recognizable"
+   },
+   {
+    "source": "accept",
+    "target": "acceptable"
+   },
+   {
+    "source": "protect",
+    "target": "protectable"
+   },
+   {
+    "source": "download",
+    "target": "downloadable"
+   },
+   {
+    "source": "adapt",
+    "target": "adaptable"
+   },
+   {
+    "source": "define",
+    "target": "definable"
+   },
+   {
+    "source": "prevent",
+    "target": "preventable"
+   },
+   {
+    "source": "sustain",
+    "target": "sustainable"
+   },
+   {
+    "source": "deliver",
+    "target": "deliverable"
+   },
+   {
+    "source": "imagine",
+    "target": "imaginable"
+   },
+   {
+    "source": "perform",
+    "target": "performable"
+   },
+   {
+    "source": "admire",
+    "target": "admirable"
+   },
+   {
+    "source": "expect",
+    "target": "expectable"
+   },
+   {
+    "source": "replace",
+    "target": "replaceable"
+   },
+   {
+    "source": "learn",
+    "target": "learnable"
+   },
+   {
+    "source": "vary",
+    "target": "variable"
+   },
+   {
+    "source": "recommend",
+    "target": "recommendable"
+   },
+   {
+    "source": "expand",
+    "target": "expandable"
+   },
+   {
+    "source": "renew",
+    "target": "renewable"
+   },
+   {
+    "source": "advise",
+    "target": "advisable"
+   },
+   {
+    "source": "adjust",
+    "target": "adjustable"
+   },
+   {
+    "source": "afford",
+    "target": "affordable"
+   },
+   {
+    "source": "foresee",
+    "target": "foreseeable"
+   },
+   {
+    "source": "believe",
+    "target": "believeable"
+   },
+   {
+    "source": "avoid",
+    "target": "avoidable"
+   },
+   {
+    "source": "publish",
+    "target": "publishable"
+   },
+   {
+    "source": "observe",
+    "target": "observable"
+   },
+   {
+    "source": "contain",
+    "target": "containable"
+   },
+   {
+    "source": "consider",
+    "target": "considerable"
+   },
+   {
+    "source": "edit",
+    "target": "editable"
+   },
+   {
+    "source": "predict",
+    "target": "predictable"
+   },
+   {
+    "source": "improve",
+    "target": "improvable"
+   },
+   {
+    "source": "explain",
+    "target": "explainable"
+   },
+   {
+    "source": "survive",
+    "target": "survivable"
+   },
+   {
+    "source": "extend",
+    "target": "extendable"
+   },
+   {
+    "source": "execute",
+    "target": "executable"
+   },
+   {
+    "source": "understand",
+    "target": "understandable"
+   },
+   {
+    "source": "identify",
+    "target": "identifiable"
+   },
+   {
+    "source": "discover",
+    "target": "discoverable"
+   },
+   {
+    "source": "enjoy",
+    "target": "enjoyable"
+   },
+   {
+    "source": "adore",
+    "target": "adorable"
+   },
+   {
+    "source": "achieve",
+    "target": "achieveable"
+   },
+   {
+    "source": "inflate",
+    "target": "inflatable"
+   },
+   {
+    "source": "write",
+    "target": "writeable"
+   },
+   {
+    "source": "rely",
+    "target": "reliable"
+   },
+   {
+    "source": "maintain",
+    "target": "maintainable"
+   },
+   {
+    "source": "represent",
+    "target": "representable"
+   },
+   {
+    "source": "dispose",
+    "target": "disposable"
+   },
+   {
+    "source": "prefer",
+    "target": "preferable"
+   },
+   {
+    "source": "manage",
+    "target": "manageable"
+   }
+  ]
+ },
+ "D08_verb_er_irreg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "speak",
+    "target": "speaker"
+   },
+   {
+    "source": "promote",
+    "target": "promoter"
+   },
+   {
+    "source": "destroy",
+    "target": "destroyer"
+   },
+   {
+    "source": "organize",
+    "target": "organizer"
+   },
+   {
+    "source": "interpret",
+    "target": "interpreter"
+   },
+   {
+    "source": "choreograph",
+    "target": "choreographer"
+   },
+   {
+    "source": "intrude",
+    "target": "intruder"
+   },
+   {
+    "source": "defend",
+    "target": "defender"
+   },
+   {
+    "source": "determine",
+    "target": "determiner"
+   },
+   {
+    "source": "contend",
+    "target": "contender"
+   },
+   {
+    "source": "discover",
+    "target": "discoverer"
+   },
+   {
+    "source": "provide",
+    "target": "provider"
+   },
+   {
+    "source": "organise",
+    "target": "organiser"
+   },
+   {
+    "source": "write",
+    "target": "writer"
+   },
+   {
+    "source": "listen",
+    "target": "listener"
+   },
+   {
+    "source": "publish",
+    "target": "publisher"
+   },
+   {
+    "source": "consume",
+    "target": "consumer"
+   },
+   {
+    "source": "explore",
+    "target": "explorer"
+   },
+   {
+    "source": "begin",
+    "target": "beginner"
+   },
+   {
+    "source": "mourn",
+    "target": "mourner"
+   },
+   {
+    "source": "send",
+    "target": "sender"
+   },
+   {
+    "source": "learn",
+    "target": "learner"
+   },
+   {
+    "source": "lose",
+    "target": "loser"
+   },
+   {
+    "source": "deliver",
+    "target": "deliverer"
+   },
+   {
+    "source": "slay",
+    "target": "slayer"
+   },
+   {
+    "source": "skydive",
+    "target": "skydiver"
+   },
+   {
+    "source": "develop",
+    "target": "developer"
+   },
+   {
+    "source": "manage",
+    "target": "manager"
+   },
+   {
+    "source": "receive",
+    "target": "receiver"
+   },
+   {
+    "source": "advertise",
+    "target": "advertiser"
+   },
+   {
+    "source": "believe",
+    "target": "believer"
+   },
+   {
+    "source": "follow",
+    "target": "follower"
+   },
+   {
+    "source": "molest",
+    "target": "molester"
+   },
+   {
+    "source": "suffer",
+    "target": "sufferer"
+   },
+   {
+    "source": "observe",
+    "target": "observer"
+   },
+   {
+    "source": "recommend",
+    "target": "recommender"
+   },
+   {
+    "source": "tell",
+    "target": "teller"
+   },
+   {
+    "source": "borrow",
+    "target": "borrower"
+   },
+   {
+    "source": "offend",
+    "target": "offender"
+   },
+   {
+    "source": "teach",
+    "target": "teacher"
+   },
+   {
+    "source": "entertain",
+    "target": "entertainer"
+   },
+   {
+    "source": "preach",
+    "target": "preacher"
+   },
+   {
+    "source": "bake",
+    "target": "baker"
+   },
+   {
+    "source": "announce",
+    "target": "announcer"
+   },
+   {
+    "source": "eat",
+    "target": "eater"
+   },
+   {
+    "source": "compose",
+    "target": "composer"
+   },
+   {
+    "source": "perform",
+    "target": "performer"
+   },
+   {
+    "source": "subscribe",
+    "target": "subscriber"
+   },
+   {
+    "source": "achieve",
+    "target": "achiever"
+   },
+   {
+    "source": "examine",
+    "target": "examiner"
+   }
+  ]
+ },
+ "D09_verb_tion_irreg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "restore",
+    "target": "restoration"
+   },
+   {
+    "source": "examine",
+    "target": "examination"
+   },
+   {
+    "source": "deprive",
+    "target": "deprivation"
+   },
+   {
+    "source": "realize",
+    "target": "realization"
+   },
+   {
+    "source": "consult",
+    "target": "consulation"
+   },
+   {
+    "source": "imagine",
+    "target": "imagination"
+   },
+   {
+    "source": "globalize",
+    "target": "globalization"
+   },
+   {
+    "source": "occupy",
+    "target": "occupation"
+   },
+   {
+    "source": "maximize",
+    "target": "maximization"
+   },
+   {
+    "source": "prepare",
+    "target": "preparation"
+   },
+   {
+    "source": "organize",
+    "target": "organization"
+   },
+   {
+    "source": "illumine",
+    "target": "illumination"
+   },
+   {
+    "source": "perspire",
+    "target": "perspiration"
+   },
+   {
+    "source": "visualize",
+    "target": "visualization"
+   },
+   {
+    "source": "determine",
+    "target": "determination"
+   },
+   {
+    "source": "aspire",
+    "target": "aspiration"
+   },
+   {
+    "source": "specialize",
+    "target": "specialization"
+   },
+   {
+    "source": "utilize",
+    "target": "utilization"
+   },
+   {
+    "source": "derive",
+    "target": "derivation"
+   },
+   {
+    "source": "compile",
+    "target": "compilation"
+   },
+   {
+    "source": "oblige",
+    "target": "obligation"
+   },
+   {
+    "source": "expire",
+    "target": "expiration"
+   },
+   {
+    "source": "allege",
+    "target": "allegation"
+   },
+   {
+    "source": "customize",
+    "target": "customization"
+   },
+   {
+    "source": "observe",
+    "target": "observation"
+   },
+   {
+    "source": "inspire",
+    "target": "inspiration"
+   },
+   {
+    "source": "explore",
+    "target": "exploration"
+   },
+   {
+    "source": "modernize",
+    "target": "modernization"
+   },
+   {
+    "source": "colonize",
+    "target": "colonization"
+   },
+   {
+    "source": "admire",
+    "target": "admiration"
+   },
+   {
+    "source": "compute",
+    "target": "computation"
+   },
+   {
+    "source": "minimize",
+    "target": "minimization"
+   },
+   {
+    "source": "install",
+    "target": "installation"
+   },
+   {
+    "source": "improvize",
+    "target": "improvization"
+   },
+   {
+    "source": "accuse",
+    "target": "accusation"
+   },
+   {
+    "source": "stabilize",
+    "target": "stabilization"
+   },
+   {
+    "source": "authorize",
+    "target": "authorization"
+   },
+   {
+    "source": "optimize",
+    "target": "optimization"
+   },
+   {
+    "source": "configure",
+    "target": "configuration"
+   },
+   {
+    "source": "declare",
+    "target": "declaration"
+   },
+   {
+    "source": "condense",
+    "target": "condensation"
+   },
+   {
+    "source": "characterize",
+    "target": "characterization"
+   },
+   {
+    "source": "reorganize",
+    "target": "reorganization"
+   },
+   {
+    "source": "degrade",
+    "target": "degradation"
+   },
+   {
+    "source": "standardize",
+    "target": "standardization"
+   },
+   {
+    "source": "randomize",
+    "target": "randomization"
+   },
+   {
+    "source": "continue",
+    "target": "continuation"
+   },
+   {
+    "source": "civilize",
+    "target": "civilization"
+   },
+   {
+    "source": "starve",
+    "target": "starvation"
+   },
+   {
+    "source": "privatize",
+    "target": "privatization"
+   }
+  ]
+ },
+ "D10_verb_ment_irreg": {
+  "category": "derivational_morphology",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "advertise",
+    "target": "advertisement"
+   },
+   {
+    "source": "assign",
+    "target": "assignment"
+   },
+   {
+    "source": "assess",
+    "target": "assessment"
+   },
+   {
+    "source": "engage",
+    "target": "engagement"
+   },
+   {
+    "source": "enforce",
+    "target": "enforcement"
+   },
+   {
+    "source": "reinforce",
+    "target": "reinforcement"
+   },
+   {
+    "source": "adjust",
+    "target": "adjustment"
+   },
+   {
+    "source": "replace",
+    "target": "replacement"
+   },
+   {
+    "source": "arrange",
+    "target": "arrangement"
+   },
+   {
+    "source": "fulfill",
+    "target": "fulfillment"
+   },
+   {
+    "source": "amend",
+    "target": "amendment"
+   },
+   {
+    "source": "appoint",
+    "target": "appointment"
+   },
+   {
+    "source": "align",
+    "target": "alignment"
+   },
+   {
+    "source": "announce",
+    "target": "announcement"
+   },
+   {
+    "source": "impair",
+    "target": "impairment"
+   },
+   {
+    "source": "endorse",
+    "target": "endorsement"
+   },
+   {
+    "source": "involve",
+    "target": "involvement"
+   },
+   {
+    "source": "manage",
+    "target": "management"
+   },
+   {
+    "source": "detach",
+    "target": "detachment"
+   },
+   {
+    "source": "punish",
+    "target": "punishment"
+   },
+   {
+    "source": "excite",
+    "target": "excitement"
+   },
+   {
+    "source": "reimburse",
+    "target": "reimbursement"
+   },
+   {
+    "source": "amuse",
+    "target": "amusement"
+   },
+   {
+    "source": "resent",
+    "target": "resentment"
+   },
+   {
+    "source": "accomplish",
+    "target": "accomplishment"
+   },
+   {
+    "source": "invest",
+    "target": "investment"
+   },
+   {
+    "source": "disappoint",
+    "target": "disappointment"
+   },
+   {
+    "source": "harass",
+    "target": "harassment"
+   },
+   {
+    "source": "enjoy",
+    "target": "enjoyment"
+   },
+   {
+    "source": "encourage",
+    "target": "encouragement"
+   },
+   {
+    "source": "entitle",
+    "target": "entitlement"
+   },
+   {
+    "source": "commit",
+    "target": "commitment"
+   },
+   {
+    "source": "infringe",
+    "target": "infringement"
+   },
+   {
+    "source": "achieve",
+    "target": "achievement"
+   },
+   {
+    "source": "develop",
+    "target": "development"
+   },
+   {
+    "source": "embarrass",
+    "target": "embarrassment"
+   },
+   {
+    "source": "enlighten",
+    "target": "enlightenment"
+   },
+   {
+    "source": "acknowledge",
+    "target": "acknowledgement"
+   },
+   {
+    "source": "improve",
+    "target": "improvement"
+   },
+   {
+    "source": "agree",
+    "target": "agreement"
+   },
+   {
+    "source": "enroll",
+    "target": "enrollment"
+   },
+   {
+    "source": "equip",
+    "target": "equipment"
+   },
+   {
+    "source": "fulfil",
+    "target": "fulfilment"
+   },
+   {
+    "source": "establish",
+    "target": "establishment"
+   },
+   {
+    "source": "disagree",
+    "target": "disagreement"
+   },
+   {
+    "source": "enhance",
+    "target": "enhancement"
+   },
+   {
+    "source": "require",
+    "target": "requirement"
+   },
+   {
+    "source": "displace",
+    "target": "displacement"
+   },
+   {
+    "source": "redevelop",
+    "target": "redevelopment"
+   },
+   {
+    "source": "entertain",
+    "target": "entertainment"
+   }
+  ]
+ },
+ "E01_country_capital": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "budapest",
+    "target": "hungary"
+   },
+   {
+    "source": "helsinki",
+    "target": "finland"
+   },
+   {
+    "source": "santiago",
+    "target": "chile"
+   },
+   {
+    "source": "vienna",
+    "target": "austria"
+   },
+   {
+    "source": "bern",
+    "target": "switzerland"
+   },
+   {
+    "source": "tokyo",
+    "target": "japan"
+   },
+   {
+    "source": "bucharest",
+    "target": "romania"
+   },
+   {
+    "source": "tehran",
+    "target": "iran"
+   },
+   {
+    "source": "athens",
+    "target": "greece"
+   },
+   {
+    "source": "kingston",
+    "target": "jamaica"
+   },
+   {
+    "source": "manila",
+    "target": "philippines"
+   },
+   {
+    "source": "hanoi",
+    "target": "vietnam"
+   },
+   {
+    "source": "oslo",
+    "target": "norway"
+   },
+   {
+    "source": "kiev",
+    "target": "ukraine"
+   },
+   {
+    "source": "taipei",
+    "target": "taiwan"
+   },
+   {
+    "source": "havana",
+    "target": "cuba"
+   },
+   {
+    "source": "berlin",
+    "target": "germany"
+   },
+   {
+    "source": "baghdad",
+    "target": "iraq"
+   },
+   {
+    "source": "copenhagen",
+    "target": "denmark"
+   },
+   {
+    "source": "belgrade",
+    "target": "serbia"
+   },
+   {
+    "source": "moscow",
+    "target": "russia"
+   },
+   {
+    "source": "lisbon",
+    "target": "portugal"
+   },
+   {
+    "source": "cairo",
+    "target": "egypt"
+   },
+   {
+    "source": "ottawa",
+    "target": "canada"
+   },
+   {
+    "source": "canberra",
+    "target": "australia"
+   },
+   {
+    "source": "islamabad",
+    "target": "pakistan"
+   },
+   {
+    "source": "dhaka",
+    "target": "bangladesh"
+   },
+   {
+    "source": "brussels",
+    "target": "belgium"
+   },
+   {
+    "source": "paris",
+    "target": "france"
+   },
+   {
+    "source": "beijing",
+    "target": "china"
+   },
+   {
+    "source": "amman",
+    "target": "jordan"
+   },
+   {
+    "source": "zagreb",
+    "target": "croatia"
+   },
+   {
+    "source": "sofia",
+    "target": "bulgaria"
+   },
+   {
+    "source": "abuja",
+    "target": "nigeria"
+   },
+   {
+    "source": "madrid",
+    "target": "spain"
+   },
+   {
+    "source": "warsaw",
+    "target": "poland"
+   },
+   {
+    "source": "beirut",
+    "target": "lebanon"
+   },
+   {
+    "source": "rome",
+    "target": "italy"
+   },
+   {
+    "source": "conakry",
+    "target": "guinea"
+   },
+   {
+    "source": "dublin",
+    "target": "ireland"
+   },
+   {
+    "source": "bangkok",
+    "target": "thailand"
+   },
+   {
+    "source": "lima",
+    "target": "peru"
+   },
+   {
+    "source": "ankara",
+    "target": "turkey"
+   },
+   {
+    "source": "nairobi",
+    "target": "kenya"
+   },
+   {
+    "source": "jakarta",
+    "target": "indonesia"
+   },
+   {
+    "source": "stockholm",
+    "target": "sweden"
+   },
+   {
+    "source": "damascus",
+    "target": "syria"
+   },
+   {
+    "source": "london",
+    "target": "england"
+   },
+   {
+    "source": "tbilisi",
+    "target": "georgia"
+   },
+   {
+    "source": "kabul",
+    "target": "afghanistan"
+   }
+  ]
+ },
+ "E02_country_language": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "ethiopia",
+    "target": "amharic"
+   },
+   {
+    "source": "guatemala",
+    "target": "spanish"
+   },
+   {
+    "source": "guadeloupe",
+    "target": "french"
+   },
+   {
+    "source": "austria",
+    "target": "german"
+   },
+   {
+    "source": "canada",
+    "target": "english"
+   },
+   {
+    "source": "argentina",
+    "target": "spanish"
+   },
+   {
+    "source": "moldova",
+    "target": "moldovan"
+   },
+   {
+    "source": "nicaragua",
+    "target": "spanish"
+   },
+   {
+    "source": "barbados",
+    "target": "english"
+   },
+   {
+    "source": "mozambique",
+    "target": "portuguese"
+   },
+   {
+    "source": "syria",
+    "target": "arabic"
+   },
+   {
+    "source": "palestine",
+    "target": "arabic"
+   },
+   {
+    "source": "bangladesh",
+    "target": "bengali"
+   },
+   {
+    "source": "taiwan",
+    "target": "chinese"
+   },
+   {
+    "source": "guam",
+    "target": "english"
+   },
+   {
+    "source": "cuba",
+    "target": "spanish"
+   },
+   {
+    "source": "bahamas",
+    "target": "english"
+   },
+   {
+    "source": "morocco",
+    "target": "berber"
+   },
+   {
+    "source": "peru",
+    "target": "spanish"
+   },
+   {
+    "source": "fiji",
+    "target": "english"
+   },
+   {
+    "source": "kuwait",
+    "target": "arabic"
+   },
+   {
+    "source": "andorra",
+    "target": "catalan"
+   },
+   {
+    "source": "ireland",
+    "target": "english"
+   },
+   {
+    "source": "denmark",
+    "target": "danish"
+   },
+   {
+    "source": "cambodia",
+    "target": "khmer"
+   },
+   {
+    "source": "colombia",
+    "target": "spanish"
+   },
+   {
+    "source": "haiti",
+    "target": "creole"
+   },
+   {
+    "source": "kosovo",
+    "target": "albanian"
+   },
+   {
+    "source": "philippines",
+    "target": "tagalog"
+   },
+   {
+    "source": "australia",
+    "target": "english"
+   },
+   {
+    "source": "iraq",
+    "target": "arabic"
+   },
+   {
+    "source": "bolivia",
+    "target": "spanish"
+   },
+   {
+    "source": "chile",
+    "target": "spanish"
+   },
+   {
+    "source": "guyana",
+    "target": "english"
+   },
+   {
+    "source": "switzerland",
+    "target": "german"
+   },
+   {
+    "source": "mexico",
+    "target": "spanish"
+   },
+   {
+    "source": "usa",
+    "target": "english"
+   },
+   {
+    "source": "cyprus",
+    "target": "greek"
+   },
+   {
+    "source": "netherlands",
+    "target": "dutch"
+   },
+   {
+    "source": "jamaica",
+    "target": "english"
+   },
+   {
+    "source": "iran",
+    "target": "persian"
+   },
+   {
+    "source": "ecuador",
+    "target": "spanish"
+   },
+   {
+    "source": "kazakhstan",
+    "target": "kazak"
+   },
+   {
+    "source": "egypt",
+    "target": "arabic"
+   },
+   {
+    "source": "jordan",
+    "target": "arabic"
+   },
+   {
+    "source": "brazil",
+    "target": "portuguese"
+   },
+   {
+    "source": "norway",
+    "target": "norwegian"
+   },
+   {
+    "source": "venezuela",
+    "target": "spanish"
+   },
+   {
+    "source": "israel",
+    "target": "hebrew"
+   },
+   {
+    "source": "belize",
+    "target": "english"
+   }
+  ]
+ },
+ "E03_UK_city_county": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "lincoln",
+    "target": "lincolnshire"
+   },
+   {
+    "source": "sheffield",
+    "target": "yorkshire"
+   },
+   {
+    "source": "leeds",
+    "target": "yorkshire"
+   },
+   {
+    "source": "derby",
+    "target": "derbyshire"
+   },
+   {
+    "source": "exeter",
+    "target": "devon"
+   },
+   {
+    "source": "preston",
+    "target": "lancashire"
+   },
+   {
+    "source": "brighton",
+    "target": "sussex"
+   },
+   {
+    "source": "birmingham",
+    "target": "midlands"
+   },
+   {
+    "source": "bath",
+    "target": "somerset"
+   },
+   {
+    "source": "winchester",
+    "target": "hampshire"
+   },
+   {
+    "source": "hull",
+    "target": "yorkshire"
+   },
+   {
+    "source": "canterbury",
+    "target": "kent"
+   },
+   {
+    "source": "edinburgh",
+    "target": "lowlands"
+   },
+   {
+    "source": "chichester",
+    "target": "sussex"
+   },
+   {
+    "source": "salisbury",
+    "target": "wiltshire"
+   },
+   {
+    "source": "ely",
+    "target": "cambridgeshire"
+   },
+   {
+    "source": "leicester",
+    "target": "midlands"
+   },
+   {
+    "source": "portsmouth",
+    "target": "hampshire"
+   },
+   {
+    "source": "swansea",
+    "target": "glamorgan"
+   },
+   {
+    "source": "coventry",
+    "target": "midlands"
+   },
+   {
+    "source": "glasgow",
+    "target": "lowlands"
+   },
+   {
+    "source": "chester",
+    "target": "cheshire"
+   },
+   {
+    "source": "reading",
+    "target": "berkshire"
+   },
+   {
+    "source": "dundee",
+    "target": "lowlands"
+   },
+   {
+    "source": "salford",
+    "target": "manchester"
+   },
+   {
+    "source": "oxford",
+    "target": "oxfordshire"
+   },
+   {
+    "source": "worcester",
+    "target": "worcestershire"
+   },
+   {
+    "source": "crawley",
+    "target": "sussex"
+   },
+   {
+    "source": "bradford",
+    "target": "yorkshire"
+   },
+   {
+    "source": "inverness",
+    "target": "highlands"
+   },
+   {
+    "source": "aberdeen",
+    "target": "aberdeenshire"
+   },
+   {
+    "source": "newcastle",
+    "target": "northumberland"
+   },
+   {
+    "source": "plymouth",
+    "target": "devon"
+   },
+   {
+    "source": "liverpool",
+    "target": "lancashire"
+   },
+   {
+    "source": "cambridge",
+    "target": "cambridgeshire"
+   },
+   {
+    "source": "hereford",
+    "target": "herefordshire"
+   },
+   {
+    "source": "nottingham",
+    "target": "nottinghamshire"
+   },
+   {
+    "source": "cardiff",
+    "target": "glamorgan"
+   },
+   {
+    "source": "york",
+    "target": "yorkshire"
+   },
+   {
+    "source": "norwich",
+    "target": "norfolk"
+   },
+   {
+    "source": "carlisle",
+    "target": "cumbria"
+   },
+   {
+    "source": "southampton",
+    "target": "hampshire"
+   },
+   {
+    "source": "stirling",
+    "target": "stirlingshire"
+   },
+   {
+    "source": "wakefield",
+    "target": "yorkshire"
+   },
+   {
+    "source": "lancaster",
+    "target": "lancashire"
+   },
+   {
+    "source": "wells",
+    "target": "somerset"
+   },
+   {
+    "source": "newport",
+    "target": "gwent"
+   },
+   {
+    "source": "wolverhampton",
+    "target": "midlands"
+   },
+   {
+    "source": "gloucester",
+    "target": "gloucestershire"
+   },
+   {
+    "source": "belfast",
+    "target": "antrim"
+   }
+  ]
+ },
+ "E04_name_nationality": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "newton",
+    "target": "english"
+   },
+   {
+    "source": "kepler",
+    "target": "german"
+   },
+   {
+    "source": "tchaikovsky",
+    "target": "russian"
+   },
+   {
+    "source": "maxwell",
+    "target": "scottish"
+   },
+   {
+    "source": "raphael",
+    "target": "italian"
+   },
+   {
+    "source": "descartes",
+    "target": "french"
+   },
+   {
+    "source": "stalin",
+    "target": "soviet"
+   },
+   {
+    "source": "edison",
+    "target": "american"
+   },
+   {
+    "source": "mozart",
+    "target": "german"
+   },
+   {
+    "source": "aristotle",
+    "target": "greek"
+   },
+   {
+    "source": "lincoln",
+    "target": "american"
+   },
+   {
+    "source": "euclid",
+    "target": "greek"
+   },
+   {
+    "source": "gorbachev",
+    "target": "soviet"
+   },
+   {
+    "source": "hawking",
+    "target": "english"
+   },
+   {
+    "source": "spinoza",
+    "target": "dutch"
+   },
+   {
+    "source": "fermi",
+    "target": "italian"
+   },
+   {
+    "source": "pascal",
+    "target": "french"
+   },
+   {
+    "source": "confucius",
+    "target": "chinese"
+   },
+   {
+    "source": "locke",
+    "target": "english"
+   },
+   {
+    "source": "marx",
+    "target": "german"
+   },
+   {
+    "source": "depp",
+    "target": "american"
+   },
+   {
+    "source": "michelangelo",
+    "target": "italian"
+   },
+   {
+    "source": "einstein",
+    "target": "jewish"
+   },
+   {
+    "source": "rousseau",
+    "target": "french"
+   },
+   {
+    "source": "tolstoi",
+    "target": "russian"
+   },
+   {
+    "source": "machiavelli",
+    "target": "italian"
+   },
+   {
+    "source": "mencius",
+    "target": "chinese"
+   },
+   {
+    "source": "copernicus",
+    "target": "polish"
+   },
+   {
+    "source": "lavoisier",
+    "target": "french"
+   },
+   {
+    "source": "hume",
+    "target": "scottish"
+   },
+   {
+    "source": "napoleon",
+    "target": "french"
+   },
+   {
+    "source": "leibniz",
+    "target": "german"
+   },
+   {
+    "source": "galilei",
+    "target": "italian"
+   },
+   {
+    "source": "dickens",
+    "target": "english"
+   },
+   {
+    "source": "wagner",
+    "target": "german"
+   },
+   {
+    "source": "kant",
+    "target": "german"
+   },
+   {
+    "source": "jolie",
+    "target": "american"
+   },
+   {
+    "source": "hegel",
+    "target": "german"
+   },
+   {
+    "source": "caesar",
+    "target": "roman"
+   },
+   {
+    "source": "homer",
+    "target": "greek"
+   },
+   {
+    "source": "beethoven",
+    "target": "german"
+   },
+   {
+    "source": "balzac",
+    "target": "french"
+   },
+   {
+    "source": "hitler",
+    "target": "german"
+   },
+   {
+    "source": "dostoyevsky",
+    "target": "russian"
+   },
+   {
+    "source": "lennon",
+    "target": "english"
+   },
+   {
+    "source": "truman",
+    "target": "american"
+   },
+   {
+    "source": "strauss",
+    "target": "austrian"
+   },
+   {
+    "source": "plato",
+    "target": "greek"
+   },
+   {
+    "source": "darwin",
+    "target": "english"
+   },
+   {
+    "source": "lenin",
+    "target": "soviet"
+   }
+  ]
+ },
+ "E05_name_occupation": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "marx",
+    "target": "philosopher"
+   },
+   {
+    "source": "caesar",
+    "target": "emperor"
+   },
+   {
+    "source": "columbus",
+    "target": "explorer"
+   },
+   {
+    "source": "strauss",
+    "target": "composer"
+   },
+   {
+    "source": "haydn",
+    "target": "composer"
+   },
+   {
+    "source": "beethoven",
+    "target": "composer"
+   },
+   {
+    "source": "hume",
+    "target": "philosopher"
+   },
+   {
+    "source": "spinoza",
+    "target": "philosopher"
+   },
+   {
+    "source": "mozart",
+    "target": "composer"
+   },
+   {
+    "source": "balzac",
+    "target": "novelist"
+   },
+   {
+    "source": "einstein",
+    "target": "physicist"
+   },
+   {
+    "source": "euler",
+    "target": "mathematician"
+   },
+   {
+    "source": "mencius",
+    "target": "philosopher"
+   },
+   {
+    "source": "schwarzenegger",
+    "target": "actor"
+   },
+   {
+    "source": "descartes",
+    "target": "mathematician"
+   },
+   {
+    "source": "rembrandt",
+    "target": "painter"
+   },
+   {
+    "source": "raphael",
+    "target": "painter"
+   },
+   {
+    "source": "pascal",
+    "target": "mathematician"
+   },
+   {
+    "source": "dickens",
+    "target": "novelist"
+   },
+   {
+    "source": "dante",
+    "target": "poet"
+   },
+   {
+    "source": "depp",
+    "target": "actor"
+   },
+   {
+    "source": "wittgenstein",
+    "target": "philosopher"
+   },
+   {
+    "source": "shakespeare",
+    "target": "playwright"
+   },
+   {
+    "source": "napoleon",
+    "target": "emperor"
+   },
+   {
+    "source": "kepler",
+    "target": "mathematician"
+   },
+   {
+    "source": "picasso",
+    "target": "painter"
+   },
+   {
+    "source": "jolie",
+    "target": "actress"
+   },
+   {
+    "source": "tolstoi",
+    "target": "novelist"
+   },
+   {
+    "source": "newton",
+    "target": "scientist"
+   },
+   {
+    "source": "andersen",
+    "target": "writer"
+   },
+   {
+    "source": "darwin",
+    "target": "naturalist"
+   },
+   {
+    "source": "locke",
+    "target": "philosopher"
+   },
+   {
+    "source": "aristotle",
+    "target": "philosopher"
+   },
+   {
+    "source": "pacino",
+    "target": "actor"
+   },
+   {
+    "source": "hegel",
+    "target": "philosopher"
+   },
+   {
+    "source": "kant",
+    "target": "philosopher"
+   },
+   {
+    "source": "truman",
+    "target": "president"
+   },
+   {
+    "source": "goethe",
+    "target": "poet"
+   },
+   {
+    "source": "confucius",
+    "target": "philosopher"
+   },
+   {
+    "source": "moses",
+    "target": "prophet"
+   },
+   {
+    "source": "lincoln",
+    "target": "president"
+   },
+   {
+    "source": "edison",
+    "target": "inventor"
+   },
+   {
+    "source": "wagner",
+    "target": "composer"
+   },
+   {
+    "source": "michelangelo",
+    "target": "sculptor"
+   },
+   {
+    "source": "hawking",
+    "target": "physicist"
+   },
+   {
+    "source": "stalin",
+    "target": "dictator"
+   },
+   {
+    "source": "maxwell",
+    "target": "physicist"
+   },
+   {
+    "source": "rousseau",
+    "target": "writer"
+   },
+   {
+    "source": "hitler",
+    "target": "dictator"
+   },
+   {
+    "source": "plato",
+    "target": "philosopher"
+   }
+  ]
+ },
+ "E06_animal_young": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "ferret",
+    "target": "kit"
+   },
+   {
+    "source": "cat",
+    "target": "kitten"
+   },
+   {
+    "source": "rabbit",
+    "target": "bunny"
+   },
+   {
+    "source": "deer",
+    "target": "fawn"
+   },
+   {
+    "source": "badger",
+    "target": "kit"
+   },
+   {
+    "source": "cricket",
+    "target": "larva"
+   },
+   {
+    "source": "horse",
+    "target": "foal"
+   },
+   {
+    "source": "cockroach",
+    "target": "nymph"
+   },
+   {
+    "source": "buffalo",
+    "target": "calf"
+   },
+   {
+    "source": "insect",
+    "target": "larva"
+   },
+   {
+    "source": "skunk",
+    "target": "kit"
+   },
+   {
+    "source": "whale",
+    "target": "calf"
+   },
+   {
+    "source": "raccoon",
+    "target": "kit"
+   },
+   {
+    "source": "woodchuck",
+    "target": "kit"
+   },
+   {
+    "source": "weasel",
+    "target": "kit"
+   },
+   {
+    "source": "beaver",
+    "target": "kit"
+   },
+   {
+    "source": "snake",
+    "target": "hatchling"
+   },
+   {
+    "source": "ape",
+    "target": "baby"
+   },
+   {
+    "source": "fox",
+    "target": "cub"
+   },
+   {
+    "source": "monkey",
+    "target": "infant"
+   },
+   {
+    "source": "trout",
+    "target": "fingerling"
+   },
+   {
+    "source": "salmon",
+    "target": "smolt"
+   },
+   {
+    "source": "tiger",
+    "target": "cub"
+   },
+   {
+    "source": "gorilla",
+    "target": "infant"
+   },
+   {
+    "source": "sheep",
+    "target": "lamb"
+   },
+   {
+    "source": "shark",
+    "target": "cub"
+   },
+   {
+    "source": "seal",
+    "target": "pup"
+   },
+   {
+    "source": "goldfish",
+    "target": "fingerling"
+   },
+   {
+    "source": "bee",
+    "target": "larva"
+   },
+   {
+    "source": "bear",
+    "target": "cub"
+   },
+   {
+    "source": "pig",
+    "target": "piglet"
+   },
+   {
+    "source": "lion",
+    "target": "cub"
+   },
+   {
+    "source": "butterfly",
+    "target": "larva"
+   },
+   {
+    "source": "fly",
+    "target": "grub"
+   },
+   {
+    "source": "wolf",
+    "target": "cub"
+   },
+   {
+    "source": "mink",
+    "target": "kit"
+   },
+   {
+    "source": "dog",
+    "target": "puppy"
+   },
+   {
+    "source": "cattle",
+    "target": "calf"
+   },
+   {
+    "source": "duck",
+    "target": "duckling"
+   },
+   {
+    "source": "muskrat",
+    "target": "kit"
+   },
+   {
+    "source": "ox",
+    "target": "calf"
+   },
+   {
+    "source": "goat",
+    "target": "kid"
+   },
+   {
+    "source": "panda",
+    "target": "cub"
+   },
+   {
+    "source": "camel",
+    "target": "calf"
+   },
+   {
+    "source": "cicada",
+    "target": "nymph"
+   },
+   {
+    "source": "chimpanzee",
+    "target": "baby"
+   },
+   {
+    "source": "herring",
+    "target": "fingerling"
+   },
+   {
+    "source": "fish",
+    "target": "fingerling"
+   },
+   {
+    "source": "elephant",
+    "target": "calf"
+   },
+   {
+    "source": "beetle",
+    "target": "larva"
+   }
+  ]
+ },
+ "E07_animal_sound": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "coyote",
+    "target": "howl"
+   },
+   {
+    "source": "cricket",
+    "target": "chirp"
+   },
+   {
+    "source": "alpaca",
+    "target": "bray"
+   },
+   {
+    "source": "moose",
+    "target": "bellow"
+   },
+   {
+    "source": "hyena",
+    "target": "laugh"
+   },
+   {
+    "source": "pigeon",
+    "target": "coo"
+   },
+   {
+    "source": "elephant",
+    "target": "trumpet"
+   },
+   {
+    "source": "horse",
+    "target": "neigh"
+   },
+   {
+    "source": "hornet",
+    "target": "buzz"
+   },
+   {
+    "source": "magpie",
+    "target": "chatter"
+   },
+   {
+    "source": "tiger",
+    "target": "growl"
+   },
+   {
+    "source": "mouse",
+    "target": "squeak"
+   },
+   {
+    "source": "pig",
+    "target": "oink"
+   },
+   {
+    "source": "cattle",
+    "target": "moo"
+   },
+   {
+    "source": "leopard",
+    "target": "growl"
+   },
+   {
+    "source": "bear",
+    "target": "growl"
+   },
+   {
+    "source": "mule",
+    "target": "bray"
+   },
+   {
+    "source": "fox",
+    "target": "howl"
+   },
+   {
+    "source": "monkey",
+    "target": "chatter"
+   },
+   {
+    "source": "beetle",
+    "target": "drone"
+   },
+   {
+    "source": "snake",
+    "target": "hiss"
+   },
+   {
+    "source": "turkey",
+    "target": "gobble"
+   },
+   {
+    "source": "ferret",
+    "target": "dook"
+   },
+   {
+    "source": "dog",
+    "target": "bark"
+   },
+   {
+    "source": "elk",
+    "target": "bellow"
+   },
+   {
+    "source": "goat",
+    "target": "bleat"
+   },
+   {
+    "source": "gorilla",
+    "target": "grunt"
+   },
+   {
+    "source": "frog",
+    "target": "ribbit"
+   },
+   {
+    "source": "crow",
+    "target": "caw"
+   },
+   {
+    "source": "whale",
+    "target": "sing"
+   },
+   {
+    "source": "deer",
+    "target": "bellow"
+   },
+   {
+    "source": "wolf",
+    "target": "howl"
+   },
+   {
+    "source": "duck",
+    "target": "quack"
+   },
+   {
+    "source": "chicken",
+    "target": "cluck"
+   },
+   {
+    "source": "toad",
+    "target": "ribbit"
+   },
+   {
+    "source": "mallard",
+    "target": "quack"
+   },
+   {
+    "source": "songbird",
+    "target": "chirrup"
+   },
+   {
+    "source": "rat",
+    "target": "squeak"
+   },
+   {
+    "source": "bee",
+    "target": "buzz"
+   },
+   {
+    "source": "cicada",
+    "target": "buzz"
+   },
+   {
+    "source": "chimpanzee",
+    "target": "scream"
+   },
+   {
+    "source": "hound",
+    "target": "bark"
+   },
+   {
+    "source": "wasp",
+    "target": "buzz"
+   },
+   {
+    "source": "fly",
+    "target": "buzz"
+   },
+   {
+    "source": "lion",
+    "target": "roar"
+   },
+   {
+    "source": "seal",
+    "target": "bark"
+   },
+   {
+    "source": "cat",
+    "target": "meow"
+   },
+   {
+    "source": "sheep",
+    "target": "baa"
+   },
+   {
+    "source": "donkey",
+    "target": "bray"
+   },
+   {
+    "source": "raven",
+    "target": "caw"
+   }
+  ]
+ },
+ "E08_animal_shelter": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "goldfish",
+    "target": "pond"
+   },
+   {
+    "source": "wasp",
+    "target": "nest"
+   },
+   {
+    "source": "bee",
+    "target": "hive"
+   },
+   {
+    "source": "cricket",
+    "target": "nest"
+   },
+   {
+    "source": "scorpion",
+    "target": "nest"
+   },
+   {
+    "source": "fly",
+    "target": "nest"
+   },
+   {
+    "source": "insect",
+    "target": "nest"
+   },
+   {
+    "source": "dog",
+    "target": "doghouse"
+   },
+   {
+    "source": "mallard",
+    "target": "nest"
+   },
+   {
+    "source": "wolf",
+    "target": "den"
+   },
+   {
+    "source": "chinchilla",
+    "target": "nest"
+   },
+   {
+    "source": "duck",
+    "target": "pond"
+   },
+   {
+    "source": "locust",
+    "target": "nest"
+   },
+   {
+    "source": "rabbit",
+    "target": "burrow"
+   },
+   {
+    "source": "baboon",
+    "target": "grove"
+   },
+   {
+    "source": "hedgehog",
+    "target": "nest"
+   },
+   {
+    "source": "tiger",
+    "target": "den"
+   },
+   {
+    "source": "trout",
+    "target": "river"
+   },
+   {
+    "source": "hamster",
+    "target": "nest"
+   },
+   {
+    "source": "woodchuck",
+    "target": "hole"
+   },
+   {
+    "source": "rat",
+    "target": "nest"
+   },
+   {
+    "source": "hippopotamus",
+    "target": "river"
+   },
+   {
+    "source": "pig",
+    "target": "sty"
+   },
+   {
+    "source": "ant",
+    "target": "anthill"
+   },
+   {
+    "source": "fox",
+    "target": "den"
+   },
+   {
+    "source": "monkey",
+    "target": "tree"
+   },
+   {
+    "source": "herring",
+    "target": "sea"
+   },
+   {
+    "source": "cockroach",
+    "target": "nest"
+   },
+   {
+    "source": "whale",
+    "target": "sea"
+   },
+   {
+    "source": "horse",
+    "target": "stable"
+   },
+   {
+    "source": "hornet",
+    "target": "nest"
+   },
+   {
+    "source": "mole",
+    "target": "hole"
+   },
+   {
+    "source": "mouse",
+    "target": "nest"
+   },
+   {
+    "source": "bear",
+    "target": "den"
+   },
+   {
+    "source": "termite",
+    "target": "hill"
+   },
+   {
+    "source": "chimpanzee",
+    "target": "grove"
+   },
+   {
+    "source": "dolphin",
+    "target": "sea"
+   },
+   {
+    "source": "gorilla",
+    "target": "grove"
+   },
+   {
+    "source": "bat",
+    "target": "cave"
+   },
+   {
+    "source": "ape",
+    "target": "grove"
+   },
+   {
+    "source": "raven",
+    "target": "nest"
+   },
+   {
+    "source": "seal",
+    "target": "den"
+   },
+   {
+    "source": "snake",
+    "target": "nest"
+   },
+   {
+    "source": "crow",
+    "target": "nest"
+   },
+   {
+    "source": "spider",
+    "target": "web"
+   },
+   {
+    "source": "beaver",
+    "target": "dam"
+   },
+   {
+    "source": "lion",
+    "target": "den"
+   },
+   {
+    "source": "cattle",
+    "target": "barn"
+   },
+   {
+    "source": "crocodile",
+    "target": "river"
+   },
+   {
+    "source": "fish",
+    "target": "sea"
+   }
+  ]
+ },
+ "E09_things_color": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "paper",
+    "target": "white"
+   },
+   {
+    "source": "ruby",
+    "target": "red"
+   },
+   {
+    "source": "soil",
+    "target": "black"
+   },
+   {
+    "source": "cherry",
+    "target": "red"
+   },
+   {
+    "source": "ant",
+    "target": "black"
+   },
+   {
+    "source": "broccoli",
+    "target": "green"
+   },
+   {
+    "source": "cranberry",
+    "target": "red"
+   },
+   {
+    "source": "rose",
+    "target": "red"
+   },
+   {
+    "source": "spinach",
+    "target": "green"
+   },
+   {
+    "source": "potato",
+    "target": "brown"
+   },
+   {
+    "source": "snow",
+    "target": "white"
+   },
+   {
+    "source": "cabbage",
+    "target": "green"
+   },
+   {
+    "source": "crow",
+    "target": "black"
+   },
+   {
+    "source": "cream",
+    "target": "white"
+   },
+   {
+    "source": "cauliflower",
+    "target": "white"
+   },
+   {
+    "source": "chocolate",
+    "target": "white"
+   },
+   {
+    "source": "milk",
+    "target": "white"
+   },
+   {
+    "source": "carrot",
+    "target": "orange"
+   },
+   {
+    "source": "emerald",
+    "target": "green"
+   },
+   {
+    "source": "swan",
+    "target": "white"
+   },
+   {
+    "source": "toothpaste",
+    "target": "white"
+   },
+   {
+    "source": "salt",
+    "target": "white"
+   },
+   {
+    "source": "celery",
+    "target": "green"
+   },
+   {
+    "source": "grass",
+    "target": "green"
+   },
+   {
+    "source": "sea",
+    "target": "blue"
+   },
+   {
+    "source": "sky",
+    "target": "blue"
+   },
+   {
+    "source": "frog",
+    "target": "green"
+   },
+   {
+    "source": "coffee",
+    "target": "black"
+   },
+   {
+    "source": "sugar",
+    "target": "white"
+   },
+   {
+    "source": "fridge",
+    "target": "white"
+   },
+   {
+    "source": "cloud",
+    "target": "white"
+   },
+   {
+    "source": "leaves",
+    "target": "green"
+   },
+   {
+    "source": "yoghurt",
+    "target": "white"
+   },
+   {
+    "source": "blood",
+    "target": "red"
+   },
+   {
+    "source": "apple",
+    "target": "red"
+   },
+   {
+    "source": "peony",
+    "target": "red"
+   },
+   {
+    "source": "cucumber",
+    "target": "green"
+   },
+   {
+    "source": "raven",
+    "target": "black"
+   },
+   {
+    "source": "blackboard",
+    "target": "black"
+   },
+   {
+    "source": "coal",
+    "target": "black"
+   },
+   {
+    "source": "sun",
+    "target": "yellow"
+   },
+   {
+    "source": "tea",
+    "target": "black"
+   },
+   {
+    "source": "bruise",
+    "target": "blue"
+   },
+   {
+    "source": "sapphire",
+    "target": "blue"
+   },
+   {
+    "source": "radish",
+    "target": "red"
+   },
+   {
+    "source": "grapes",
+    "target": "black"
+   },
+   {
+    "source": "parsley",
+    "target": "green"
+   },
+   {
+    "source": "pepper",
+    "target": "black"
+   },
+   {
+    "source": "blueberry",
+    "target": "blue"
+   },
+   {
+    "source": "tomato",
+    "target": "red"
+   }
+  ]
+ },
+ "E10_male_female": {
+  "category": "encyclopedic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "emperor",
+    "target": "empress"
+   },
+   {
+    "source": "headmaster",
+    "target": "headmistress"
+   },
+   {
+    "source": "boar",
+    "target": "sow"
+   },
+   {
+    "source": "chairman",
+    "target": "chairwoman"
+   },
+   {
+    "source": "businessman",
+    "target": "businesswoman"
+   },
+   {
+    "source": "stepfather",
+    "target": "stepmother"
+   },
+   {
+    "source": "grandpa",
+    "target": "grandma"
+   },
+   {
+    "source": "lion",
+    "target": "lioness"
+   },
+   {
+    "source": "murderer",
+    "target": "murderess"
+   },
+   {
+    "source": "webmaster",
+    "target": "webmistress"
+   },
+   {
+    "source": "ram",
+    "target": "ewe"
+   },
+   {
+    "source": "superman",
+    "target": "superwoman"
+   },
+   {
+    "source": "actor",
+    "target": "actress"
+   },
+   {
+    "source": "sculptor",
+    "target": "sculptress"
+   },
+   {
+    "source": "fox",
+    "target": "vixen"
+   },
+   {
+    "source": "sir",
+    "target": "madam"
+   },
+   {
+    "source": "mister",
+    "target": "miss"
+   },
+   {
+    "source": "father",
+    "target": "mother"
+   },
+   {
+    "source": "prince",
+    "target": "princess"
+   },
+   {
+    "source": "daddy",
+    "target": "mommy"
+   },
+   {
+    "source": "valet",
+    "target": "maid"
+   },
+   {
+    "source": "hero",
+    "target": "heroine"
+   },
+   {
+    "source": "grandfather",
+    "target": "grandmother"
+   },
+   {
+    "source": "batman",
+    "target": "batwoman"
+   },
+   {
+    "source": "god",
+    "target": "goddess"
+   },
+   {
+    "source": "policeman",
+    "target": "policewoman"
+   },
+   {
+    "source": "tiger",
+    "target": "tigress"
+   },
+   {
+    "source": "duke",
+    "target": "duchess"
+   },
+   {
+    "source": "uncle",
+    "target": "aunt"
+   },
+   {
+    "source": "rooster",
+    "target": "hen"
+   },
+   {
+    "source": "boy",
+    "target": "girl"
+   },
+   {
+    "source": "son",
+    "target": "daughter"
+   },
+   {
+    "source": "nephew",
+    "target": "niece"
+   },
+   {
+    "source": "poet",
+    "target": "poetess"
+   },
+   {
+    "source": "buck",
+    "target": "doe"
+   },
+   {
+    "source": "brother",
+    "target": "sister"
+   },
+   {
+    "source": "manager",
+    "target": "manageress"
+   },
+   {
+    "source": "dad",
+    "target": "mom"
+   },
+   {
+    "source": "heir",
+    "target": "heiress"
+   },
+   {
+    "source": "gentleman",
+    "target": "lady"
+   },
+   {
+    "source": "stallion",
+    "target": "mare"
+   },
+   {
+    "source": "king",
+    "target": "queen"
+   },
+   {
+    "source": "grandson",
+    "target": "granddaughter"
+   },
+   {
+    "source": "bull",
+    "target": "cow"
+   },
+   {
+    "source": "waiter",
+    "target": "waitress"
+   },
+   {
+    "source": "hound",
+    "target": "bitch"
+   },
+   {
+    "source": "man",
+    "target": "woman"
+   },
+   {
+    "source": "groom",
+    "target": "bride"
+   },
+   {
+    "source": "husband",
+    "target": "wife"
+   },
+   {
+    "source": "fisherman",
+    "target": "fisherwoman"
+   }
+  ]
+ },
+ "L01_hypernyms_animals": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "chicken",
+    "target": "fowl"
+   },
+   {
+    "source": "beaver",
+    "target": "rodent"
+   },
+   {
+    "source": "leopard",
+    "target": "feline"
+   },
+   {
+    "source": "stegosaurus",
+    "target": "dinosaur"
+   },
+   {
+    "source": "cat",
+    "target": "feline"
+   },
+   {
+    "source": "cockroach",
+    "target": "insect"
+   },
+   {
+    "source": "mamba",
+    "target": "snake"
+   },
+   {
+    "source": "quail",
+    "target": "fowl"
+   },
+   {
+    "source": "chimpanzee",
+    "target": "primate"
+   },
+   {
+    "source": "goose",
+    "target": "fowl"
+   },
+   {
+    "source": "coyote",
+    "target": "canine"
+   },
+   {
+    "source": "gorilla",
+    "target": "primate"
+   },
+   {
+    "source": "jackal",
+    "target": "canine"
+   },
+   {
+    "source": "turkey",
+    "target": "fowl"
+   },
+   {
+    "source": "mouse",
+    "target": "rodent"
+   },
+   {
+    "source": "tyrannosaurus",
+    "target": "dinosaur"
+   },
+   {
+    "source": "vulture",
+    "target": "raptor"
+   },
+   {
+    "source": "deer",
+    "target": "bovid"
+   },
+   {
+    "source": "viper",
+    "target": "snake"
+   },
+   {
+    "source": "jaguar",
+    "target": "feline"
+   },
+   {
+    "source": "falcon",
+    "target": "raptor"
+   },
+   {
+    "source": "hawk",
+    "target": "raptor"
+   },
+   {
+    "source": "ant",
+    "target": "insect"
+   },
+   {
+    "source": "cobra",
+    "target": "snake"
+   },
+   {
+    "source": "lion",
+    "target": "feline"
+   },
+   {
+    "source": "duck",
+    "target": "fowl"
+   },
+   {
+    "source": "bee",
+    "target": "insect"
+   },
+   {
+    "source": "squirrel",
+    "target": "rodent"
+   },
+   {
+    "source": "beetle",
+    "target": "insect"
+   },
+   {
+    "source": "allosaurus",
+    "target": "dinosaur"
+   },
+   {
+    "source": "orangutan",
+    "target": "primate"
+   },
+   {
+    "source": "fox",
+    "target": "canine"
+   },
+   {
+    "source": "eagle",
+    "target": "raptor"
+   },
+   {
+    "source": "tiger",
+    "target": "feline"
+   },
+   {
+    "source": "chinchilla",
+    "target": "rodent"
+   },
+   {
+    "source": "porcupine",
+    "target": "rodent"
+   },
+   {
+    "source": "triceratops",
+    "target": "dinosaur"
+   },
+   {
+    "source": "anaconda",
+    "target": "snake"
+   },
+   {
+    "source": "rattlesnake",
+    "target": "snake"
+   },
+   {
+    "source": "velociraptor",
+    "target": "dinosaur"
+   },
+   {
+    "source": "human",
+    "target": "primate"
+   },
+   {
+    "source": "wolf",
+    "target": "canine"
+   },
+   {
+    "source": "pony",
+    "target": "bovid"
+   },
+   {
+    "source": "dog",
+    "target": "canine"
+   },
+   {
+    "source": "butterfly",
+    "target": "insect"
+   },
+   {
+    "source": "goat",
+    "target": "bovid"
+   },
+   {
+    "source": "owl",
+    "target": "raptor"
+   },
+   {
+    "source": "gibbon",
+    "target": "primate"
+   },
+   {
+    "source": "buffalo",
+    "target": "bovid"
+   },
+   {
+    "source": "cow",
+    "target": "bovid"
+   }
+  ]
+ },
+ "L02_hypernyms_misc": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "grapefruit",
+    "target": "citrus"
+   },
+   {
+    "source": "shelf",
+    "target": "furniture"
+   },
+   {
+    "source": "shirt",
+    "target": "clothes"
+   },
+   {
+    "source": "peach",
+    "target": "fruit"
+   },
+   {
+    "source": "pastry",
+    "target": "food"
+   },
+   {
+    "source": "sweater",
+    "target": "clothes"
+   },
+   {
+    "source": "stapler",
+    "target": "device"
+   },
+   {
+    "source": "computer",
+    "target": "device"
+   },
+   {
+    "source": "jacket",
+    "target": "clothes"
+   },
+   {
+    "source": "diary",
+    "target": "journal"
+   },
+   {
+    "source": "plum",
+    "target": "fruit"
+   },
+   {
+    "source": "jeans",
+    "target": "trousers"
+   },
+   {
+    "source": "lemon",
+    "target": "citrus"
+   },
+   {
+    "source": "fridge",
+    "target": "appliance"
+   },
+   {
+    "source": "pie",
+    "target": "pastry"
+   },
+   {
+    "source": "sofa",
+    "target": "furniture"
+   },
+   {
+    "source": "gasoline",
+    "target": "fuel"
+   },
+   {
+    "source": "tv",
+    "target": "device"
+   },
+   {
+    "source": "brooch",
+    "target": "jewelry"
+   },
+   {
+    "source": "desk",
+    "target": "furniture"
+   },
+   {
+    "source": "lotion",
+    "target": "toiletry"
+   },
+   {
+    "source": "denim",
+    "target": "fabric"
+   },
+   {
+    "source": "cake",
+    "target": "dessert"
+   },
+   {
+    "source": "mascara",
+    "target": "makeup"
+   },
+   {
+    "source": "deodorant",
+    "target": "toiletry"
+   },
+   {
+    "source": "croissant",
+    "target": "pastry"
+   },
+   {
+    "source": "armchair",
+    "target": "chair"
+   },
+   {
+    "source": "blender",
+    "target": "appliance"
+   },
+   {
+    "source": "skirt",
+    "target": "clothes"
+   },
+   {
+    "source": "dishwasher",
+    "target": "appliance"
+   },
+   {
+    "source": "postcard",
+    "target": "card"
+   },
+   {
+    "source": "bracelet",
+    "target": "jewelry"
+   },
+   {
+    "source": "hamburger",
+    "target": "sandwich"
+   },
+   {
+    "source": "toothbrush",
+    "target": "brush"
+   },
+   {
+    "source": "hairpin",
+    "target": "pin"
+   },
+   {
+    "source": "toaster",
+    "target": "appliance"
+   },
+   {
+    "source": "tub",
+    "target": "container"
+   },
+   {
+    "source": "juicer",
+    "target": "utensil"
+   },
+   {
+    "source": "cup",
+    "target": "tableware"
+   },
+   {
+    "source": "photo",
+    "target": "picture"
+   },
+   {
+    "source": "dress",
+    "target": "clothes"
+   },
+   {
+    "source": "wristband",
+    "target": "band"
+   },
+   {
+    "source": "necklace",
+    "target": "jewelry"
+   },
+   {
+    "source": "vase",
+    "target": "jar"
+   },
+   {
+    "source": "sidewalk",
+    "target": "walk"
+   },
+   {
+    "source": "perfume",
+    "target": "toiletry"
+   },
+   {
+    "source": "notebook",
+    "target": "book"
+   },
+   {
+    "source": "sunscreen",
+    "target": "cream"
+   },
+   {
+    "source": "notepad",
+    "target": "pad"
+   },
+   {
+    "source": "hairnet",
+    "target": "net"
+   }
+  ]
+ },
+ "L03_hyponyms_misc": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "candy",
+    "target": "lollipop"
+   },
+   {
+    "source": "backpack",
+    "target": "daypack"
+   },
+   {
+    "source": "citrus",
+    "target": "lemon"
+   },
+   {
+    "source": "weekday",
+    "target": "monday"
+   },
+   {
+    "source": "computer",
+    "target": "laptop"
+   },
+   {
+    "source": "poem",
+    "target": "haiku"
+   },
+   {
+    "source": "dessert",
+    "target": "cake"
+   },
+   {
+    "source": "shelf",
+    "target": "bookshelf"
+   },
+   {
+    "source": "cookware",
+    "target": "pot"
+   },
+   {
+    "source": "jewel",
+    "target": "diamond"
+   },
+   {
+    "source": "seat",
+    "target": "chair"
+   },
+   {
+    "source": "railway",
+    "target": "monorail"
+   },
+   {
+    "source": "cushion",
+    "target": "pincushion"
+   },
+   {
+    "source": "emotion",
+    "target": "anger"
+   },
+   {
+    "source": "color",
+    "target": "white"
+   },
+   {
+    "source": "month",
+    "target": "january"
+   },
+   {
+    "source": "boat",
+    "target": "ferry"
+   },
+   {
+    "source": "song",
+    "target": "lullaby"
+   },
+   {
+    "source": "shirt",
+    "target": "polo"
+   },
+   {
+    "source": "painting",
+    "target": "watercolor"
+   },
+   {
+    "source": "dress",
+    "target": "gown"
+   },
+   {
+    "source": "mixer",
+    "target": "blender"
+   },
+   {
+    "source": "tool",
+    "target": "rake"
+   },
+   {
+    "source": "car",
+    "target": "limousine"
+   },
+   {
+    "source": "oven",
+    "target": "broiler"
+   },
+   {
+    "source": "bed",
+    "target": "bunk"
+   },
+   {
+    "source": "container",
+    "target": "bag"
+   },
+   {
+    "source": "cloud",
+    "target": "thundercloud"
+   },
+   {
+    "source": "sofa",
+    "target": "divan"
+   },
+   {
+    "source": "collar",
+    "target": "choker"
+   },
+   {
+    "source": "spice",
+    "target": "pepper"
+   },
+   {
+    "source": "burger",
+    "target": "hamburger"
+   },
+   {
+    "source": "toy",
+    "target": "doll"
+   },
+   {
+    "source": "brush",
+    "target": "toothbrush"
+   },
+   {
+    "source": "drum",
+    "target": "tambourine"
+   },
+   {
+    "source": "jewelry",
+    "target": "bracelet"
+   },
+   {
+    "source": "church",
+    "target": "chapel"
+   },
+   {
+    "source": "weapon",
+    "target": "gun"
+   },
+   {
+    "source": "bag",
+    "target": "pouch"
+   },
+   {
+    "source": "sweater",
+    "target": "turtleneck"
+   },
+   {
+    "source": "camera",
+    "target": "camcorder"
+   },
+   {
+    "source": "cup",
+    "target": "teacup"
+   },
+   {
+    "source": "guitar",
+    "target": "ukulele"
+   },
+   {
+    "source": "shoes",
+    "target": "sneakers"
+   },
+   {
+    "source": "flask",
+    "target": "thermos"
+   },
+   {
+    "source": "trousers",
+    "target": "jeans"
+   },
+   {
+    "source": "gun",
+    "target": "rifle"
+   },
+   {
+    "source": "season",
+    "target": "spring"
+   },
+   {
+    "source": "cutlery",
+    "target": "knife"
+   },
+   {
+    "source": "book",
+    "target": "paperback"
+   }
+  ]
+ },
+ "L04_meronyms_substance": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "chocolate",
+    "target": "cocoa"
+   },
+   {
+    "source": "boots",
+    "target": "leather"
+   },
+   {
+    "source": "glass",
+    "target": "silicone"
+   },
+   {
+    "source": "beard",
+    "target": "hair"
+   },
+   {
+    "source": "atmosphere",
+    "target": "gas"
+   },
+   {
+    "source": "clothing",
+    "target": "fabric"
+   },
+   {
+    "source": "omelette",
+    "target": "eggs"
+   },
+   {
+    "source": "bowl",
+    "target": "glass"
+   },
+   {
+    "source": "bottle",
+    "target": "glass"
+   },
+   {
+    "source": "jeans",
+    "target": "fabric"
+   },
+   {
+    "source": "house",
+    "target": "bricks"
+   },
+   {
+    "source": "cocktail",
+    "target": "alcohol"
+   },
+   {
+    "source": "doorknob",
+    "target": "metal"
+   },
+   {
+    "source": "bronze",
+    "target": "copper"
+   },
+   {
+    "source": "desk",
+    "target": "wood"
+   },
+   {
+    "source": "glacier",
+    "target": "ice"
+   },
+   {
+    "source": "ice",
+    "target": "water"
+   },
+   {
+    "source": "jam",
+    "target": "fruit"
+   },
+   {
+    "source": "table",
+    "target": "wood"
+   },
+   {
+    "source": "ocean",
+    "target": "water"
+   },
+   {
+    "source": "cloud",
+    "target": "vapor"
+   },
+   {
+    "source": "steel",
+    "target": "iron"
+   },
+   {
+    "source": "beach",
+    "target": "sand"
+   },
+   {
+    "source": "concrete",
+    "target": "silicon"
+   },
+   {
+    "source": "water",
+    "target": "oxygen"
+   },
+   {
+    "source": "bag",
+    "target": "leather"
+   },
+   {
+    "source": "diamond",
+    "target": "carbon"
+   },
+   {
+    "source": "box",
+    "target": "cardboard"
+   },
+   {
+    "source": "icicle",
+    "target": "ice"
+   },
+   {
+    "source": "penny",
+    "target": "metal"
+   },
+   {
+    "source": "roof",
+    "target": "shingles"
+   },
+   {
+    "source": "pastry",
+    "target": "flour"
+   },
+   {
+    "source": "mirror",
+    "target": "glass"
+   },
+   {
+    "source": "wig",
+    "target": "hair"
+   },
+   {
+    "source": "sea",
+    "target": "water"
+   },
+   {
+    "source": "bread",
+    "target": "flour"
+   },
+   {
+    "source": "wall",
+    "target": "cement"
+   },
+   {
+    "source": "flag",
+    "target": "fabric"
+   },
+   {
+    "source": "wine",
+    "target": "grapes"
+   },
+   {
+    "source": "lawn",
+    "target": "grass"
+   },
+   {
+    "source": "plastic",
+    "target": "polymer"
+   },
+   {
+    "source": "pill",
+    "target": "medicine"
+   },
+   {
+    "source": "lens",
+    "target": "glass"
+   },
+   {
+    "source": "money",
+    "target": "paper"
+   },
+   {
+    "source": "snow",
+    "target": "water"
+   },
+   {
+    "source": "candy",
+    "target": "sugar"
+   },
+   {
+    "source": "body",
+    "target": "flesh"
+   },
+   {
+    "source": "spoon",
+    "target": "aluminium"
+   },
+   {
+    "source": "yogurt",
+    "target": "milk"
+   },
+   {
+    "source": "wire",
+    "target": "metal"
+   }
+  ]
+ },
+ "L05_meronyms_member": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "acrobat",
+    "target": "troupe"
+   },
+   {
+    "source": "elephant",
+    "target": "herd"
+   },
+   {
+    "source": "song",
+    "target": "album"
+   },
+   {
+    "source": "secretary",
+    "target": "staff"
+   },
+   {
+    "source": "cat",
+    "target": "clowder"
+   },
+   {
+    "source": "cattle",
+    "target": "herd"
+   },
+   {
+    "source": "listener",
+    "target": "audience"
+   },
+   {
+    "source": "parishioner",
+    "target": "parish"
+   },
+   {
+    "source": "singer",
+    "target": "choir"
+   },
+   {
+    "source": "fish",
+    "target": "school"
+   },
+   {
+    "source": "player",
+    "target": "team"
+   },
+   {
+    "source": "employee",
+    "target": "staff"
+   },
+   {
+    "source": "tree",
+    "target": "forest"
+   },
+   {
+    "source": "crow",
+    "target": "murder"
+   },
+   {
+    "source": "book",
+    "target": "library"
+   },
+   {
+    "source": "member",
+    "target": "club"
+   },
+   {
+    "source": "star",
+    "target": "constellation"
+   },
+   {
+    "source": "juror",
+    "target": "jury"
+   },
+   {
+    "source": "senator",
+    "target": "senate"
+   },
+   {
+    "source": "lion",
+    "target": "pride"
+   },
+   {
+    "source": "word",
+    "target": "paragraph"
+   },
+   {
+    "source": "antelope",
+    "target": "herd"
+   },
+   {
+    "source": "flower",
+    "target": "bouquet"
+   },
+   {
+    "source": "soldier",
+    "target": "army"
+   },
+   {
+    "source": "shrub",
+    "target": "shrubbery"
+   },
+   {
+    "source": "letter",
+    "target": "alphabet"
+   },
+   {
+    "source": "cow",
+    "target": "herd"
+   },
+   {
+    "source": "county",
+    "target": "state"
+   },
+   {
+    "source": "state",
+    "target": "country"
+   },
+   {
+    "source": "nomad",
+    "target": "horde"
+   },
+   {
+    "source": "wolf",
+    "target": "pack"
+   },
+   {
+    "source": "kitten",
+    "target": "litter"
+   },
+   {
+    "source": "citizen",
+    "target": "citizenry"
+   },
+   {
+    "source": "photo",
+    "target": "album"
+   },
+   {
+    "source": "policeman",
+    "target": "police"
+   },
+   {
+    "source": "spouse",
+    "target": "couple"
+   },
+   {
+    "source": "division",
+    "target": "company"
+   },
+   {
+    "source": "bee",
+    "target": "swarm"
+   },
+   {
+    "source": "college",
+    "target": "university"
+   },
+   {
+    "source": "student",
+    "target": "class"
+   },
+   {
+    "source": "calf",
+    "target": "cattle"
+   },
+   {
+    "source": "goose",
+    "target": "gaggle"
+   },
+   {
+    "source": "car",
+    "target": "train"
+   },
+   {
+    "source": "musician",
+    "target": "orchestra"
+   },
+   {
+    "source": "bird",
+    "target": "flock"
+   },
+   {
+    "source": "christian",
+    "target": "congregation"
+   },
+   {
+    "source": "person",
+    "target": "society"
+   },
+   {
+    "source": "page",
+    "target": "book"
+   },
+   {
+    "source": "sheep",
+    "target": "flock"
+   },
+   {
+    "source": "galaxy",
+    "target": "universe"
+   }
+  ]
+ },
+ "L06_meronyms_part": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "academia",
+    "target": "college"
+   },
+   {
+    "source": "shilling",
+    "target": "pence"
+   },
+   {
+    "source": "shirt",
+    "target": "button"
+   },
+   {
+    "source": "deer",
+    "target": "antler"
+   },
+   {
+    "source": "gun",
+    "target": "trigger"
+   },
+   {
+    "source": "sword",
+    "target": "blade"
+   },
+   {
+    "source": "litre",
+    "target": "millilitre"
+   },
+   {
+    "source": "dollar",
+    "target": "cent"
+   },
+   {
+    "source": "jewellery",
+    "target": "bead"
+   },
+   {
+    "source": "poem",
+    "target": "stanza"
+   },
+   {
+    "source": "teapot",
+    "target": "spout"
+   },
+   {
+    "source": "gramm",
+    "target": "milligram"
+   },
+   {
+    "source": "day",
+    "target": "hour"
+   },
+   {
+    "source": "window",
+    "target": "pane"
+   },
+   {
+    "source": "orthography",
+    "target": "hyphenation"
+   },
+   {
+    "source": "railcar",
+    "target": "suspension"
+   },
+   {
+    "source": "flower",
+    "target": "petal"
+   },
+   {
+    "source": "filename",
+    "target": "extension"
+   },
+   {
+    "source": "dress",
+    "target": "sleeve"
+   },
+   {
+    "source": "brush",
+    "target": "bristle"
+   },
+   {
+    "source": "chair",
+    "target": "seat"
+   },
+   {
+    "source": "bird",
+    "target": "feathers"
+   },
+   {
+    "source": "staircase",
+    "target": "step"
+   },
+   {
+    "source": "bus",
+    "target": "seats"
+   },
+   {
+    "source": "castle",
+    "target": "donjon"
+   },
+   {
+    "source": "piano",
+    "target": "keyboard"
+   },
+   {
+    "source": "door",
+    "target": "hinge"
+   },
+   {
+    "source": "telephone",
+    "target": "receiver"
+   },
+   {
+    "source": "church",
+    "target": "altar"
+   },
+   {
+    "source": "car",
+    "target": "engine"
+   },
+   {
+    "source": "pie",
+    "target": "crust"
+   },
+   {
+    "source": "comb",
+    "target": "teeth"
+   },
+   {
+    "source": "typewriter",
+    "target": "keyboard"
+   },
+   {
+    "source": "tonne",
+    "target": "kilogram"
+   },
+   {
+    "source": "apartment",
+    "target": "bedroom"
+   },
+   {
+    "source": "harbor",
+    "target": "dock"
+   },
+   {
+    "source": "pub",
+    "target": "bar"
+   },
+   {
+    "source": "movie",
+    "target": "scene"
+   },
+   {
+    "source": "tripod",
+    "target": "leg"
+   },
+   {
+    "source": "radio",
+    "target": "receiver"
+   },
+   {
+    "source": "womb",
+    "target": "cervix"
+   },
+   {
+    "source": "guitar",
+    "target": "string"
+   },
+   {
+    "source": "table",
+    "target": "tabletop"
+   },
+   {
+    "source": "jail",
+    "target": "cell"
+   },
+   {
+    "source": "seafront",
+    "target": "harbor"
+   },
+   {
+    "source": "gigabit",
+    "target": "megabit"
+   },
+   {
+    "source": "byte",
+    "target": "bit"
+   },
+   {
+    "source": "torso",
+    "target": "chest"
+   },
+   {
+    "source": "sonata",
+    "target": "movement"
+   },
+   {
+    "source": "cat",
+    "target": "whiskers"
+   }
+  ]
+ },
+ "L07_synonyms_intensity": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "damp",
+    "target": "drenched"
+   },
+   {
+    "source": "cry",
+    "target": "scream"
+   },
+   {
+    "source": "jog",
+    "target": "run"
+   },
+   {
+    "source": "warm",
+    "target": "hot"
+   },
+   {
+    "source": "afraid",
+    "target": "terrified"
+   },
+   {
+    "source": "unhappy",
+    "target": "miserable"
+   },
+   {
+    "source": "rain",
+    "target": "deluge"
+   },
+   {
+    "source": "necessary",
+    "target": "essential"
+   },
+   {
+    "source": "hungry",
+    "target": "starving"
+   },
+   {
+    "source": "confused",
+    "target": "lost"
+   },
+   {
+    "source": "sniffles",
+    "target": "pneumonia"
+   },
+   {
+    "source": "well",
+    "target": "flourishing"
+   },
+   {
+    "source": "opposed",
+    "target": "averse"
+   },
+   {
+    "source": "house",
+    "target": "palace"
+   },
+   {
+    "source": "indulge",
+    "target": "pamper"
+   },
+   {
+    "source": "like",
+    "target": "love"
+   },
+   {
+    "source": "bad",
+    "target": "awful"
+   },
+   {
+    "source": "giggle",
+    "target": "laugh"
+   },
+   {
+    "source": "dinner",
+    "target": "feast"
+   },
+   {
+    "source": "sea",
+    "target": "ocean"
+   },
+   {
+    "source": "angry",
+    "target": "furious"
+   },
+   {
+    "source": "creative",
+    "target": "ingenious"
+   },
+   {
+    "source": "boring",
+    "target": "tedious"
+   },
+   {
+    "source": "sad",
+    "target": "desparate"
+   },
+   {
+    "source": "chuckle",
+    "target": "laugh"
+   },
+   {
+    "source": "cat",
+    "target": "lion"
+   },
+   {
+    "source": "doze",
+    "target": "sleep"
+   },
+   {
+    "source": "pain",
+    "target": "torment"
+   },
+   {
+    "source": "faith",
+    "target": "fanatism"
+   },
+   {
+    "source": "poorly",
+    "target": "afflicted"
+   },
+   {
+    "source": "irritate",
+    "target": "enrage"
+   },
+   {
+    "source": "strong",
+    "target": "powerful"
+   },
+   {
+    "source": "monkey",
+    "target": "gorilla"
+   },
+   {
+    "source": "soon",
+    "target": "immediately"
+   },
+   {
+    "source": "want",
+    "target": "crave"
+   },
+   {
+    "source": "dislike",
+    "target": "hate"
+   },
+   {
+    "source": "nap",
+    "target": "sleep"
+   },
+   {
+    "source": "happy",
+    "target": "ecstatic"
+   },
+   {
+    "source": "unfortunate",
+    "target": "tragic"
+   },
+   {
+    "source": "pony",
+    "target": "horse"
+   },
+   {
+    "source": "drizzle",
+    "target": "rain"
+   },
+   {
+    "source": "tired",
+    "target": "exhausted"
+   },
+   {
+    "source": "guilty",
+    "target": "remorseful"
+   },
+   {
+    "source": "snack",
+    "target": "meal"
+   },
+   {
+    "source": "love",
+    "target": "adore"
+   },
+   {
+    "source": "excited",
+    "target": "agitated"
+   },
+   {
+    "source": "tasty",
+    "target": "delicious"
+   },
+   {
+    "source": "interesting",
+    "target": "exciting"
+   },
+   {
+    "source": "lake",
+    "target": "sea"
+   },
+   {
+    "source": "ask",
+    "target": "beg"
+   }
+  ]
+ },
+ "L08_synonyms_exact": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "style",
+    "target": "manner"
+   },
+   {
+    "source": "sweets",
+    "target": "confectionery"
+   },
+   {
+    "source": "identical",
+    "target": "same"
+   },
+   {
+    "source": "rock",
+    "target": "stone"
+   },
+   {
+    "source": "confused",
+    "target": "baffled"
+   },
+   {
+    "source": "package",
+    "target": "parcel"
+   },
+   {
+    "source": "father",
+    "target": "dad"
+   },
+   {
+    "source": "railway",
+    "target": "railroad"
+   },
+   {
+    "source": "reasonable",
+    "target": "sensible"
+   },
+   {
+    "source": "harbor",
+    "target": "seaport"
+   },
+   {
+    "source": "organized",
+    "target": "arranged"
+   },
+   {
+    "source": "flower",
+    "target": "blossom"
+   },
+   {
+    "source": "honest",
+    "target": "sincere"
+   },
+   {
+    "source": "murder",
+    "target": "slaying"
+   },
+   {
+    "source": "help",
+    "target": "aid"
+   },
+   {
+    "source": "phone",
+    "target": "telephone"
+   },
+   {
+    "source": "obsolete",
+    "target": "outdated"
+   },
+   {
+    "source": "portion",
+    "target": "part"
+   },
+   {
+    "source": "spouse",
+    "target": "partner"
+   },
+   {
+    "source": "airplane",
+    "target": "aeroplane"
+   },
+   {
+    "source": "intelligent",
+    "target": "clever"
+   },
+   {
+    "source": "rational",
+    "target": "logical"
+   },
+   {
+    "source": "mesh",
+    "target": "gauze"
+   },
+   {
+    "source": "mend",
+    "target": "repair"
+   },
+   {
+    "source": "shore",
+    "target": "coast"
+   },
+   {
+    "source": "child",
+    "target": "kid"
+   },
+   {
+    "source": "mother",
+    "target": "mom"
+   },
+   {
+    "source": "lady",
+    "target": "madam"
+   },
+   {
+    "source": "snake",
+    "target": "serpent"
+   },
+   {
+    "source": "villain",
+    "target": "scoundrel"
+   },
+   {
+    "source": "monument",
+    "target": "memorial"
+   },
+   {
+    "source": "incorrect",
+    "target": "wrong"
+   },
+   {
+    "source": "baby",
+    "target": "infant"
+   },
+   {
+    "source": "dollars",
+    "target": "bucks"
+   },
+   {
+    "source": "emphasis",
+    "target": "accent"
+   },
+   {
+    "source": "lad",
+    "target": "chap"
+   },
+   {
+    "source": "clothes",
+    "target": "clothing"
+   },
+   {
+    "source": "jewel",
+    "target": "gem"
+   },
+   {
+    "source": "vocabulary",
+    "target": "lexicon"
+   },
+   {
+    "source": "hieroglyph",
+    "target": "hieroglyphic"
+   },
+   {
+    "source": "sofa",
+    "target": "couch"
+   },
+   {
+    "source": "cloth",
+    "target": "fabric"
+   },
+   {
+    "source": "list",
+    "target": "listing"
+   },
+   {
+    "source": "homogeneous",
+    "target": "uniform"
+   },
+   {
+    "source": "lazy",
+    "target": "indolent"
+   },
+   {
+    "source": "new",
+    "target": "modern"
+   },
+   {
+    "source": "loyal",
+    "target": "faithful"
+   },
+   {
+    "source": "bicycle",
+    "target": "bike"
+   },
+   {
+    "source": "market",
+    "target": "marketplace"
+   },
+   {
+    "source": "auto",
+    "target": "car"
+   }
+  ]
+ },
+ "L09_antonyms_gradable": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "beautiful",
+    "target": "ugly"
+   },
+   {
+    "source": "pale",
+    "target": "tanned"
+   },
+   {
+    "source": "clear",
+    "target": "vague"
+   },
+   {
+    "source": "white",
+    "target": "black"
+   },
+   {
+    "source": "sweet",
+    "target": "sour"
+   },
+   {
+    "source": "cooked",
+    "target": "raw"
+   },
+   {
+    "source": "hard",
+    "target": "soft"
+   },
+   {
+    "source": "sane",
+    "target": "crazy"
+   },
+   {
+    "source": "tight",
+    "target": "loose"
+   },
+   {
+    "source": "normal",
+    "target": "abnormal"
+   },
+   {
+    "source": "cheap",
+    "target": "expensive"
+   },
+   {
+    "source": "colorful",
+    "target": "colorless"
+   },
+   {
+    "source": "familiar",
+    "target": "unfamiliar"
+   },
+   {
+    "source": "long",
+    "target": "short"
+   },
+   {
+    "source": "introvert",
+    "target": "extravert"
+   },
+   {
+    "source": "competent",
+    "target": "incompetent"
+   },
+   {
+    "source": "slow",
+    "target": "fast"
+   },
+   {
+    "source": "warm",
+    "target": "cool"
+   },
+   {
+    "source": "fat",
+    "target": "thin"
+   },
+   {
+    "source": "dry",
+    "target": "wet"
+   },
+   {
+    "source": "generous",
+    "target": "stingy"
+   },
+   {
+    "source": "happy",
+    "target": "sad"
+   },
+   {
+    "source": "common",
+    "target": "rare"
+   },
+   {
+    "source": "decisive",
+    "target": "hesitating"
+   },
+   {
+    "source": "aware",
+    "target": "unaware"
+   },
+   {
+    "source": "willing",
+    "target": "unwilling"
+   },
+   {
+    "source": "full",
+    "target": "empty"
+   },
+   {
+    "source": "bright",
+    "target": "pale"
+   },
+   {
+    "source": "concerned",
+    "target": "unconcerned"
+   },
+   {
+    "source": "wide",
+    "target": "narrow"
+   },
+   {
+    "source": "tasty",
+    "target": "tasteless"
+   },
+   {
+    "source": "gaseous",
+    "target": "solid"
+   },
+   {
+    "source": "able",
+    "target": "unable"
+   },
+   {
+    "source": "interesting",
+    "target": "uninteresting"
+   },
+   {
+    "source": "energetic",
+    "target": "lethargic"
+   },
+   {
+    "source": "close",
+    "target": "distant"
+   },
+   {
+    "source": "young",
+    "target": "old"
+   },
+   {
+    "source": "rich",
+    "target": "poor"
+   },
+   {
+    "source": "noisy",
+    "target": "silent"
+   },
+   {
+    "source": "abundant",
+    "target": "scarce"
+   },
+   {
+    "source": "organized",
+    "target": "unorganized"
+   },
+   {
+    "source": "short",
+    "target": "tall"
+   },
+   {
+    "source": "lumpy",
+    "target": "flat"
+   },
+   {
+    "source": "clean",
+    "target": "dirty"
+   },
+   {
+    "source": "big",
+    "target": "small"
+   },
+   {
+    "source": "large",
+    "target": "small"
+   },
+   {
+    "source": "simple",
+    "target": "difficult"
+   },
+   {
+    "source": "sincere",
+    "target": "insincere"
+   },
+   {
+    "source": "hot",
+    "target": "cold"
+   },
+   {
+    "source": "dangerous",
+    "target": "safe"
+   }
+  ]
+ },
+ "L10_antonyms_binary": {
+  "category": "lexicographic_semantics",
+  "arity": 1,
+  "pairs": [
+   {
+    "source": "inbound",
+    "target": "outbound"
+   },
+   {
+    "source": "drop",
+    "target": "lift"
+   },
+   {
+    "source": "after",
+    "target": "before"
+   },
+   {
+    "source": "off",
+    "target": "on"
+   },
+   {
+    "source": "climb",
+    "target": "descend"
+   },
+   {
+    "source": "backward",
+    "target": "forward"
+   },
+   {
+    "source": "top",
+    "target": "bottom"
+   },
+   {
+    "source": "forget",
+    "target": "remember"
+   },
+   {
+    "source": "occupied",
+    "target": "vacant"
+   },
+   {
+    "source": "in",
+    "target": "out"
+   },
+   {
+    "source": "southeast",
+    "target": "southwest"
+   },
+   {
+    "source": "outward",
+    "target": "upward"
+   },
+   {
+    "source": "beginning",
+    "target": "end"
+   },
+   {
+    "source": "input",
+    "target": "output"
+   },
+   {
+    "source": "downslope",
+    "target": "upslope"
+   },
+   {
+    "source": "first",
+    "target": "last"
+   },
+   {
+    "source": "uphill",
+    "target": "downhill"
+   },
+   {
+    "source": "submerge",
+    "target": "emerge"
+   },
+   {
+    "source": "interior",
+    "target": "exterior"
+   },
+   {
+    "source": "inside",
+    "target": "outside"
+   },
+   {
+    "source": "over",
+    "target": "under"
+   },
+   {
+    "source": "dynamic",
+    "target": "static"
+   },
+   {
+    "source": "exit",
+    "target": "entrance"
+   },
+   {
+    "source": "mortal",
+    "target": "immortal"
+   },
+   {
+    "source": "employ",
+    "target": "dismiss"
+   },
+   {
+    "source": "decrement",
+    "target": "increment"
+   },
+   {
+    "source": "descend",
+    "target": "ascend"
+   },
+   {
+    "source": "proceed",
+    "target": "retreat"
+   },
+   {
+    "source": "below",
+    "target": "above"
+   },
+   {
+    "source": "inhale",
+    "target": "exhale"
+   },
+   {
+    "source": "ahead",
+    "target": "behind"
+   },
+   {
+    "source": "down",
+    "target": "up"
+   },
+   {
+    "source": "fall",
+    "target": "rise"
+   },
+   {
+    "source": "toward",
+    "target": "away"
+   },
+   {
+    "source": "rise",
+    "target": "sink"
+   },
+   {
+    "source": "before",
+    "target": "after"
+   },
+   {
+    "source": "true",
+    "target": "false"
+   },
+   {
+    "source": "south",
+    "target": "north"
+   },
+   {
+    "source": "inverse",
+    "target": "reverse"
+   },
+   {
+    "source": "internal",
+    "target": "external"
+   },
+   {
+    "source": "dive",
+    "target": "emerge"
+   },
+   {
+    "source": "under",
+    "target": "over"
+   },
+   {
+    "source": "out",
+    "target": "in"
+   },
+   {
+    "source": "front",
+    "target": "back"
+   },
+   {
+    "source": "anterior",
+    "target": "posterior"
+   },
+   {
+    "source": "dead",
+    "target": "alive"
+   },
+   {
+    "source": "forward",
+    "target": "backward"
+   },
+   {
+    "source": "up",
+    "target": "down"
+   },
+   {
+    "source": "previously",
+    "target": "subsequently"
+   },
+   {
+    "source": "west",
+    "target": "east"
+   }
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+--- 10,000 paragraphs --- lex-v6 tokens 1,967,917 (1.195x bpe)
+    prior filled 11,891/16,002 rows (7 operators from atlas displacements)
+  seed 0 bpe     bits/char 2.9913
+  seed 0 rand    bits/char 2.7167
+  seed 0 rand02  bits/char 2.3090
+  seed 0 proto   bits/char 2.3089
+  seed 0 shuf    bits/char 2.3090
+  seed 0 frozen  bits/char 3.1517
+  seed 1 bpe     bits/char 2.9846
+  seed 1 rand    bits/char 2.6694
+  seed 1 rand02  bits/char 2.3090
+  seed 1 proto   bits/char 2.3087
+  seed 1 shuf    bits/char 2.3090
+  seed 1 frozen  bits/char 3.1517
+  seed 2 bpe     bits/char 2.9342
+  seed 2 rand    bits/char 2.6465
+  seed 2 rand02  bits/char 2.3090
+  seed 2 proto   bits/char 2.3088
+  seed 2 shuf    bits/char 2.3091
+  seed 2 frozen  bits/char 3.1518
+
+--- 40,000 paragraphs --- lex-v6 tokens 7,875,998 (1.199x bpe)
+    prior filled 11,796/16,002 rows (7 operators from atlas displacements)
+  seed 0 bpe     bits/char 1.9639
+  seed 0 rand    bits/char 1.9383
+  seed 0 rand02  bits/char 1.8838
+  seed 0 proto   bits/char 1.8577
+  seed 0 shuf    bits/char 1.8857
+  seed 0 frozen  bits/char 2.8694
+  seed 1 bpe     bits/char 1.9592
+  seed 1 rand    bits/char 1.9449
+  seed 1 rand02  bits/char 1.9116
+  seed 1 proto   bits/char 1.8699
+  seed 1 shuf    bits/char 1.8842
+  seed 1 frozen  bits/char 2.8930
+  seed 2 bpe     bits/char 1.9530
+  seed 2 rand    bits/char 1.9522
+  seed 2 rand02  bits/char 1.8755
+  seed 2 proto   bits/char 1.8784
+  seed 2 shuf    bits/char 1.8838
+  seed 2 frozen  bits/char 2.8846
+
+================================================================================
+paragraphs        bpe     rand   rand02    proto     shuf   frozen proto-rand02  proto-shuf
+------------------------------------------------------------------------------------------
+10,000          2.970    2.678    2.309    2.309    2.309    3.152      -0.0002     -0.0002
+40,000          1.959    1.945    1.890    1.869    1.885    2.882      -0.0216     -0.0159
+
+rand   : nn.Embedding default N(0,1) -- a STRAWMAN, kept only to show the trap
+rand02 : scale-matched Gaussian, the honest baseline
+proto-rand02 : does the pretrained geometry help over a well-scaled random init?
+proto-shuf   : is it the GEOMETRY, or just the init statistics? (the null)
+LEAKAGE: distilbert saw Wikipedia; wikitext IS Wikipedia. This is transfer,
+         not 'extracting more from a small corpus'. See module docstring.
