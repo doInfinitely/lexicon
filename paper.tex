@@ -34,6 +34,60 @@ map.'' The paper doubles as a catalogue of measurement traps: nearly every stron
 found was, on first measurement, a confound in the direction of our hopes.
 \end{abstract}
 
+\section{Introduction}
+Language models tokenize with subword schemes---byte-pair encoding and its relatives---that
+are optimized for compression, not morphology. A word like Finnish \textit{taloissamme}
+(``in our houses'') is shattered into pieces that cut across morpheme boundaries, and every
+inflected form of a lemma is estimated largely independently. This is wasteful exactly where
+a language inflects heavily: the model must learn each of a lemma's dozens or hundreds of
+surface forms as a separate distribution.
+
+We ask a narrow, quantitative question: if we hand the model an explicit morphological prior
+---factoring a word's input embedding into a lemma embedding plus a learned operator for its
+inflection---does next-token prediction improve, by how much, and \emph{why}? We measure in
+\bc{} of the original text, the only measure comparable across tokenizers, and we control the
+result three ways: against a byte-fallback BPE baseline that cannot cheat by discarding rare
+words; against a pure word-level tokenizer, to separate the tokenizer from the factorization;
+and against a shuffled-root null that keeps the factorization's capacity but destroys the
+\emph{correctness} of the morphological grouping.
+
+Our contributions are (i) a controlled cross-linguistic measurement showing the prior helps
+in proportion to a language's inflection, negligibly in English and 20--40$\times$ more in
+five richer languages; (ii) the finding, from the shuffled-root null, that most of the gain
+is generic low-rank pooling rather than morphology-specific alignment; (iii) the negative
+results that derivation contributes nothing to a language model and that operator-as-token is
+worse than operator-as-affine-map; and (iv) a catalogue of measurement traps, since nearly
+every effect we report was, on first measurement, a confound in the direction of our
+hypothesis.
+
+\section{Related work}
+\emph{(Bibliography is a TODO; the works below are named for orientation and their exact
+citations should be verified before circulation.)}
+
+\textbf{Subword tokenization.} BPE (Sennrich et al.) and unigram/\textsc{SentencePiece}
+(Kudo) are the standard; subword regularization and BPE-dropout (Kudo; Provilkov et al.)
+show that tokenization is a modeling choice with real perplexity consequences. Unsupervised
+morphological segmentation (Morfessor; Creutz \& Lagus) predates the neural era. Our baseline
+is byte-level BPE with a byte fallback, and our central metric point is that the apparent
+sequence-length cost of word-level tokenization is mostly an \texttt{<unk>}-accounting
+artifact (\S\ref{sec:traps}).
+
+\textbf{Morphology-aware and factored embeddings.} Character-aware neural language models
+(Kim et al.) and compositional-morphology embeddings (Botha \& Blunsom; Vania \& Lopez) build
+word representations from sub-lexical structure. Our factorization is deliberately minimal---a
+lemma embedding plus a low-rank affine operator per inflection slot, precomputed into an
+ordinary embedding table---so it is a structured prior at zero inference cost rather than a
+runtime character encoder. The novel component is the \emph{shuffled-root null}, which lets us
+ask not whether structure helps but whether the \emph{morphological} structure specifically
+helps.
+
+\textbf{Multilingual and low-resource morphology.} Massively multilingual models (mBERT,
+XLM-R) and the Universal Dependencies treebanks make controlled cross-linguistic measurement
+possible; we use UD's gold lemma-and-features as the factorization, avoiding an analyzer
+confound. Our practical conclusion---that the prior pays most in the data-scarce,
+morphologically-rich regime---points at low-resource agglutinative and fusional languages as
+the setting where it matters.
+
 \section{Setup}
 \textbf{Metric.} \bc{} over the original characters, counting only characters inside the
 scored window. Cross-entropy is \emph{not} comparable across tokenizers (a lexeme stream
@@ -197,5 +251,43 @@ data is scarce and morphology is rich, and it is a structured-pooling effect mor
 linguistic-correctness one. Derivation and the elaborate operator ``language'' we started with
 are not worth the complexity for an LM, though they remain valid descriptions of the geometry
 of English word embeddings.
+
+\appendix
+\section{A sense-tokenization companion experiment}
+\label{app:sense}
+A separate exploration asked the dual question for \emph{polysemy}: if morphology makes a
+lemma's meaning context-free by pooling its inflected forms, does splitting a word by
+\emph{sense} help? We built a coarse sense inventory for 23{,}818 words (2.35 senses/word,
+including proper-noun and corpus-specific senses WordNet lacks) with a large model, then
+directly tagged 3.26M wikitext occurrences by sense via a batched API run
+($\sim$15$\times$ the size of SemCor). The dataset and dictionary are the deliverable; on top
+of them we trained two disambiguators and compared them on a common held-out set
+(Table~\ref{tab:wsd}).
+
+\begin{table}[h]\centering
+\caption{Sense disambiguators on a common 30k held-out set (\emph{balanced} = word whose top
+sense is $<$75\% of its occurrences). The trained cross-encoder wins everywhere once the
+evaluation is fair; a skew-routed ensemble is worse than the cross-encoder alone.}
+\label{tab:wsd}
+\begin{tabular}{lccc}
+\toprule
+disambiguator & all & balanced & skewed \\
+\midrule
+nearest-centroid propagator (frozen encoder) & 0.743 & --- & --- \\
+cross-encoder (target-token readout + target-mask, trained) & \textbf{0.843} & 0.740 & 0.896 \\
+skew-routed ensemble & 0.779 & 0.783 & 0.773 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Two lessons transfer from the main paper. First, \emph{measure fairly}: the propagator
+appeared to win (0.879) under a per-word evaluation that only scored well-populated words; on
+a common all-words set it scores 0.743 and the cross-encoder wins cleanly, so the ensemble
+built on the propagator's apparent skewed-word strength loses. Second, \emph{point the model
+where the signal is}: reading the target word's own contextual token rather than the
+sequence \texttt{[CLS]}, and injecting a target-mask embedding (segment-embedding style,
+zero-initialized) rather than bracketing the target in text, took balanced-word accuracy from
+0.68 to 0.74---the earlier ``0.68 ceiling'' was undertraining and a mis-placed readout, not a
+limit. A \emph{cased} backbone did not help: context already carries the disambiguating signal.
 
 \end{document}
