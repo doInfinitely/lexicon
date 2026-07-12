@@ -6,6 +6,7 @@
 \usepackage{siunitx}
 \usepackage{xcolor}
 \usepackage{caption}
+\usepackage[numbers,square]{natbib}
 \usepackage[hidelinks]{hyperref}
 \captionsetup{font=small,labelfont=bf}
 \newcommand{\bc}{bits/char}
@@ -61,32 +62,35 @@ every effect we report was, on first measurement, a confound in the direction of
 hypothesis.
 
 \section{Related work}
-\emph{(Bibliography is a TODO; the works below are named for orientation and their exact
-citations should be verified before circulation.)}
+\emph{(Citations reconstructed from memory; venues/pages to be verified against originals.)}
 
-\textbf{Subword tokenization.} BPE (Sennrich et al.) and unigram/\textsc{SentencePiece}
-(Kudo) are the standard; subword regularization and BPE-dropout (Kudo; Provilkov et al.)
+\textbf{Subword tokenization.} BPE \citep{sennrich2016bpe} and
+unigram/\textsc{SentencePiece} \citep{kudo2018subword,kudo2018sentencepiece} are the
+standard; subword regularization and BPE-dropout \citep{kudo2018subword,provilkov2020bpedropout}
 show that tokenization is a modeling choice with real perplexity consequences. Unsupervised
-morphological segmentation (Morfessor; Creutz \& Lagus) predates the neural era. Our baseline
+morphological segmentation \citep{creutz2007morfessor} predates the neural era. Our baseline
 is byte-level BPE with a byte fallback, and our central metric point is that the apparent
 sequence-length cost of word-level tokenization is mostly an \texttt{<unk>}-accounting
 artifact (\S\ref{sec:traps}).
 
 \textbf{Morphology-aware and factored embeddings.} Character-aware neural language models
-(Kim et al.) and compositional-morphology embeddings (Botha \& Blunsom; Vania \& Lopez) build
-word representations from sub-lexical structure. Our factorization is deliberately minimal---a
-lemma embedding plus a low-rank affine operator per inflection slot, precomputed into an
-ordinary embedding table---so it is a structured prior at zero inference cost rather than a
-runtime character encoder. The novel component is the \emph{shuffled-root null}, which lets us
-ask not whether structure helps but whether the \emph{morphological} structure specifically
-helps.
+\citep{kim2016charaware} and compositional-morphology embeddings
+\citep{botha2014compositional,vania2017characters} build word representations from
+sub-lexical structure. Our factorization is deliberately minimal---a lemma embedding plus a
+low-rank affine operator per inflection slot, precomputed into an ordinary embedding
+table---so it is a structured prior at zero inference cost rather than a runtime character
+encoder. The novel component is the \emph{shuffled-root null}, which lets us ask not whether
+structure helps but whether the \emph{morphological} structure specifically helps.
 
-\textbf{Multilingual and low-resource morphology.} Massively multilingual models (mBERT,
-XLM-R) and the Universal Dependencies treebanks make controlled cross-linguistic measurement
-possible; we use UD's gold lemma-and-features as the factorization, avoiding an analyzer
-confound. Our practical conclusion---that the prior pays most in the data-scarce,
-morphologically-rich regime---points at low-resource agglutinative and fusional languages as
-the setting where it matters.
+\textbf{Multilingual and low-resource morphology.} Massively multilingual models
+\citep{devlin2019bert,conneau2020xlmr} and the Universal Dependencies treebanks
+\citep{nivre2020ud} make controlled cross-linguistic measurement possible; we use UD's gold
+lemma-and-features as the factorization, avoiding an analyzer confound. Our practical
+conclusion---that the prior pays most in the data-scarce, morphologically-rich
+regime---points at low-resource agglutinative and fusional languages as the setting where it
+matters. The companion sense-tokenization experiment (Appendix~\ref{app:sense}) builds on
+gloss-based WSD \citep{huang2019glossbert,loureiro2019lmms} over
+WordNet/SemCor \citep{fellbaum1998wordnet,miller1993semcor}.
 
 \section{Setup}
 \textbf{Metric.} \bc{} over the original characters, counting only characters inside the
@@ -261,6 +265,9 @@ data is scarce and morphology is rich, and it is a structured-pooling effect mor
 linguistic-correctness one. Derivation and the elaborate operator ``language'' we started with
 are not worth the complexity for an LM, though they remain valid descriptions of the geometry
 of English word embeddings.
+
+\bibliographystyle{plainnat}
+\bibliography{refs}
 
 \appendix
 \section{A sense-tokenization companion experiment}
