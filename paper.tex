@@ -194,8 +194,16 @@ shuffled-root null) is near zero except in Turkish. Languages ordered by inflect
 \end{figure}
 
 \textbf{Finding 1 (robust).} The factorization gain is 20--40$\times$ larger in every rich
-language than in English; the ordering is roughly monotonic in inflection rate (Finnish a low
-outlier). English is close to the \emph{worst} language to demonstrate this on.
+language than in English; the ordering is roughly monotonic in inflection rate. English is
+close to the \emph{worst} language to demonstrate this on.
+
+\textbf{Finding 1a (the Finnish outlier is corpus size, not morphology).} Finnish is a low
+outlier ($-0.229$ at 80\% inflection, below Turkish's $-0.359$ at 66\%) only because its
+treebank is 2.3$\times$ larger. The gain is a sample-complexity effect (cf.\ the English
+ladder, Fig.~\ref{fig:ladder}): halving the Finnish corpus grows the gain to $-0.391$,
+\emph{above} Turkish, restoring monotonicity. The cross-linguistic table therefore conflates
+morphological richness with corpus size---a confound (see \S\ref{sec:limits})---but the
+resolution reinforces the core claim: less data, bigger gain, in every language.
 
 \textbf{Finding 2 (the honest caveat).} The morphology-specific component is clearly nonzero
 only in Turkish; in German it is even slightly positive (shuffled beats real). Most of the
@@ -239,9 +247,11 @@ parameterization for a causal LM.
 
 \section{Limitations}\label{sec:limits}
 Single machine; 2--3 seeds; treebank-scale corpora (17k--518k tokens) for the cross-linguistic
-result, a 200k-paragraph wikitext subset for English. The ordering is not perfectly monotonic
-(Finnish). Korean (no \textsc{feats}), Arabic (lemmatization artifact), and Czech (parse
-failure) were dropped; the sample is Indo-European-heavy plus Turkish/Finnish. No comparison to
+result, a 200k-paragraph wikitext subset for English. \textbf{Corpus size is not controlled
+across languages}: the treebanks range 17k--518k tokens, and since the gain is
+sample-complexity-driven (Finding 1a), the \emph{affine--free} column conflates morphology
+with corpus size---a matched-token cross-linguistic sweep is the needed follow-up. Korean
+(no \textsc{feats}), Arabic (lemmatization artifact), and Czech (parse failure) were dropped; the sample is Indo-European-heavy plus Turkish/Finnish. No comparison to
 a modern large-vocab BPE at scale or to subword regularization; the trunk is tiny.
 
 \section{Takeaway}
