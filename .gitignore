@@ -28,3 +28,7 @@ real/ts/*.pt
 # regenerable UD downloads
 ud/*.conllu
 .env
+fig/page_*.png
+*.aux
+*.log
+paper.bbl
