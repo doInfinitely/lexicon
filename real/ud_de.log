@@ -1,0 +1,27 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+de: 13413 train / 400 eval sents, 506,669 word-tokens (0.913x bpe)
+  vocab 16,001  lemmas 12,618  operators 182  (pruned from raw feature bundles at MIN_OP=25)
+  seed 0 bpe       bits/char 3.3599
+  seed 0 free      bits/char 3.1454
+  seed 0 affine    bits/char 2.9778
+  seed 0 shufroot  bits/char 2.9206
+  seed 1 bpe       bits/char 3.3854
+  seed 1 free      bits/char 3.1867
+  seed 1 affine    bits/char 2.9308
+  seed 1 shufroot  bits/char 2.9306
+  seed 2 bpe       bits/char 3.3874
+  seed 2 free      bits/char 3.1625
+  seed 2 affine    bits/char 2.9391
+  seed 2 shufroot  bits/char 2.9616
+
+==================================================================
+  bpe       3.3776 +- 0.0153
+  free      3.1649 +- 0.0208
+  affine    2.9492 +- 0.0251
+  shufroot  2.9376 +- 0.0214
+
+  free-bpe    -0.2127   (tokenizer)
+  affine-free -0.2156   (morphological prior)
+  affine-shuf +0.0117   (vs null)
+
+  English reference (10k para): affine-free -0.011, affine-shuf -0.007

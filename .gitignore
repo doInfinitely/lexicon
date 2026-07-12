@@ -24,3 +24,7 @@ nohup.out
 real/english/
 real/surface/
 real/ts/*.pt
+
+# regenerable UD downloads
+ud/*.conllu
+.env

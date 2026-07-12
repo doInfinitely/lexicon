@@ -48,8 +48,8 @@ def main():
         tr = full_tr[:rung]
         bpe = ByteBPETok(tr); bd = corpus(bpe, tr)
         tok = ByteWordTok(tr); data = corpus(tok, tr)
-        R, S, nR = tok.factorise()
-        Rs, Ss, _ = tok.factorise(shuffle_seed=0)
+        R, S, nR, _ = tok.factorise()
+        Rs, Ss, _, _ = tok.factorise(shuffle_seed=0)
         d0 = torch.zeros(len(SLOTS), D)
         ratio[rung] = len(data)/len(bd)
         print(f"\n--- {rung:,} paragraphs ---  bpe {len(bd):,}  word {len(data):,} "

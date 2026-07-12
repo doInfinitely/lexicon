@@ -1,0 +1,26 @@
+tr: 7400 train / 400 eval sents, 189,321 word-tokens (0.665x bpe)
+  vocab 16,001  lemmas 8,373  operators 185  (pruned from raw feature bundles at MIN_OP=25)
+  seed 0 bpe       bits/char 4.0629
+  seed 0 free      bits/char 4.1657
+  seed 0 affine    bits/char 3.7616
+  seed 0 shufroot  bits/char 3.8399
+  seed 1 bpe       bits/char 3.8839
+  seed 1 free      bits/char 4.1591
+  seed 1 affine    bits/char 3.8041
+  seed 1 shufroot  bits/char 3.8196
+  seed 2 bpe       bits/char 4.0210
+  seed 2 free      bits/char 4.1079
+  seed 2 affine    bits/char 3.7890
+  seed 2 shufroot  bits/char 3.8273
+
+==================================================================
+  bpe       3.9893 +- 0.0936
+  free      4.1443 +- 0.0316
+  affine    3.7849 +- 0.0215
+  shufroot  3.8290 +- 0.0102
+
+  free-bpe    +0.1550   (tokenizer)
+  affine-free -0.3594   (morphological prior)
+  affine-shuf -0.0441   (vs null)
+
+  English reference (10k para): affine-free -0.011, affine-shuf -0.007
