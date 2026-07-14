@@ -22,7 +22,7 @@ from lexicon.ts_lm import GPT, Block, DEVICE, OUT, CTX
 from lexicon.ts_eval2 import bits_per_char
 from lexicon.wt_scale import train_and_loss
 
-SEEDS = [0, 1, 2]
+SEEDS = [0, 1, 2][:int(__import__("os").environ.get("NSEEDS","3"))]
 L, D, H = 6, 384, 6
 RANK, NBYTE, VOCAB = 32, 256, 16000
 MIN_OP = 25
@@ -169,12 +169,43 @@ def eval_bpc(m, tok, sents):
     return nll / chars / math.log(2)
 
 
+def train_earlystop(m, data, V, evalfn, seed, maxsteps=6000, warm=300, every=300, patience=6, bs=24):
+    """warmup+constant LR; eval held-out every `every` steps; return best bits/char.
+    Fixes the overfitting that wrecked the matched-50k magnitudes (hundreds of epochs)."""
+    opt = torch.optim.AdamW(m.parameters(), lr=6e-4, weight_decay=0.1)
+    d = torch.from_numpy(data).long(); g = torch.Generator().manual_seed(seed)
+    best = 1e9; bad = 0
+    for step in range(1, maxsteps + 1):
+        for pg in opt.param_groups: pg["lr"] = 6e-4 * min(1.0, step / warm)
+        m.train()
+        ix = torch.randint(0, len(d) - CTX - 1, (bs,), generator=g)
+        x = torch.stack([d[i:i+CTX] for i in ix]).to(DEVICE)
+        y = torch.stack([d[i+1:i+1+CTX] for i in ix]).to(DEVICE)
+        loss = F.cross_entropy(m(x).reshape(-1, V), y.reshape(-1))
+        opt.zero_grad(); loss.backward()
+        torch.nn.utils.clip_grad_norm_(m.parameters(), 1.0); opt.step()
+        if step % every == 0:
+            b = evalfn(m)
+            if b < best - 1e-4: best = b; bad = 0
+            else:
+                bad += 1
+                if bad >= patience: break
+    return best
+
+
 def main():
     lang = sys.argv[1] if len(sys.argv) > 1 else "tr"
-    path = {"tr":"ud/tr_boun.conllu","fi":"ud/fi_tdt.conllu"}.get(lang, f"ud/{lang}.conllu")
+    path = {"tr":"ud/tr_boun.conllu","fi":"ud/fi_tdt.conllu","en":"ud/en_ewt.conllu"}.get(lang, f"ud/{lang}.conllu")
     sents = read_conllu(path)
     rng = np.random.default_rng(0); perm = rng.permutation(len(sents))
     ev = [sents[i] for i in perm[:400]]; tr = [sents[i] for i in perm[400:]]
+    MAXTOK=int(os.environ.get("MAXTOK","0"))
+    if MAXTOK:
+        capped=[]; ntok=0
+        for _s in tr:
+            capped.append(_s); ntok+=len(_s)
+            if ntok>=MAXTOK: break
+        tr=capped; print(f"  [MAXTOK] capped train to {ntok} word-tokens", flush=True)
     tok = UDTok(tr); bpe = ByteBPE(tr)
     R, S, nR = tok.factorise(); Rs, Ss, _ = tok.factorise(shuffle_seed=0)
     data = tok.encode_sents(tr); bd = bpe.encode_sents(tr)
@@ -182,24 +213,23 @@ def main():
           f"({len(data)/len(bd):.3f}x bpe)")
     print(f"  vocab {len(tok.itos):,}  lemmas {nR:,}  operators {len(tok.slots)}  "
           f"(pruned from raw feature bundles at MIN_OP={MIN_OP})", flush=True)
-    STEPS = 4000
+    STEPS = int(__import__("os").environ.get("STEPS","4000"))
     res = collections.defaultdict(list)
     for seed in SEEDS:
         for arm in ("bpe", "free", "affine", "shufroot"):
             torch.manual_seed(seed); np.random.seed(seed)
             if arm == "bpe":
-                m = GPT(len(bpe.itos), d=D, layers=L, heads=H); init_scale(m); m = m.to(DEVICE)
-                train_and_loss(m, bd, len(bpe.itos), steps=STEPS, seed=seed)
-                b = eval_bpc(m, bpe, ev)
+                m = GPT(len(bpe.itos), d=D, layers=L, heads=H); etok=bpe; V=len(bpe.itos); dat=bd
             elif arm == "free":
-                m = GPT(len(tok.itos), d=D, layers=L, heads=H); init_scale(m); m = m.to(DEVICE)
-                train_and_loss(m, data, len(tok.itos), steps=STEPS, seed=seed)
-                b = eval_bpc(m, tok, ev)
+                m = GPT(len(tok.itos), d=D, layers=L, heads=H); etok=tok; V=len(tok.itos); dat=data
             else:
                 rr, ss = (Rs, Ss) if arm == "shufroot" else (R, S)
-                m = AffineGPT(rr, ss, nR, len(tok.slots), "affine"); init_scale(m); m = m.to(DEVICE)
-                train_and_loss(m, data, len(tok.itos), steps=STEPS, seed=seed)
-                b = eval_bpc(m, tok, ev)
+                m = AffineGPT(rr, ss, nR, len(tok.slots), "affine"); etok=tok; V=len(tok.itos); dat=data
+            init_scale(m); m = m.to(DEVICE)
+            if os.environ.get("EARLYSTOP"):
+                b = train_earlystop(m, dat, V, lambda mm: eval_bpc(mm, etok, ev), seed)
+            else:
+                train_and_loss(m, dat, V, steps=STEPS, seed=seed); b = eval_bpc(m, etok, ev)
             res[arm].append(b)
             print(f"  seed {seed} {arm:<9} bits/char {b:.4f}", flush=True)
             del m; torch.cuda.empty_cache()
